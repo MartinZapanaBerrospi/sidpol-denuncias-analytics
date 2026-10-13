@@ -156,7 +156,7 @@ La suma de la población proyectada de los distritos frente a la población naci
 | 2025 | 34 350 244 | 34 179 939 | −0,50 % | 1 858 |
 | 2026 | 34 660 114 | 33 828 083 | **−2,40 %** | 1 515 |
 
-Cumple (±1 %) de 2018 a 2025. **2026 queda corto:** faltan 359 distritos. La Fase 3 los completa
+Cumple (±1 %) de 2018 a 2025, pero la suma nacional esconde que **varias provincias quedan cortas** (problema 19). **2026 queda corto:** faltan 359 distritos. La Fase 3 los completa
 con la población del último año disponible y marca esas filas.
 
 La cobertura de las denuncias es de 99,95 % a 100 % cada año: solo un distrito (Kumpirushiato,
@@ -184,6 +184,7 @@ Cusco) no tiene población en ningún año.
 | 16 | **Celdas atípicas** | 55 denuncias de estafa en San José de Sisa (San Martín) en octubre de 2025, con z = 22,5 | 3 celdas | Marcar, no excluir: son pocas y no alteran ningún total |
 | 17 | **Cobertura del sistema que crece** | Distritos con al menos una denuncia: 1 038 en 2018 y 1 336 en 2021 | Comparabilidad 2018–2021 | Documentar: parte del aumento 2018–2021 puede ser más comisarías registrando en el sistema, y un mes sin fila puede ser cero o falta de registro |
 | 18 | **El último año está incompleto** | 2026 llega a julio | 2026 | Documentar: las comparaciones con 2026 usan enero–julio |
+| 19 | **La población por distrito no suma la de su provincia** | Provincia de Trujillo, 2025: 1 223 977 habitantes oficiales y 1 136 345 sumando sus 11 distritos (−7,2 %) | Desde 2020; en 2025, 21 de 196 provincias; hasta −30 % en algunas. Provincias, departamentos y país sí cuadran entre sí | Corregir en la Fase 3: se reparte el total provincial oficial entre sus distritos en proporción a su población publicada, y se marca `poblacion_ajustada` |
 
 ## 7. Atípicos y rupturas
 

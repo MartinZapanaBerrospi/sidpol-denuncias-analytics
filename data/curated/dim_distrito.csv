@@ -1,0 +1,1840 @@
+ubigeo,distrito,distrito_unico,provincia,departamento_id,departamento,zona
+010101,Chachapoyas,Chachapoyas,Chachapoyas,1,Amazonas,Resto del país
+010102,Asuncion,Asuncion (Chachapoyas),Chachapoyas,1,Amazonas,Resto del país
+010103,Balsas,Balsas,Chachapoyas,1,Amazonas,Resto del país
+010104,Cheto,Cheto,Chachapoyas,1,Amazonas,Resto del país
+010105,Chiliquin,Chiliquin,Chachapoyas,1,Amazonas,Resto del país
+010106,Chuquibamba,Chuquibamba (Chachapoyas),Chachapoyas,1,Amazonas,Resto del país
+010107,Granada,Granada,Chachapoyas,1,Amazonas,Resto del país
+010108,Huancas,Huancas,Chachapoyas,1,Amazonas,Resto del país
+010109,La Jalca,La Jalca,Chachapoyas,1,Amazonas,Resto del país
+010110,Leimebamba,Leimebamba,Chachapoyas,1,Amazonas,Resto del país
+010111,Levanto,Levanto,Chachapoyas,1,Amazonas,Resto del país
+010112,Magdalena,Magdalena (Chachapoyas),Chachapoyas,1,Amazonas,Resto del país
+010113,Mariscal Castilla,Mariscal Castilla (Chachapoyas),Chachapoyas,1,Amazonas,Resto del país
+010114,Molinopampa,Molinopampa,Chachapoyas,1,Amazonas,Resto del país
+010115,Montevideo,Montevideo,Chachapoyas,1,Amazonas,Resto del país
+010116,Olleros,Olleros (Chachapoyas),Chachapoyas,1,Amazonas,Resto del país
+010117,Quinjalca,Quinjalca,Chachapoyas,1,Amazonas,Resto del país
+010118,San Francisco de Daguas,San Francisco de Daguas,Chachapoyas,1,Amazonas,Resto del país
+010119,San Isidro de Maino,San Isidro de Maino,Chachapoyas,1,Amazonas,Resto del país
+010120,Soloco,Soloco,Chachapoyas,1,Amazonas,Resto del país
+010121,Sonche,Sonche,Chachapoyas,1,Amazonas,Resto del país
+010201,Bagua,Bagua,Bagua,1,Amazonas,Resto del país
+010202,Aramango,Aramango,Bagua,1,Amazonas,Resto del país
+010203,Copallin,Copallin,Bagua,1,Amazonas,Resto del país
+010204,El Parco,El Parco,Bagua,1,Amazonas,Resto del país
+010205,Imaza,Imaza,Bagua,1,Amazonas,Resto del país
+010206,La Peca,La Peca,Bagua,1,Amazonas,Resto del país
+010301,Jumbilla,Jumbilla,Bongara,1,Amazonas,Resto del país
+010302,Chisquilla,Chisquilla,Bongara,1,Amazonas,Resto del país
+010303,Churuja,Churuja,Bongara,1,Amazonas,Resto del país
+010304,Corosha,Corosha,Bongara,1,Amazonas,Resto del país
+010305,Cuispes,Cuispes,Bongara,1,Amazonas,Resto del país
+010306,Florida,Florida,Bongara,1,Amazonas,Resto del país
+010307,Jazan,Jazan,Bongara,1,Amazonas,Resto del país
+010308,Recta,Recta,Bongara,1,Amazonas,Resto del país
+010309,San Carlos,San Carlos,Bongara,1,Amazonas,Resto del país
+010310,Shipasbamba,Shipasbamba,Bongara,1,Amazonas,Resto del país
+010311,Valera,Valera,Bongara,1,Amazonas,Resto del país
+010312,Yambrasbamba,Yambrasbamba,Bongara,1,Amazonas,Resto del país
+010401,Nieva,Nieva,Condorcanqui,1,Amazonas,Resto del país
+010402,El Cenepa,El Cenepa,Condorcanqui,1,Amazonas,Resto del país
+010403,Rio Santiago,Rio Santiago,Condorcanqui,1,Amazonas,Resto del país
+010501,Lamud,Lamud,Luya,1,Amazonas,Resto del país
+010502,Camporredondo,Camporredondo,Luya,1,Amazonas,Resto del país
+010503,Cocabamba,Cocabamba,Luya,1,Amazonas,Resto del país
+010504,Colcamar,Colcamar,Luya,1,Amazonas,Resto del país
+010505,Conila,Conila,Luya,1,Amazonas,Resto del país
+010506,Inguilpata,Inguilpata,Luya,1,Amazonas,Resto del país
+010507,Longuita,Longuita,Luya,1,Amazonas,Resto del país
+010508,Lonya Chico,Lonya Chico,Luya,1,Amazonas,Resto del país
+010509,Luya,Luya,Luya,1,Amazonas,Resto del país
+010510,Luya Viejo,Luya Viejo,Luya,1,Amazonas,Resto del país
+010511,Maria,Maria,Luya,1,Amazonas,Resto del país
+010512,Ocalli,Ocalli,Luya,1,Amazonas,Resto del país
+010513,Ocumal,Ocumal,Luya,1,Amazonas,Resto del país
+010514,Pisuquia,Pisuquia,Luya,1,Amazonas,Resto del país
+010515,Providencia,Providencia,Luya,1,Amazonas,Resto del país
+010516,San Cristobal,San Cristobal (Luya),Luya,1,Amazonas,Resto del país
+010517,San Francisco del Yeso,San Francisco del Yeso,Luya,1,Amazonas,Resto del país
+010518,San Jeronimo,San Jeronimo (Luya),Luya,1,Amazonas,Resto del país
+010519,San Juan de Lopecancha,San Juan de Lopecancha,Luya,1,Amazonas,Resto del país
+010520,Santa Catalina,Santa Catalina,Luya,1,Amazonas,Resto del país
+010521,Santo Tomas,Santo Tomas (Luya),Luya,1,Amazonas,Resto del país
+010522,Tingo,Tingo,Luya,1,Amazonas,Resto del país
+010523,Trita,Trita,Luya,1,Amazonas,Resto del país
+010601,San Nicolas,San Nicolas (Rodriguez de Mendoza),Rodriguez de Mendoza,1,Amazonas,Resto del país
+010602,Chirimoto,Chirimoto,Rodriguez de Mendoza,1,Amazonas,Resto del país
+010603,Cochamal,Cochamal,Rodriguez de Mendoza,1,Amazonas,Resto del país
+010604,Huambo,Huambo (Rodriguez de Mendoza),Rodriguez de Mendoza,1,Amazonas,Resto del país
+010605,Limabamba,Limabamba,Rodriguez de Mendoza,1,Amazonas,Resto del país
+010606,Longar,Longar,Rodriguez de Mendoza,1,Amazonas,Resto del país
+010607,Mariscal Benavides,Mariscal Benavides,Rodriguez de Mendoza,1,Amazonas,Resto del país
+010608,Milpuc,Milpuc,Rodriguez de Mendoza,1,Amazonas,Resto del país
+010609,Omia,Omia,Rodriguez de Mendoza,1,Amazonas,Resto del país
+010610,Santa Rosa,Santa Rosa (Rodriguez de Mendoza),Rodriguez de Mendoza,1,Amazonas,Resto del país
+010611,Totora,Totora,Rodriguez de Mendoza,1,Amazonas,Resto del país
+010612,Vista Alegre,Vista Alegre (Rodriguez de Mendoza),Rodriguez de Mendoza,1,Amazonas,Resto del país
+010701,Bagua Grande,Bagua Grande,Utcubamba,1,Amazonas,Resto del país
+010702,Cajaruro,Cajaruro,Utcubamba,1,Amazonas,Resto del país
+010703,Cumba,Cumba,Utcubamba,1,Amazonas,Resto del país
+010704,El Milagro,El Milagro,Utcubamba,1,Amazonas,Resto del país
+010705,Jamalca,Jamalca,Utcubamba,1,Amazonas,Resto del país
+010706,Lonya Grande,Lonya Grande,Utcubamba,1,Amazonas,Resto del país
+010707,Yamon,Yamon,Utcubamba,1,Amazonas,Resto del país
+020101,Huaraz,Huaraz,Huaraz,2,Áncash,Resto del país
+020102,Cochabamba,Cochabamba (Huaraz),Huaraz,2,Áncash,Resto del país
+020103,Colcabamba,Colcabamba (Huaraz),Huaraz,2,Áncash,Resto del país
+020104,Huanchay,Huanchay,Huaraz,2,Áncash,Resto del país
+020105,Independencia,Independencia (Huaraz),Huaraz,2,Áncash,Resto del país
+020106,Jangas,Jangas,Huaraz,2,Áncash,Resto del país
+020107,La Libertad,La Libertad,Huaraz,2,Áncash,Resto del país
+020108,Olleros,Olleros (Huaraz),Huaraz,2,Áncash,Resto del país
+020109,Pampas,Pampas (Huaraz),Huaraz,2,Áncash,Resto del país
+020110,Pariacoto,Pariacoto,Huaraz,2,Áncash,Resto del país
+020111,Pira,Pira,Huaraz,2,Áncash,Resto del país
+020112,Tarica,Tarica,Huaraz,2,Áncash,Resto del país
+020201,Aija,Aija,Aija,2,Áncash,Resto del país
+020202,Coris,Coris,Aija,2,Áncash,Resto del país
+020203,Huacllan,Huacllan,Aija,2,Áncash,Resto del país
+020204,La Merced,La Merced (Aija),Aija,2,Áncash,Resto del país
+020205,Succha,Succha,Aija,2,Áncash,Resto del país
+020301,Llamellin,Llamellin,Antonio Raymondi,2,Áncash,Resto del país
+020302,Aczo,Aczo,Antonio Raymondi,2,Áncash,Resto del país
+020303,Chaccho,Chaccho,Antonio Raymondi,2,Áncash,Resto del país
+020304,Chingas,Chingas,Antonio Raymondi,2,Áncash,Resto del país
+020305,Mirgas,Mirgas,Antonio Raymondi,2,Áncash,Resto del país
+020306,San Juan de Rontoy,San Juan de Rontoy,Antonio Raymondi,2,Áncash,Resto del país
+020401,Chacas,Chacas,Asuncion,2,Áncash,Resto del país
+020402,Acochaca,Acochaca,Asuncion,2,Áncash,Resto del país
+020501,Chiquian,Chiquian,Bolognesi,2,Áncash,Resto del país
+020502,Abelardo Pardo Lezameta,Abelardo Pardo Lezameta,Bolognesi,2,Áncash,Resto del país
+020503,Antonio Raymondi,Antonio Raymondi,Bolognesi,2,Áncash,Resto del país
+020504,Aquia,Aquia,Bolognesi,2,Áncash,Resto del país
+020505,Cajacay,Cajacay,Bolognesi,2,Áncash,Resto del país
+020506,Canis,Canis,Bolognesi,2,Áncash,Resto del país
+020507,Colquioc,Colquioc,Bolognesi,2,Áncash,Resto del país
+020508,Huallanca,Huallanca (Bolognesi),Bolognesi,2,Áncash,Resto del país
+020509,Huasta,Huasta,Bolognesi,2,Áncash,Resto del país
+020510,Huayllacayan,Huayllacayan,Bolognesi,2,Áncash,Resto del país
+020511,La Primavera,La Primavera,Bolognesi,2,Áncash,Resto del país
+020512,Mangas,Mangas,Bolognesi,2,Áncash,Resto del país
+020513,Pacllon,Pacllon,Bolognesi,2,Áncash,Resto del país
+020514,San Miguel de Corpanqui,San Miguel de Corpanqui,Bolognesi,2,Áncash,Resto del país
+020515,Ticllos,Ticllos,Bolognesi,2,Áncash,Resto del país
+020601,Carhuaz,Carhuaz,Carhuaz,2,Áncash,Resto del país
+020602,Acopampa,Acopampa,Carhuaz,2,Áncash,Resto del país
+020603,Amashca,Amashca,Carhuaz,2,Áncash,Resto del país
+020604,Anta,Anta (Carhuaz),Carhuaz,2,Áncash,Resto del país
+020605,Ataquero,Ataquero,Carhuaz,2,Áncash,Resto del país
+020606,Marcara,Marcara,Carhuaz,2,Áncash,Resto del país
+020607,Pariahuanca,Pariahuanca (Carhuaz),Carhuaz,2,Áncash,Resto del país
+020608,San Miguel de Aco,San Miguel de Aco,Carhuaz,2,Áncash,Resto del país
+020609,Shilla,Shilla,Carhuaz,2,Áncash,Resto del país
+020610,Tinco,Tinco,Carhuaz,2,Áncash,Resto del país
+020611,Yungar,Yungar,Carhuaz,2,Áncash,Resto del país
+020701,San Luis,San Luis (Carlos Fermin Fitzcarrald),Carlos Fermin Fitzcarrald,2,Áncash,Resto del país
+020702,San Nicolas,San Nicolas (Carlos Fermin Fitzcarrald),Carlos Fermin Fitzcarrald,2,Áncash,Resto del país
+020703,Yauya,Yauya,Carlos Fermin Fitzcarrald,2,Áncash,Resto del país
+020801,Casma,Casma,Casma,2,Áncash,Resto del país
+020802,Buena Vista Alta,Buena Vista Alta,Casma,2,Áncash,Resto del país
+020803,Comandante Noel,Comandante Noel,Casma,2,Áncash,Resto del país
+020804,Yautan,Yautan,Casma,2,Áncash,Resto del país
+020901,Corongo,Corongo,Corongo,2,Áncash,Resto del país
+020902,Aco,Aco (Corongo),Corongo,2,Áncash,Resto del país
+020903,Bambas,Bambas,Corongo,2,Áncash,Resto del país
+020904,Cusca,Cusca,Corongo,2,Áncash,Resto del país
+020905,La Pampa,La Pampa,Corongo,2,Áncash,Resto del país
+020906,Yanac,Yanac,Corongo,2,Áncash,Resto del país
+020907,Yupan,Yupan,Corongo,2,Áncash,Resto del país
+021001,Huari,Huari,Huari,2,Áncash,Resto del país
+021002,Anra,Anra,Huari,2,Áncash,Resto del país
+021003,Cajay,Cajay,Huari,2,Áncash,Resto del país
+021004,Chavin de Huantar,Chavin de Huantar,Huari,2,Áncash,Resto del país
+021005,Huacachi,Huacachi,Huari,2,Áncash,Resto del país
+021006,Huacchis,Huacchis,Huari,2,Áncash,Resto del país
+021007,Huachis,Huachis,Huari,2,Áncash,Resto del país
+021008,Huantar,Huantar,Huari,2,Áncash,Resto del país
+021009,Masin,Masin,Huari,2,Áncash,Resto del país
+021010,Paucas,Paucas,Huari,2,Áncash,Resto del país
+021011,Ponto,Ponto,Huari,2,Áncash,Resto del país
+021012,Rahuapampa,Rahuapampa,Huari,2,Áncash,Resto del país
+021013,Rapayan,Rapayan,Huari,2,Áncash,Resto del país
+021014,San Marcos,San Marcos,Huari,2,Áncash,Resto del país
+021015,San Pedro de Chana,San Pedro de Chana,Huari,2,Áncash,Resto del país
+021016,Uco,Uco,Huari,2,Áncash,Resto del país
+021101,Huarmey,Huarmey,Huarmey,2,Áncash,Resto del país
+021102,Cochapeti,Cochapeti,Huarmey,2,Áncash,Resto del país
+021103,Culebras,Culebras,Huarmey,2,Áncash,Resto del país
+021104,Huayan,Huayan,Huarmey,2,Áncash,Resto del país
+021105,Malvas,Malvas,Huarmey,2,Áncash,Resto del país
+021201,Caraz,Caraz,Huaylas,2,Áncash,Resto del país
+021202,Huallanca,Huallanca (Huaylas),Huaylas,2,Áncash,Resto del país
+021203,Huata,Huata (Huaylas),Huaylas,2,Áncash,Resto del país
+021204,Huaylas,Huaylas,Huaylas,2,Áncash,Resto del país
+021205,Mato,Mato,Huaylas,2,Áncash,Resto del país
+021206,Pamparomas,Pamparomas,Huaylas,2,Áncash,Resto del país
+021207,Pueblo Libre,Pueblo Libre (Huaylas),Huaylas,2,Áncash,Resto del país
+021208,Santa Cruz,Santa Cruz (Huaylas),Huaylas,2,Áncash,Resto del país
+021209,Santo Toribio,Santo Toribio,Huaylas,2,Áncash,Resto del país
+021210,Yuracmarca,Yuracmarca,Huaylas,2,Áncash,Resto del país
+021301,Piscobamba,Piscobamba,Mariscal Luzuriaga,2,Áncash,Resto del país
+021302,Casca,Casca,Mariscal Luzuriaga,2,Áncash,Resto del país
+021303,Eleazar Guzman Barron,Eleazar Guzman Barron,Mariscal Luzuriaga,2,Áncash,Resto del país
+021304,Fidel Olivas Escudero,Fidel Olivas Escudero,Mariscal Luzuriaga,2,Áncash,Resto del país
+021305,Llama,Llama (Mariscal Luzuriaga),Mariscal Luzuriaga,2,Áncash,Resto del país
+021306,Llumpa,Llumpa,Mariscal Luzuriaga,2,Áncash,Resto del país
+021307,Lucma,Lucma (Mariscal Luzuriaga),Mariscal Luzuriaga,2,Áncash,Resto del país
+021308,Musga,Musga,Mariscal Luzuriaga,2,Áncash,Resto del país
+021401,Ocros,Ocros (Ocros),Ocros,2,Áncash,Resto del país
+021402,Acas,Acas,Ocros,2,Áncash,Resto del país
+021404,Carhuapampa,Carhuapampa,Ocros,2,Áncash,Resto del país
+021405,Cochas,Cochas (Ocros),Ocros,2,Áncash,Resto del país
+021406,Congas,Congas,Ocros,2,Áncash,Resto del país
+021407,Llipa,Llipa,Ocros,2,Áncash,Resto del país
+021408,San Cristobal de Rajan,San Cristobal de Rajan,Ocros,2,Áncash,Resto del país
+021409,San Pedro,San Pedro (Ocros),Ocros,2,Áncash,Resto del país
+021410,Santiago de Chilcas,Santiago de Chilcas,Ocros,2,Áncash,Resto del país
+021501,Cabana,Cabana (Pallasca),Pallasca,2,Áncash,Resto del país
+021502,Bolognesi,Bolognesi,Pallasca,2,Áncash,Resto del país
+021503,Conchucos,Conchucos,Pallasca,2,Áncash,Resto del país
+021504,Huacaschuque,Huacaschuque,Pallasca,2,Áncash,Resto del país
+021505,Huandoval,Huandoval,Pallasca,2,Áncash,Resto del país
+021506,Lacabamba,Lacabamba,Pallasca,2,Áncash,Resto del país
+021507,Llapo,Llapo,Pallasca,2,Áncash,Resto del país
+021508,Pallasca,Pallasca,Pallasca,2,Áncash,Resto del país
+021509,Pampas,Pampas (Pallasca),Pallasca,2,Áncash,Resto del país
+021510,Santa Rosa,Santa Rosa (Pallasca),Pallasca,2,Áncash,Resto del país
+021511,Tauca,Tauca,Pallasca,2,Áncash,Resto del país
+021601,Pomabamba,Pomabamba,Pomabamba,2,Áncash,Resto del país
+021602,Huayllan,Huayllan,Pomabamba,2,Áncash,Resto del país
+021603,Parobamba,Parobamba,Pomabamba,2,Áncash,Resto del país
+021604,Quinuabamba,Quinuabamba,Pomabamba,2,Áncash,Resto del país
+021701,Recuay,Recuay,Recuay,2,Áncash,Resto del país
+021702,Catac,Catac,Recuay,2,Áncash,Resto del país
+021703,Cotaparaco,Cotaparaco,Recuay,2,Áncash,Resto del país
+021704,Huayllapampa,Huayllapampa,Recuay,2,Áncash,Resto del país
+021705,Llacllin,Llacllin,Recuay,2,Áncash,Resto del país
+021706,Marca,Marca,Recuay,2,Áncash,Resto del país
+021707,Pampas Chico,Pampas Chico,Recuay,2,Áncash,Resto del país
+021708,Pararin,Pararin,Recuay,2,Áncash,Resto del país
+021709,Tapacocha,Tapacocha,Recuay,2,Áncash,Resto del país
+021710,Ticapampa,Ticapampa,Recuay,2,Áncash,Resto del país
+021801,Chimbote,Chimbote,Santa,2,Áncash,Resto del país
+021802,Caceres del Peru,Caceres del Peru,Santa,2,Áncash,Resto del país
+021803,Coishco,Coishco,Santa,2,Áncash,Resto del país
+021804,Macate,Macate,Santa,2,Áncash,Resto del país
+021805,Moro,Moro,Santa,2,Áncash,Resto del país
+021806,Nepeña,Nepeña,Santa,2,Áncash,Resto del país
+021807,Samanco,Samanco,Santa,2,Áncash,Resto del país
+021808,Santa,Santa,Santa,2,Áncash,Resto del país
+021809,Nuevo Chimbote,Nuevo Chimbote,Santa,2,Áncash,Resto del país
+021901,Sihuas,Sihuas,Sihuas,2,Áncash,Resto del país
+021902,Acobamba,Acobamba (Sihuas),Sihuas,2,Áncash,Resto del país
+021903,Alfonso Ugarte,Alfonso Ugarte,Sihuas,2,Áncash,Resto del país
+021904,Cashapampa,Cashapampa,Sihuas,2,Áncash,Resto del país
+021905,Chingalpo,Chingalpo,Sihuas,2,Áncash,Resto del país
+021906,Huayllabamba,Huayllabamba (Sihuas),Sihuas,2,Áncash,Resto del país
+021907,Quiches,Quiches,Sihuas,2,Áncash,Resto del país
+021908,Ragash,Ragash,Sihuas,2,Áncash,Resto del país
+021909,San Juan,San Juan (Sihuas),Sihuas,2,Áncash,Resto del país
+021910,Sicsibamba,Sicsibamba,Sihuas,2,Áncash,Resto del país
+022001,Yungay,Yungay,Yungay,2,Áncash,Resto del país
+022002,Cascapara,Cascapara,Yungay,2,Áncash,Resto del país
+022003,Mancos,Mancos,Yungay,2,Áncash,Resto del país
+022004,Matacoto,Matacoto,Yungay,2,Áncash,Resto del país
+022005,Quillo,Quillo,Yungay,2,Áncash,Resto del país
+022006,Ranrahirca,Ranrahirca,Yungay,2,Áncash,Resto del país
+022007,Shupluy,Shupluy,Yungay,2,Áncash,Resto del país
+022008,Yanama,Yanama,Yungay,2,Áncash,Resto del país
+030101,Abancay,Abancay,Abancay,3,Apurímac,Resto del país
+030102,Chacoche,Chacoche,Abancay,3,Apurímac,Resto del país
+030103,Circa,Circa,Abancay,3,Apurímac,Resto del país
+030104,Curahuasi,Curahuasi,Abancay,3,Apurímac,Resto del país
+030105,Huanipaca,Huanipaca,Abancay,3,Apurímac,Resto del país
+030106,Lambrama,Lambrama,Abancay,3,Apurímac,Resto del país
+030107,Pichirhua,Pichirhua,Abancay,3,Apurímac,Resto del país
+030108,San Pedro de Cachora,San Pedro de Cachora,Abancay,3,Apurímac,Resto del país
+030109,Tamburco,Tamburco,Abancay,3,Apurímac,Resto del país
+030201,Andahuaylas,Andahuaylas,Andahuaylas,3,Apurímac,Resto del país
+030202,Andarapa,Andarapa,Andahuaylas,3,Apurímac,Resto del país
+030203,Chiara,Chiara (Andahuaylas),Andahuaylas,3,Apurímac,Resto del país
+030204,Huancarama,Huancarama,Andahuaylas,3,Apurímac,Resto del país
+030205,Huancaray,Huancaray,Andahuaylas,3,Apurímac,Resto del país
+030206,Huayana,Huayana,Andahuaylas,3,Apurímac,Resto del país
+030207,Kishuara,Kishuara,Andahuaylas,3,Apurímac,Resto del país
+030208,Pacobamba,Pacobamba,Andahuaylas,3,Apurímac,Resto del país
+030209,Pacucha,Pacucha,Andahuaylas,3,Apurímac,Resto del país
+030210,Pampachiri,Pampachiri,Andahuaylas,3,Apurímac,Resto del país
+030211,Pomacocha,Pomacocha (Andahuaylas),Andahuaylas,3,Apurímac,Resto del país
+030212,San Antonio de Cachi,San Antonio de Cachi,Andahuaylas,3,Apurímac,Resto del país
+030213,San Jeronimo,San Jeronimo (Andahuaylas),Andahuaylas,3,Apurímac,Resto del país
+030214,San Miguel de Chaccrampa,San Miguel de Chaccrampa,Andahuaylas,3,Apurímac,Resto del país
+030215,Santa Maria de Chicmo,Santa Maria de Chicmo,Andahuaylas,3,Apurímac,Resto del país
+030216,Talavera,Talavera,Andahuaylas,3,Apurímac,Resto del país
+030217,Tumay Huaraca,Tumay Huaraca,Andahuaylas,3,Apurímac,Resto del país
+030218,Turpo,Turpo,Andahuaylas,3,Apurímac,Resto del país
+030219,Kaquiabamba,Kaquiabamba,Andahuaylas,3,Apurímac,Resto del país
+030301,Antabamba,Antabamba,Antabamba,3,Apurímac,Resto del país
+030302,El Oro,El Oro,Antabamba,3,Apurímac,Resto del país
+030303,Huaquirca,Huaquirca,Antabamba,3,Apurímac,Resto del país
+030304,Juan Espinoza Medrano,Juan Espinoza Medrano,Antabamba,3,Apurímac,Resto del país
+030305,Oropesa,Oropesa (Antabamba),Antabamba,3,Apurímac,Resto del país
+030306,Pachaconas,Pachaconas,Antabamba,3,Apurímac,Resto del país
+030307,Sabaino,Sabaino,Antabamba,3,Apurímac,Resto del país
+030401,Chalhuanca,Chalhuanca,Aymaraes,3,Apurímac,Resto del país
+030402,Capaya,Capaya,Aymaraes,3,Apurímac,Resto del país
+030403,Caraybamba,Caraybamba,Aymaraes,3,Apurímac,Resto del país
+030404,Chapimarca,Chapimarca,Aymaraes,3,Apurímac,Resto del país
+030405,Colcabamba,Colcabamba (Aymaraes),Aymaraes,3,Apurímac,Resto del país
+030406,Cotaruse,Cotaruse,Aymaraes,3,Apurímac,Resto del país
+030407,Huayllo,Huayllo,Aymaraes,3,Apurímac,Resto del país
+030408,Justo Apu Sahuaraura,Justo Apu Sahuaraura,Aymaraes,3,Apurímac,Resto del país
+030409,Lucre,Lucre (Aymaraes),Aymaraes,3,Apurímac,Resto del país
+030410,Pocohuanca,Pocohuanca,Aymaraes,3,Apurímac,Resto del país
+030411,San Juan de Chacña,San Juan de Chacña,Aymaraes,3,Apurímac,Resto del país
+030412,Sañayca,Sañayca,Aymaraes,3,Apurímac,Resto del país
+030413,Soraya,Soraya,Aymaraes,3,Apurímac,Resto del país
+030414,Tapairihua,Tapairihua,Aymaraes,3,Apurímac,Resto del país
+030415,Tintay,Tintay,Aymaraes,3,Apurímac,Resto del país
+030416,Toraya,Toraya,Aymaraes,3,Apurímac,Resto del país
+030417,Yanaca,Yanaca,Aymaraes,3,Apurímac,Resto del país
+030501,Tambobamba,Tambobamba,Cotabambas,3,Apurímac,Resto del país
+030502,Cotabambas,Cotabambas,Cotabambas,3,Apurímac,Resto del país
+030503,Coyllurqui,Coyllurqui,Cotabambas,3,Apurímac,Resto del país
+030504,Haquira,Haquira,Cotabambas,3,Apurímac,Resto del país
+030505,Mara,Mara,Cotabambas,3,Apurímac,Resto del país
+030506,Challhuahuacho,Challhuahuacho,Cotabambas,3,Apurímac,Resto del país
+030601,Chincheros,Chincheros,Chincheros,3,Apurímac,Resto del país
+030602,Anco_huallo,Anco_huallo,Chincheros,3,Apurímac,Resto del país
+030603,Cocharcas,Cocharcas,Chincheros,3,Apurímac,Resto del país
+030604,Huaccana,Huaccana,Chincheros,3,Apurímac,Resto del país
+030605,Ocobamba,Ocobamba (Chincheros),Chincheros,3,Apurímac,Resto del país
+030606,Ongoy,Ongoy,Chincheros,3,Apurímac,Resto del país
+030607,Uranmarca,Uranmarca,Chincheros,3,Apurímac,Resto del país
+030608,Ranracancha,Ranracancha,Chincheros,3,Apurímac,Resto del país
+030701,Chuquibambilla,Chuquibambilla,Grau,3,Apurímac,Resto del país
+030702,Curpahuasi,Curpahuasi,Grau,3,Apurímac,Resto del país
+030703,Gamarra,Gamarra,Grau,3,Apurímac,Resto del país
+030704,Huayllati,Huayllati,Grau,3,Apurímac,Resto del país
+030705,Mamara,Mamara,Grau,3,Apurímac,Resto del país
+030706,Micaela Bastidas,Micaela Bastidas,Grau,3,Apurímac,Resto del país
+030707,Pataypampa,Pataypampa,Grau,3,Apurímac,Resto del país
+030708,Progreso,Progreso,Grau,3,Apurímac,Resto del país
+030709,San Antonio,San Antonio (Grau),Grau,3,Apurímac,Resto del país
+030710,Santa Rosa,Santa Rosa (Grau),Grau,3,Apurímac,Resto del país
+030711,Turpay,Turpay,Grau,3,Apurímac,Resto del país
+030712,Vilcabamba,Vilcabamba (Grau),Grau,3,Apurímac,Resto del país
+030713,Virundo,Virundo,Grau,3,Apurímac,Resto del país
+030714,Curasco,Curasco,Grau,3,Apurímac,Resto del país
+040101,Arequipa,Arequipa,Arequipa,4,Arequipa,Resto del país
+040102,Alto Selva Alegre,Alto Selva Alegre,Arequipa,4,Arequipa,Resto del país
+040103,Cayma,Cayma,Arequipa,4,Arequipa,Resto del país
+040104,Cerro Colorado,Cerro Colorado,Arequipa,4,Arequipa,Resto del país
+040105,Characato,Characato,Arequipa,4,Arequipa,Resto del país
+040106,Chiguata,Chiguata,Arequipa,4,Arequipa,Resto del país
+040107,Jacobo Hunter,Jacobo Hunter,Arequipa,4,Arequipa,Resto del país
+040108,La Joya,La Joya,Arequipa,4,Arequipa,Resto del país
+040109,Mariano Melgar,Mariano Melgar,Arequipa,4,Arequipa,Resto del país
+040110,Miraflores,Miraflores (Arequipa),Arequipa,4,Arequipa,Resto del país
+040111,Mollebaya,Mollebaya,Arequipa,4,Arequipa,Resto del país
+040112,Paucarpata,Paucarpata,Arequipa,4,Arequipa,Resto del país
+040113,Pocsi,Pocsi,Arequipa,4,Arequipa,Resto del país
+040114,Polobaya,Polobaya,Arequipa,4,Arequipa,Resto del país
+040115,Quequeña,Quequeña,Arequipa,4,Arequipa,Resto del país
+040116,Sabandia,Sabandia,Arequipa,4,Arequipa,Resto del país
+040117,Sachaca,Sachaca,Arequipa,4,Arequipa,Resto del país
+040118,San Juan de Siguas,San Juan de Siguas,Arequipa,4,Arequipa,Resto del país
+040119,San Juan de Tarucani,San Juan de Tarucani,Arequipa,4,Arequipa,Resto del país
+040120,Santa Isabel de Siguas,Santa Isabel de Siguas,Arequipa,4,Arequipa,Resto del país
+040121,Santa Rita de Siguas,Santa Rita de Siguas,Arequipa,4,Arequipa,Resto del país
+040122,Socabaya,Socabaya,Arequipa,4,Arequipa,Resto del país
+040123,Tiabaya,Tiabaya,Arequipa,4,Arequipa,Resto del país
+040124,Uchumayo,Uchumayo,Arequipa,4,Arequipa,Resto del país
+040125,Vitor,Vitor,Arequipa,4,Arequipa,Resto del país
+040126,Yanahuara,Yanahuara,Arequipa,4,Arequipa,Resto del país
+040127,Yarabamba,Yarabamba,Arequipa,4,Arequipa,Resto del país
+040128,Yura,Yura,Arequipa,4,Arequipa,Resto del país
+040129,Jose Luis Bustamante y Rivero,Jose Luis Bustamante y Rivero,Arequipa,4,Arequipa,Resto del país
+040201,Camana,Camana,Camana,4,Arequipa,Resto del país
+040202,Jose Maria Quimper,Jose Maria Quimper,Camana,4,Arequipa,Resto del país
+040203,Mariano Nicolas Valcarcel,Mariano Nicolas Valcarcel,Camana,4,Arequipa,Resto del país
+040204,Mariscal Caceres,Mariscal Caceres (Camana),Camana,4,Arequipa,Resto del país
+040205,Nicolas de Pierola,Nicolas de Pierola,Camana,4,Arequipa,Resto del país
+040206,Ocoña,Ocoña,Camana,4,Arequipa,Resto del país
+040207,Quilca,Quilca,Camana,4,Arequipa,Resto del país
+040208,Samuel Pastor,Samuel Pastor,Camana,4,Arequipa,Resto del país
+040301,Caraveli,Caraveli,Caraveli,4,Arequipa,Resto del país
+040302,Acari,Acari,Caraveli,4,Arequipa,Resto del país
+040303,Atico,Atico,Caraveli,4,Arequipa,Resto del país
+040304,Atiquipa,Atiquipa,Caraveli,4,Arequipa,Resto del país
+040305,Bella Union,Bella Union,Caraveli,4,Arequipa,Resto del país
+040306,Cahuacho,Cahuacho,Caraveli,4,Arequipa,Resto del país
+040307,Chala,Chala,Caraveli,4,Arequipa,Resto del país
+040308,Chaparra,Chaparra,Caraveli,4,Arequipa,Resto del país
+040309,Huanuhuanu,Huanuhuanu,Caraveli,4,Arequipa,Resto del país
+040310,Jaqui,Jaqui,Caraveli,4,Arequipa,Resto del país
+040311,Lomas,Lomas,Caraveli,4,Arequipa,Resto del país
+040312,Quicacha,Quicacha,Caraveli,4,Arequipa,Resto del país
+040313,Yauca,Yauca,Caraveli,4,Arequipa,Resto del país
+040401,Aplao,Aplao,Castilla,4,Arequipa,Resto del país
+040402,Andagua,Andagua,Castilla,4,Arequipa,Resto del país
+040403,Ayo,Ayo,Castilla,4,Arequipa,Resto del país
+040404,Chachas,Chachas,Castilla,4,Arequipa,Resto del país
+040405,Chilcaymarca,Chilcaymarca,Castilla,4,Arequipa,Resto del país
+040406,Choco,Choco,Castilla,4,Arequipa,Resto del país
+040407,Huancarqui,Huancarqui,Castilla,4,Arequipa,Resto del país
+040408,Machaguay,Machaguay,Castilla,4,Arequipa,Resto del país
+040409,Orcopampa,Orcopampa,Castilla,4,Arequipa,Resto del país
+040410,Pampacolca,Pampacolca,Castilla,4,Arequipa,Resto del país
+040411,Tipan,Tipan,Castilla,4,Arequipa,Resto del país
+040412,Uñon,Uñon,Castilla,4,Arequipa,Resto del país
+040413,Uraca,Uraca,Castilla,4,Arequipa,Resto del país
+040414,Viraco,Viraco,Castilla,4,Arequipa,Resto del país
+040501,Chivay,Chivay,Caylloma,4,Arequipa,Resto del país
+040502,Achoma,Achoma,Caylloma,4,Arequipa,Resto del país
+040503,Cabanaconde,Cabanaconde,Caylloma,4,Arequipa,Resto del país
+040504,Callalli,Callalli,Caylloma,4,Arequipa,Resto del país
+040505,Caylloma,Caylloma,Caylloma,4,Arequipa,Resto del país
+040506,Coporaque,Coporaque (Caylloma),Caylloma,4,Arequipa,Resto del país
+040507,Huambo,Huambo (Caylloma),Caylloma,4,Arequipa,Resto del país
+040508,Huanca,Huanca,Caylloma,4,Arequipa,Resto del país
+040509,Ichupampa,Ichupampa,Caylloma,4,Arequipa,Resto del país
+040510,Lari,Lari,Caylloma,4,Arequipa,Resto del país
+040511,Lluta,Lluta,Caylloma,4,Arequipa,Resto del país
+040512,Maca,Maca,Caylloma,4,Arequipa,Resto del país
+040513,Madrigal,Madrigal,Caylloma,4,Arequipa,Resto del país
+040514,San Antonio de Chuca,San Antonio de Chuca,Caylloma,4,Arequipa,Resto del país
+040515,Sibayo,Sibayo,Caylloma,4,Arequipa,Resto del país
+040516,Tapay,Tapay,Caylloma,4,Arequipa,Resto del país
+040517,Tisco,Tisco,Caylloma,4,Arequipa,Resto del país
+040518,Tuti,Tuti,Caylloma,4,Arequipa,Resto del país
+040519,Yanque,Yanque,Caylloma,4,Arequipa,Resto del país
+040520,Majes,Majes,Caylloma,4,Arequipa,Resto del país
+040601,Chuquibamba,Chuquibamba (Condesuyos),Condesuyos,4,Arequipa,Resto del país
+040602,Andaray,Andaray,Condesuyos,4,Arequipa,Resto del país
+040603,Cayarani,Cayarani,Condesuyos,4,Arequipa,Resto del país
+040604,Chichas,Chichas,Condesuyos,4,Arequipa,Resto del país
+040605,Iray,Iray,Condesuyos,4,Arequipa,Resto del país
+040606,Rio Grande,Rio Grande (Condesuyos),Condesuyos,4,Arequipa,Resto del país
+040607,Salamanca,Salamanca,Condesuyos,4,Arequipa,Resto del país
+040608,Yanaquihua,Yanaquihua,Condesuyos,4,Arequipa,Resto del país
+040701,Mollendo,Mollendo,Islay,4,Arequipa,Resto del país
+040702,Cocachacra,Cocachacra,Islay,4,Arequipa,Resto del país
+040703,Dean Valdivia,Dean Valdivia,Islay,4,Arequipa,Resto del país
+040704,Islay,Islay,Islay,4,Arequipa,Resto del país
+040705,Mejia,Mejia,Islay,4,Arequipa,Resto del país
+040706,Punta de Bombon,Punta de Bombon,Islay,4,Arequipa,Resto del país
+040801,Cotahuasi,Cotahuasi,La Union,4,Arequipa,Resto del país
+040802,Alca,Alca,La Union,4,Arequipa,Resto del país
+040803,Charcana,Charcana,La Union,4,Arequipa,Resto del país
+040804,Huaynacotas,Huaynacotas,La Union,4,Arequipa,Resto del país
+040805,Pampamarca,Pampamarca (La Union),La Union,4,Arequipa,Resto del país
+040806,Puyca,Puyca,La Union,4,Arequipa,Resto del país
+040807,Quechualla,Quechualla,La Union,4,Arequipa,Resto del país
+040808,Sayla,Sayla,La Union,4,Arequipa,Resto del país
+040809,Tauria,Tauria,La Union,4,Arequipa,Resto del país
+040810,Tomepampa,Tomepampa,La Union,4,Arequipa,Resto del país
+040811,Toro,Toro,La Union,4,Arequipa,Resto del país
+050101,Ayacucho,Ayacucho,Huamanga,5,Ayacucho,Resto del país
+050102,Acocro,Acocro,Huamanga,5,Ayacucho,Resto del país
+050103,Acos Vinchos,Acos Vinchos,Huamanga,5,Ayacucho,Resto del país
+050104,Carmen Alto,Carmen Alto,Huamanga,5,Ayacucho,Resto del país
+050105,Chiara,Chiara (Huamanga),Huamanga,5,Ayacucho,Resto del país
+050106,Ocros,Ocros (Huamanga),Huamanga,5,Ayacucho,Resto del país
+050107,Pacaycasa,Pacaycasa,Huamanga,5,Ayacucho,Resto del país
+050108,Quinua,Quinua,Huamanga,5,Ayacucho,Resto del país
+050109,San Jose de Ticllas,San Jose de Ticllas,Huamanga,5,Ayacucho,Resto del país
+050110,San Juan Bautista,San Juan Bautista (Huamanga),Huamanga,5,Ayacucho,Resto del país
+050111,Santiago de Pischa,Santiago de Pischa,Huamanga,5,Ayacucho,Resto del país
+050112,Socos,Socos,Huamanga,5,Ayacucho,Resto del país
+050113,Tambillo,Tambillo,Huamanga,5,Ayacucho,Resto del país
+050114,Vinchos,Vinchos,Huamanga,5,Ayacucho,Resto del país
+050115,Jesus Nazareno,Jesus Nazareno,Huamanga,5,Ayacucho,Resto del país
+050116,Andres Avelino Caceres,Andres Avelino Caceres,Huamanga,5,Ayacucho,Resto del país
+050201,Cangallo,Cangallo,Cangallo,5,Ayacucho,Resto del país
+050202,Chuschi,Chuschi,Cangallo,5,Ayacucho,Resto del país
+050203,Los Morochucos,Los Morochucos,Cangallo,5,Ayacucho,Resto del país
+050204,Maria Parado de Bellido,Maria Parado de Bellido,Cangallo,5,Ayacucho,Resto del país
+050205,Paras,Paras,Cangallo,5,Ayacucho,Resto del país
+050206,Totos,Totos,Cangallo,5,Ayacucho,Resto del país
+050301,Sancos,Sancos (Huanca Sancos),Huanca Sancos,5,Ayacucho,Resto del país
+050302,Carapo,Carapo,Huanca Sancos,5,Ayacucho,Resto del país
+050303,Sacsamarca,Sacsamarca,Huanca Sancos,5,Ayacucho,Resto del país
+050304,Santiago de Lucanamarca,Santiago de Lucanamarca,Huanca Sancos,5,Ayacucho,Resto del país
+050401,Huanta,Huanta,Huanta,5,Ayacucho,Resto del país
+050402,Ayahuanco,Ayahuanco,Huanta,5,Ayacucho,Resto del país
+050403,Huamanguilla,Huamanguilla,Huanta,5,Ayacucho,Resto del país
+050404,Iguain,Iguain,Huanta,5,Ayacucho,Resto del país
+050405,Luricocha,Luricocha,Huanta,5,Ayacucho,Resto del país
+050406,Santillana,Santillana,Huanta,5,Ayacucho,Resto del país
+050407,Sivia,Sivia,Huanta,5,Ayacucho,Resto del país
+050408,Llochegua,Llochegua,Huanta,5,Ayacucho,Resto del país
+050501,San Miguel,San Miguel (La Mar),La Mar,5,Ayacucho,Resto del país
+050502,Anco,Anco (La Mar),La Mar,5,Ayacucho,Resto del país
+050503,Ayna,Ayna,La Mar,5,Ayacucho,Resto del país
+050504,Chilcas,Chilcas,La Mar,5,Ayacucho,Resto del país
+050505,Chungui,Chungui,La Mar,5,Ayacucho,Resto del país
+050506,Luis Carranza,Luis Carranza,La Mar,5,Ayacucho,Resto del país
+050507,Santa Rosa,Santa Rosa (La Mar),La Mar,5,Ayacucho,Resto del país
+050508,Tambo,Tambo (La Mar),La Mar,5,Ayacucho,Resto del país
+050509,Palmapampa,Palmapampa,La Mar,5,Ayacucho,Resto del país
+050601,Puquio,Puquio,Lucanas,5,Ayacucho,Resto del país
+050602,Aucara,Aucara,Lucanas,5,Ayacucho,Resto del país
+050603,Cabana,Cabana (Lucanas),Lucanas,5,Ayacucho,Resto del país
+050604,Carmen Salcedo,Carmen Salcedo,Lucanas,5,Ayacucho,Resto del país
+050605,Chaviña,Chaviña,Lucanas,5,Ayacucho,Resto del país
+050606,Chipao,Chipao,Lucanas,5,Ayacucho,Resto del país
+050607,Huac-huas,Huac-huas,Lucanas,5,Ayacucho,Resto del país
+050608,Laramate,Laramate,Lucanas,5,Ayacucho,Resto del país
+050609,Leoncio Prado,Leoncio Prado (Lucanas),Lucanas,5,Ayacucho,Resto del país
+050610,Llauta,Llauta,Lucanas,5,Ayacucho,Resto del país
+050611,Lucanas,Lucanas,Lucanas,5,Ayacucho,Resto del país
+050612,Ocaña,Ocaña,Lucanas,5,Ayacucho,Resto del país
+050613,Otoca,Otoca,Lucanas,5,Ayacucho,Resto del país
+050614,Saisa,Saisa,Lucanas,5,Ayacucho,Resto del país
+050615,San Cristobal,San Cristobal (Lucanas),Lucanas,5,Ayacucho,Resto del país
+050616,San Juan,San Juan (Lucanas),Lucanas,5,Ayacucho,Resto del país
+050617,San Pedro,San Pedro (Lucanas),Lucanas,5,Ayacucho,Resto del país
+050618,San Pedro de Palco,San Pedro de Palco,Lucanas,5,Ayacucho,Resto del país
+050619,Sancos,Sancos (Lucanas),Lucanas,5,Ayacucho,Resto del país
+050620,Santa Ana de Huaycahuacho,Santa Ana de Huaycahuacho,Lucanas,5,Ayacucho,Resto del país
+050621,Santa Lucia,Santa Lucia (Lucanas),Lucanas,5,Ayacucho,Resto del país
+050701,Coracora,Coracora,Parinacochas,5,Ayacucho,Resto del país
+050702,Chumpi,Chumpi,Parinacochas,5,Ayacucho,Resto del país
+050703,Coronel Castañeda,Coronel Castañeda,Parinacochas,5,Ayacucho,Resto del país
+050704,Pacapausa,Pacapausa,Parinacochas,5,Ayacucho,Resto del país
+050705,Pullo,Pullo,Parinacochas,5,Ayacucho,Resto del país
+050706,Puyusca,Puyusca,Parinacochas,5,Ayacucho,Resto del país
+050707,San Francisco de Ravacayco,San Francisco de Ravacayco,Parinacochas,5,Ayacucho,Resto del país
+050708,Upahuacho,Upahuacho,Parinacochas,5,Ayacucho,Resto del país
+050801,Pausa,Pausa,Paucar del Sara Sara,5,Ayacucho,Resto del país
+050802,Colta,Colta,Paucar del Sara Sara,5,Ayacucho,Resto del país
+050803,Corculla,Corculla,Paucar del Sara Sara,5,Ayacucho,Resto del país
+050804,Lampa,Lampa (Paucar del Sara Sara),Paucar del Sara Sara,5,Ayacucho,Resto del país
+050805,Marcabamba,Marcabamba,Paucar del Sara Sara,5,Ayacucho,Resto del país
+050806,Oyolo,Oyolo,Paucar del Sara Sara,5,Ayacucho,Resto del país
+050807,Pararca,Pararca,Paucar del Sara Sara,5,Ayacucho,Resto del país
+050808,San Javier de Alpabamba,San Javier de Alpabamba,Paucar del Sara Sara,5,Ayacucho,Resto del país
+050809,San Jose de Ushua,San Jose de Ushua,Paucar del Sara Sara,5,Ayacucho,Resto del país
+050810,Sara Sara,Sara Sara,Paucar del Sara Sara,5,Ayacucho,Resto del país
+050901,Querobamba,Querobamba,Sucre,5,Ayacucho,Resto del país
+050902,Belen,Belen (Sucre),Sucre,5,Ayacucho,Resto del país
+050903,Chalcos,Chalcos,Sucre,5,Ayacucho,Resto del país
+050904,Chilcayoc,Chilcayoc,Sucre,5,Ayacucho,Resto del país
+050905,Huacaña,Huacaña,Sucre,5,Ayacucho,Resto del país
+050906,Morcolla,Morcolla,Sucre,5,Ayacucho,Resto del país
+050907,Paico,Paico,Sucre,5,Ayacucho,Resto del país
+050908,San Pedro de Larcay,San Pedro de Larcay,Sucre,5,Ayacucho,Resto del país
+050909,San Salvador de Quije,San Salvador de Quije,Sucre,5,Ayacucho,Resto del país
+050910,Santiago de Paucaray,Santiago de Paucaray,Sucre,5,Ayacucho,Resto del país
+050911,Soras,Soras,Sucre,5,Ayacucho,Resto del país
+051001,Huancapi,Huancapi,Victor Fajardo,5,Ayacucho,Resto del país
+051002,Alcamenca,Alcamenca,Victor Fajardo,5,Ayacucho,Resto del país
+051003,Apongo,Apongo,Victor Fajardo,5,Ayacucho,Resto del país
+051004,Asquipata,Asquipata,Victor Fajardo,5,Ayacucho,Resto del país
+051005,Canaria,Canaria,Victor Fajardo,5,Ayacucho,Resto del país
+051006,Cayara,Cayara,Victor Fajardo,5,Ayacucho,Resto del país
+051007,Colca,Colca (Victor Fajardo),Victor Fajardo,5,Ayacucho,Resto del país
+051008,Huamanquiquia,Huamanquiquia,Victor Fajardo,5,Ayacucho,Resto del país
+051009,Huancaraylla,Huancaraylla,Victor Fajardo,5,Ayacucho,Resto del país
+051010,Huaya,Huaya,Victor Fajardo,5,Ayacucho,Resto del país
+051011,Sarhua,Sarhua,Victor Fajardo,5,Ayacucho,Resto del país
+051012,Vilcanchos,Vilcanchos,Victor Fajardo,5,Ayacucho,Resto del país
+051101,Vilcas Huaman,Vilcas Huaman,Vilcas Huaman,5,Ayacucho,Resto del país
+051102,Accomarca,Accomarca,Vilcas Huaman,5,Ayacucho,Resto del país
+051103,Carhuanca,Carhuanca,Vilcas Huaman,5,Ayacucho,Resto del país
+051104,Concepcion,Concepcion (Vilcas Huaman),Vilcas Huaman,5,Ayacucho,Resto del país
+051105,Huambalpa,Huambalpa,Vilcas Huaman,5,Ayacucho,Resto del país
+051106,Independencia,Independencia (Vilcas Huaman),Vilcas Huaman,5,Ayacucho,Resto del país
+051107,Saurama,Saurama,Vilcas Huaman,5,Ayacucho,Resto del país
+051108,Vischongo,Vischongo,Vilcas Huaman,5,Ayacucho,Resto del país
+060101,Cajamarca,Cajamarca,Cajamarca,6,Cajamarca,Resto del país
+060102,Asuncion,Asuncion (Cajamarca),Cajamarca,6,Cajamarca,Resto del país
+060103,Chetilla,Chetilla,Cajamarca,6,Cajamarca,Resto del país
+060104,Cospan,Cospan,Cajamarca,6,Cajamarca,Resto del país
+060105,Encañada,Encañada,Cajamarca,6,Cajamarca,Resto del país
+060106,Jesus,Jesus (Cajamarca),Cajamarca,6,Cajamarca,Resto del país
+060107,Llacanora,Llacanora,Cajamarca,6,Cajamarca,Resto del país
+060108,Los Baños del Inca,Los Baños del Inca,Cajamarca,6,Cajamarca,Resto del país
+060109,Magdalena,Magdalena (Cajamarca),Cajamarca,6,Cajamarca,Resto del país
+060110,Matara,Matara,Cajamarca,6,Cajamarca,Resto del país
+060111,Namora,Namora,Cajamarca,6,Cajamarca,Resto del país
+060112,San Juan,San Juan (Cajamarca),Cajamarca,6,Cajamarca,Resto del país
+060201,Cajabamba,Cajabamba,Cajabamba,6,Cajamarca,Resto del país
+060202,Cachachi,Cachachi,Cajabamba,6,Cajamarca,Resto del país
+060203,Condebamba,Condebamba,Cajabamba,6,Cajamarca,Resto del país
+060204,Sitacocha,Sitacocha,Cajabamba,6,Cajamarca,Resto del país
+060301,Celendin,Celendin,Celendin,6,Cajamarca,Resto del país
+060302,Chumuch,Chumuch,Celendin,6,Cajamarca,Resto del país
+060303,Cortegana,Cortegana,Celendin,6,Cajamarca,Resto del país
+060304,Huasmin,Huasmin,Celendin,6,Cajamarca,Resto del país
+060305,Jorge Chavez,Jorge Chavez,Celendin,6,Cajamarca,Resto del país
+060306,Jose Galvez,Jose Galvez,Celendin,6,Cajamarca,Resto del país
+060307,Miguel Iglesias,Miguel Iglesias,Celendin,6,Cajamarca,Resto del país
+060308,Oxamarca,Oxamarca,Celendin,6,Cajamarca,Resto del país
+060309,Sorochuco,Sorochuco,Celendin,6,Cajamarca,Resto del país
+060310,Sucre,Sucre,Celendin,6,Cajamarca,Resto del país
+060311,Utco,Utco,Celendin,6,Cajamarca,Resto del país
+060312,La Libertad de Pallan,La Libertad de Pallan,Celendin,6,Cajamarca,Resto del país
+060401,Chota,Chota,Chota,6,Cajamarca,Resto del país
+060402,Anguia,Anguia,Chota,6,Cajamarca,Resto del país
+060403,Chadin,Chadin,Chota,6,Cajamarca,Resto del país
+060404,Chiguirip,Chiguirip,Chota,6,Cajamarca,Resto del país
+060405,Chimban,Chimban,Chota,6,Cajamarca,Resto del país
+060406,Choropampa,Choropampa,Chota,6,Cajamarca,Resto del país
+060407,Cochabamba,Cochabamba (Chota),Chota,6,Cajamarca,Resto del país
+060408,Conchan,Conchan,Chota,6,Cajamarca,Resto del país
+060409,Huambos,Huambos,Chota,6,Cajamarca,Resto del país
+060410,Lajas,Lajas,Chota,6,Cajamarca,Resto del país
+060411,Llama,Llama (Chota),Chota,6,Cajamarca,Resto del país
+060412,Miracosta,Miracosta,Chota,6,Cajamarca,Resto del país
+060413,Paccha,Paccha (Chota),Chota,6,Cajamarca,Resto del país
+060415,Querocoto,Querocoto,Chota,6,Cajamarca,Resto del país
+060416,San Juan de Licupis,San Juan de Licupis,Chota,6,Cajamarca,Resto del país
+060417,Tacabamba,Tacabamba,Chota,6,Cajamarca,Resto del país
+060418,Tocmoche,Tocmoche,Chota,6,Cajamarca,Resto del país
+060419,Chalamarca,Chalamarca,Chota,6,Cajamarca,Resto del país
+060501,Contumaza,Contumaza,Contumaza,6,Cajamarca,Resto del país
+060502,Chilete,Chilete,Contumaza,6,Cajamarca,Resto del país
+060503,Cupisnique,Cupisnique,Contumaza,6,Cajamarca,Resto del país
+060504,Guzmango,Guzmango,Contumaza,6,Cajamarca,Resto del país
+060505,San Benito,San Benito,Contumaza,6,Cajamarca,Resto del país
+060506,Santa Cruz de Toled,Santa Cruz de Toled,Contumaza,6,Cajamarca,Resto del país
+060507,Tantarica,Tantarica,Contumaza,6,Cajamarca,Resto del país
+060508,Yonan,Yonan,Contumaza,6,Cajamarca,Resto del país
+060601,Cutervo,Cutervo,Cutervo,6,Cajamarca,Resto del país
+060602,Callayuc,Callayuc,Cutervo,6,Cajamarca,Resto del país
+060603,Choros,Choros,Cutervo,6,Cajamarca,Resto del país
+060604,Cujillo,Cujillo,Cutervo,6,Cajamarca,Resto del país
+060605,La Ramada,La Ramada,Cutervo,6,Cajamarca,Resto del país
+060606,Pimpingos,Pimpingos,Cutervo,6,Cajamarca,Resto del país
+060607,Querocotillo,Querocotillo,Cutervo,6,Cajamarca,Resto del país
+060608,San Andres de Cutervo,San Andres de Cutervo,Cutervo,6,Cajamarca,Resto del país
+060609,San Juan de Cutervo,San Juan de Cutervo,Cutervo,6,Cajamarca,Resto del país
+060610,San Luis de Lucma,San Luis de Lucma,Cutervo,6,Cajamarca,Resto del país
+060611,Santa Cruz,Santa Cruz (Cutervo),Cutervo,6,Cajamarca,Resto del país
+060612,Santo Domingo de la Capilla,Santo Domingo de la Capilla,Cutervo,6,Cajamarca,Resto del país
+060613,Santo Tomas,Santo Tomas (Cutervo),Cutervo,6,Cajamarca,Resto del país
+060614,Socota,Socota,Cutervo,6,Cajamarca,Resto del país
+060615,Toribio Casanova,Toribio Casanova,Cutervo,6,Cajamarca,Resto del país
+060701,Bambamarca,Bambamarca (Hualgayoc),Hualgayoc,6,Cajamarca,Resto del país
+060702,Chugur,Chugur,Hualgayoc,6,Cajamarca,Resto del país
+060703,Hualgayoc,Hualgayoc,Hualgayoc,6,Cajamarca,Resto del país
+060801,Jaen,Jaen,Jaen,6,Cajamarca,Resto del país
+060802,Bellavista,Bellavista (Jaen),Jaen,6,Cajamarca,Resto del país
+060803,Chontali,Chontali,Jaen,6,Cajamarca,Resto del país
+060804,Colasay,Colasay,Jaen,6,Cajamarca,Resto del país
+060805,Huabal,Huabal,Jaen,6,Cajamarca,Resto del país
+060806,Las Pirias,Las Pirias,Jaen,6,Cajamarca,Resto del país
+060807,Pomahuaca,Pomahuaca,Jaen,6,Cajamarca,Resto del país
+060808,Pucara,Pucara (Jaen),Jaen,6,Cajamarca,Resto del país
+060809,Sallique,Sallique,Jaen,6,Cajamarca,Resto del país
+060810,San Felipe,San Felipe,Jaen,6,Cajamarca,Resto del país
+060811,San Jose del Alto,San Jose del Alto,Jaen,6,Cajamarca,Resto del país
+060812,Santa Rosa,Santa Rosa (Jaen),Jaen,6,Cajamarca,Resto del país
+060901,San Ignacio,San Ignacio,San Ignacio,6,Cajamarca,Resto del país
+060902,Chirinos,Chirinos,San Ignacio,6,Cajamarca,Resto del país
+060903,Huarango,Huarango,San Ignacio,6,Cajamarca,Resto del país
+060904,La Coipa,La Coipa,San Ignacio,6,Cajamarca,Resto del país
+060905,Namballe,Namballe,San Ignacio,6,Cajamarca,Resto del país
+060906,San Jose de Lourdes,San Jose de Lourdes,San Ignacio,6,Cajamarca,Resto del país
+060907,Tabaconas,Tabaconas,San Ignacio,6,Cajamarca,Resto del país
+061001,Pedro Galvez,Pedro Galvez,San Marcos,6,Cajamarca,Resto del país
+061002,Chancay,Chancay (San Marcos),San Marcos,6,Cajamarca,Resto del país
+061003,Eduardo Villanueva,Eduardo Villanueva,San Marcos,6,Cajamarca,Resto del país
+061004,Gregorio Pita,Gregorio Pita,San Marcos,6,Cajamarca,Resto del país
+061005,Ichocan,Ichocan,San Marcos,6,Cajamarca,Resto del país
+061006,Jose Manuel Quiroz,Jose Manuel Quiroz,San Marcos,6,Cajamarca,Resto del país
+061007,Jose Sabogal,Jose Sabogal,San Marcos,6,Cajamarca,Resto del país
+061101,San Miguel,San Miguel (San Miguel),San Miguel,6,Cajamarca,Resto del país
+061102,Bolivar,Bolivar (San Miguel),San Miguel,6,Cajamarca,Resto del país
+061103,Calquis,Calquis,San Miguel,6,Cajamarca,Resto del país
+061104,Catilluc,Catilluc,San Miguel,6,Cajamarca,Resto del país
+061105,El Prado,El Prado,San Miguel,6,Cajamarca,Resto del país
+061106,La Florida,La Florida,San Miguel,6,Cajamarca,Resto del país
+061107,Llapa,Llapa,San Miguel,6,Cajamarca,Resto del país
+061108,Nanchoc,Nanchoc,San Miguel,6,Cajamarca,Resto del país
+061109,Niepos,Niepos,San Miguel,6,Cajamarca,Resto del país
+061110,San Gregorio,San Gregorio,San Miguel,6,Cajamarca,Resto del país
+061111,San Silvestre de Cochan,San Silvestre de Cochan,San Miguel,6,Cajamarca,Resto del país
+061112,Tongod,Tongod,San Miguel,6,Cajamarca,Resto del país
+061113,Union Agua Blanca,Union Agua Blanca,San Miguel,6,Cajamarca,Resto del país
+061201,San Pablo,San Pablo (San Pablo),San Pablo,6,Cajamarca,Resto del país
+061202,San Bernardino,San Bernardino,San Pablo,6,Cajamarca,Resto del país
+061203,San Luis,San Luis (San Pablo),San Pablo,6,Cajamarca,Resto del país
+061204,Tumbaden,Tumbaden,San Pablo,6,Cajamarca,Resto del país
+061301,Santa Cruz,Santa Cruz (Santa Cruz),Santa Cruz,6,Cajamarca,Resto del país
+061302,Andabamba,Andabamba (Santa Cruz),Santa Cruz,6,Cajamarca,Resto del país
+061303,Catache,Catache,Santa Cruz,6,Cajamarca,Resto del país
+061304,Chancaybaños,Chancaybaños,Santa Cruz,6,Cajamarca,Resto del país
+061305,La Esperanza,La Esperanza (Santa Cruz),Santa Cruz,6,Cajamarca,Resto del país
+061306,Ninabamba,Ninabamba,Santa Cruz,6,Cajamarca,Resto del país
+061307,Pulan,Pulan,Santa Cruz,6,Cajamarca,Resto del país
+061308,Saucepampa,Saucepampa,Santa Cruz,6,Cajamarca,Resto del país
+061309,Sexi,Sexi,Santa Cruz,6,Cajamarca,Resto del país
+061310,Uticyacu,Uticyacu,Santa Cruz,6,Cajamarca,Resto del país
+061311,Yauyucan,Yauyucan,Santa Cruz,6,Cajamarca,Resto del país
+070101,Callao,Callao,Callao,7,Callao,Lima y Callao
+070102,Bellavista,Bellavista (Callao),Callao,7,Callao,Lima y Callao
+070103,Carmen de la Legua Reynoso,Carmen de la Legua Reynoso,Callao,7,Callao,Lima y Callao
+070104,La Perla,La Perla,Callao,7,Callao,Lima y Callao
+070105,La Punta,La Punta,Callao,7,Callao,Lima y Callao
+070106,Ventanilla,Ventanilla,Callao,7,Callao,Lima y Callao
+070107,Mi Peru,Mi Peru,Callao,7,Callao,Lima y Callao
+080101,Cusco,Cusco,Cusco,8,Cusco,Resto del país
+080102,Ccorca,Ccorca,Cusco,8,Cusco,Resto del país
+080103,Poroy,Poroy,Cusco,8,Cusco,Resto del país
+080104,San Jeronimo,San Jeronimo (Cusco),Cusco,8,Cusco,Resto del país
+080105,San Sebastian,San Sebastian,Cusco,8,Cusco,Resto del país
+080106,Santiago,Santiago (Cusco),Cusco,8,Cusco,Resto del país
+080107,Saylla,Saylla,Cusco,8,Cusco,Resto del país
+080108,Wanchaq,Wanchaq,Cusco,8,Cusco,Resto del país
+080201,Acomayo,Acomayo,Acomayo,8,Cusco,Resto del país
+080202,Acopia,Acopia,Acomayo,8,Cusco,Resto del país
+080203,Acos,Acos,Acomayo,8,Cusco,Resto del país
+080204,Mosoc Llacta,Mosoc Llacta,Acomayo,8,Cusco,Resto del país
+080205,Pomacanchi,Pomacanchi,Acomayo,8,Cusco,Resto del país
+080206,Rondocan,Rondocan,Acomayo,8,Cusco,Resto del país
+080207,Sangarara,Sangarara,Acomayo,8,Cusco,Resto del país
+080301,Anta,Anta (Anta),Anta,8,Cusco,Resto del país
+080302,Ancahuasi,Ancahuasi,Anta,8,Cusco,Resto del país
+080303,Cachimayo,Cachimayo,Anta,8,Cusco,Resto del país
+080304,Chinchaypujio,Chinchaypujio,Anta,8,Cusco,Resto del país
+080305,Huarocondo,Huarocondo,Anta,8,Cusco,Resto del país
+080306,Limatambo,Limatambo,Anta,8,Cusco,Resto del país
+080307,Mollepata,Mollepata (Anta),Anta,8,Cusco,Resto del país
+080308,Pucyura,Pucyura,Anta,8,Cusco,Resto del país
+080309,Zurite,Zurite,Anta,8,Cusco,Resto del país
+080401,Calca,Calca,Calca,8,Cusco,Resto del país
+080402,Coya,Coya,Calca,8,Cusco,Resto del país
+080403,Lamay,Lamay,Calca,8,Cusco,Resto del país
+080404,Lares,Lares,Calca,8,Cusco,Resto del país
+080405,Pisac,Pisac,Calca,8,Cusco,Resto del país
+080406,San Salvador,San Salvador,Calca,8,Cusco,Resto del país
+080407,Taray,Taray,Calca,8,Cusco,Resto del país
+080408,Yanatile,Yanatile,Calca,8,Cusco,Resto del país
+080501,Yanaoca,Yanaoca,Canas,8,Cusco,Resto del país
+080502,Checca,Checca,Canas,8,Cusco,Resto del país
+080503,Kunturkanki,Kunturkanki,Canas,8,Cusco,Resto del país
+080504,Langui,Langui,Canas,8,Cusco,Resto del país
+080505,Layo,Layo,Canas,8,Cusco,Resto del país
+080506,Pampamarca,Pampamarca (Canas),Canas,8,Cusco,Resto del país
+080507,Quehue,Quehue,Canas,8,Cusco,Resto del país
+080508,Tupac Amaru,Tupac Amaru,Canas,8,Cusco,Resto del país
+080601,Sicuani,Sicuani,Canchis,8,Cusco,Resto del país
+080602,Checacupe,Checacupe,Canchis,8,Cusco,Resto del país
+080603,Combapata,Combapata,Canchis,8,Cusco,Resto del país
+080604,Marangani,Marangani,Canchis,8,Cusco,Resto del país
+080605,Pitumarca,Pitumarca,Canchis,8,Cusco,Resto del país
+080606,San Pablo,San Pablo (Canchis),Canchis,8,Cusco,Resto del país
+080607,San Pedro,San Pedro (Canchis),Canchis,8,Cusco,Resto del país
+080608,Tinta,Tinta,Canchis,8,Cusco,Resto del país
+080701,Santo Tomas,Santo Tomas (Chumbivilcas),Chumbivilcas,8,Cusco,Resto del país
+080702,Capacmarca,Capacmarca,Chumbivilcas,8,Cusco,Resto del país
+080703,Chamaca,Chamaca,Chumbivilcas,8,Cusco,Resto del país
+080704,Colquemarca,Colquemarca,Chumbivilcas,8,Cusco,Resto del país
+080705,Livitaca,Livitaca,Chumbivilcas,8,Cusco,Resto del país
+080706,Llusco,Llusco,Chumbivilcas,8,Cusco,Resto del país
+080707,Quiñota,Quiñota,Chumbivilcas,8,Cusco,Resto del país
+080708,Velille,Velille,Chumbivilcas,8,Cusco,Resto del país
+080801,Espinar,Espinar,Espinar,8,Cusco,Resto del país
+080802,Condoroma,Condoroma,Espinar,8,Cusco,Resto del país
+080803,Coporaque,Coporaque (Espinar),Espinar,8,Cusco,Resto del país
+080804,Ocoruro,Ocoruro,Espinar,8,Cusco,Resto del país
+080805,Pallpata,Pallpata,Espinar,8,Cusco,Resto del país
+080806,Pichigua,Pichigua,Espinar,8,Cusco,Resto del país
+080807,Suyckutambo,Suyckutambo,Espinar,8,Cusco,Resto del país
+080808,Alto Pichigua,Alto Pichigua,Espinar,8,Cusco,Resto del país
+080901,Santa Ana,Santa Ana (La Convencion),La Convencion,8,Cusco,Resto del país
+080902,Echarate,Echarate,La Convencion,8,Cusco,Resto del país
+080903,Huayopata,Huayopata,La Convencion,8,Cusco,Resto del país
+080904,Maranura,Maranura,La Convencion,8,Cusco,Resto del país
+080905,Ocobamba,Ocobamba (La Convencion),La Convencion,8,Cusco,Resto del país
+080906,Quellouno,Quellouno,La Convencion,8,Cusco,Resto del país
+080907,Kimbiri,Kimbiri,La Convencion,8,Cusco,Resto del país
+080908,Santa Teresa,Santa Teresa,La Convencion,8,Cusco,Resto del país
+080909,Vilcabamba,Vilcabamba (La Convencion),La Convencion,8,Cusco,Resto del país
+080910,Pichari,Pichari,La Convencion,8,Cusco,Resto del país
+080914,Megantoni,Megantoni,La Convencion,8,Cusco,Resto del país
+080915,Kumpirushiato,Kumpirushiato,La Convencion,8,Cusco,Resto del país
+081001,Paruro,Paruro,Paruro,8,Cusco,Resto del país
+081002,Accha,Accha,Paruro,8,Cusco,Resto del país
+081003,Ccapi,Ccapi,Paruro,8,Cusco,Resto del país
+081004,Colcha,Colcha,Paruro,8,Cusco,Resto del país
+081005,Huanoquite,Huanoquite,Paruro,8,Cusco,Resto del país
+081006,Omacha,Omacha,Paruro,8,Cusco,Resto del país
+081007,Paccaritambo,Paccaritambo,Paruro,8,Cusco,Resto del país
+081008,Pillpinto,Pillpinto,Paruro,8,Cusco,Resto del país
+081009,Yaurisque,Yaurisque,Paruro,8,Cusco,Resto del país
+081101,Paucartambo,Paucartambo (Paucartambo),Paucartambo,8,Cusco,Resto del país
+081102,Caicay,Caicay,Paucartambo,8,Cusco,Resto del país
+081103,Challabamba,Challabamba,Paucartambo,8,Cusco,Resto del país
+081104,Colquepata,Colquepata,Paucartambo,8,Cusco,Resto del país
+081105,Huancarani,Huancarani,Paucartambo,8,Cusco,Resto del país
+081106,Kosñipata,Kosñipata,Paucartambo,8,Cusco,Resto del país
+081201,Urcos,Urcos,Quispicanchi,8,Cusco,Resto del país
+081202,Andahuaylillas,Andahuaylillas,Quispicanchi,8,Cusco,Resto del país
+081203,Camanti,Camanti,Quispicanchi,8,Cusco,Resto del país
+081204,Ccarhuayo,Ccarhuayo,Quispicanchi,8,Cusco,Resto del país
+081205,Ccatca,Ccatca,Quispicanchi,8,Cusco,Resto del país
+081206,Cusipata,Cusipata,Quispicanchi,8,Cusco,Resto del país
+081207,Huaro,Huaro,Quispicanchi,8,Cusco,Resto del país
+081208,Lucre,Lucre (Quispicanchi),Quispicanchi,8,Cusco,Resto del país
+081209,Marcapata,Marcapata,Quispicanchi,8,Cusco,Resto del país
+081210,Ocongate,Ocongate,Quispicanchi,8,Cusco,Resto del país
+081211,Oropesa,Oropesa (Quispicanchi),Quispicanchi,8,Cusco,Resto del país
+081212,Quiquijana,Quiquijana,Quispicanchi,8,Cusco,Resto del país
+081301,Urubamba,Urubamba,Urubamba,8,Cusco,Resto del país
+081302,Chinchero,Chinchero,Urubamba,8,Cusco,Resto del país
+081303,Huayllabamba,Huayllabamba (Urubamba),Urubamba,8,Cusco,Resto del país
+081304,Machupicchu,Machupicchu,Urubamba,8,Cusco,Resto del país
+081305,Maras,Maras,Urubamba,8,Cusco,Resto del país
+081306,Ollantaytambo,Ollantaytambo,Urubamba,8,Cusco,Resto del país
+081307,Yucay,Yucay,Urubamba,8,Cusco,Resto del país
+090101,Huancavelica,Huancavelica,Huancavelica,9,Huancavelica,Resto del país
+090102,Acobambilla,Acobambilla,Huancavelica,9,Huancavelica,Resto del país
+090103,Acoria,Acoria,Huancavelica,9,Huancavelica,Resto del país
+090104,Conayca,Conayca,Huancavelica,9,Huancavelica,Resto del país
+090105,Cuenca,Cuenca (Huancavelica),Huancavelica,9,Huancavelica,Resto del país
+090106,Huachocolpa,Huachocolpa (Huancavelica),Huancavelica,9,Huancavelica,Resto del país
+090107,Huayllahuara,Huayllahuara,Huancavelica,9,Huancavelica,Resto del país
+090108,Izcuchaca,Izcuchaca,Huancavelica,9,Huancavelica,Resto del país
+090109,Laria,Laria,Huancavelica,9,Huancavelica,Resto del país
+090110,Manta,Manta,Huancavelica,9,Huancavelica,Resto del país
+090111,Mariscal Caceres,Mariscal Caceres (Huancavelica),Huancavelica,9,Huancavelica,Resto del país
+090112,Moya,Moya,Huancavelica,9,Huancavelica,Resto del país
+090113,Nuevo Occoro,Nuevo Occoro,Huancavelica,9,Huancavelica,Resto del país
+090114,Palca,Palca (Huancavelica),Huancavelica,9,Huancavelica,Resto del país
+090115,Pilchaca,Pilchaca,Huancavelica,9,Huancavelica,Resto del país
+090116,Vilca,Vilca,Huancavelica,9,Huancavelica,Resto del país
+090117,Yauli,Yauli (Huancavelica),Huancavelica,9,Huancavelica,Resto del país
+090118,Ascension,Ascension,Huancavelica,9,Huancavelica,Resto del país
+090119,Huando,Huando,Huancavelica,9,Huancavelica,Resto del país
+090201,Acobamba,Acobamba (Acobamba),Acobamba,9,Huancavelica,Resto del país
+090202,Andabamba,Andabamba (Acobamba),Acobamba,9,Huancavelica,Resto del país
+090203,Anta,Anta (Acobamba),Acobamba,9,Huancavelica,Resto del país
+090204,Caja,Caja,Acobamba,9,Huancavelica,Resto del país
+090205,Marcas,Marcas,Acobamba,9,Huancavelica,Resto del país
+090206,Paucara,Paucara,Acobamba,9,Huancavelica,Resto del país
+090207,Pomacocha,Pomacocha (Acobamba),Acobamba,9,Huancavelica,Resto del país
+090208,Rosario,Rosario,Acobamba,9,Huancavelica,Resto del país
+090301,Lircay,Lircay,Angaraes,9,Huancavelica,Resto del país
+090302,Anchonga,Anchonga,Angaraes,9,Huancavelica,Resto del país
+090303,Callanmarca,Callanmarca,Angaraes,9,Huancavelica,Resto del país
+090304,Ccochaccasa,Ccochaccasa,Angaraes,9,Huancavelica,Resto del país
+090305,Chincho,Chincho,Angaraes,9,Huancavelica,Resto del país
+090306,Congalla,Congalla,Angaraes,9,Huancavelica,Resto del país
+090307,Huanca-huanca,Huanca-huanca,Angaraes,9,Huancavelica,Resto del país
+090308,Huayllay Grande,Huayllay Grande,Angaraes,9,Huancavelica,Resto del país
+090309,Julcamarca,Julcamarca,Angaraes,9,Huancavelica,Resto del país
+090310,San Antonio de Antaparco,San Antonio de Antaparco,Angaraes,9,Huancavelica,Resto del país
+090311,Santo Tomas de Pata,Santo Tomas de Pata,Angaraes,9,Huancavelica,Resto del país
+090312,Secclla,Secclla,Angaraes,9,Huancavelica,Resto del país
+090401,Castrovirreyna,Castrovirreyna,Castrovirreyna,9,Huancavelica,Resto del país
+090402,Arma,Arma,Castrovirreyna,9,Huancavelica,Resto del país
+090403,Aurahua,Aurahua,Castrovirreyna,9,Huancavelica,Resto del país
+090404,Capillas,Capillas,Castrovirreyna,9,Huancavelica,Resto del país
+090405,Chupamarca,Chupamarca,Castrovirreyna,9,Huancavelica,Resto del país
+090406,Cocas,Cocas,Castrovirreyna,9,Huancavelica,Resto del país
+090407,Huachos,Huachos,Castrovirreyna,9,Huancavelica,Resto del país
+090408,Huamatambo,Huamatambo,Castrovirreyna,9,Huancavelica,Resto del país
+090409,Mollepampa,Mollepampa,Castrovirreyna,9,Huancavelica,Resto del país
+090410,San Juan,San Juan (Castrovirreyna),Castrovirreyna,9,Huancavelica,Resto del país
+090411,Santa Ana,Santa Ana (Castrovirreyna),Castrovirreyna,9,Huancavelica,Resto del país
+090412,Tantara,Tantara,Castrovirreyna,9,Huancavelica,Resto del país
+090413,Ticrapo,Ticrapo,Castrovirreyna,9,Huancavelica,Resto del país
+090501,Churcampa,Churcampa,Churcampa,9,Huancavelica,Resto del país
+090502,Anco,Anco (Churcampa),Churcampa,9,Huancavelica,Resto del país
+090503,Chinchihuasi,Chinchihuasi,Churcampa,9,Huancavelica,Resto del país
+090504,El Carmen,El Carmen (Churcampa),Churcampa,9,Huancavelica,Resto del país
+090505,La Merced,La Merced (Churcampa),Churcampa,9,Huancavelica,Resto del país
+090506,Locroja,Locroja,Churcampa,9,Huancavelica,Resto del país
+090507,Paucarbamba,Paucarbamba,Churcampa,9,Huancavelica,Resto del país
+090508,San Miguel de Mayocc,San Miguel de Mayocc,Churcampa,9,Huancavelica,Resto del país
+090509,San Pedro de Coris,San Pedro de Coris,Churcampa,9,Huancavelica,Resto del país
+090510,Pachamarca,Pachamarca,Churcampa,9,Huancavelica,Resto del país
+090601,Huaytara,Huaytara,Huaytara,9,Huancavelica,Resto del país
+090602,Ayavi,Ayavi,Huaytara,9,Huancavelica,Resto del país
+090603,Cordova,Cordova,Huaytara,9,Huancavelica,Resto del país
+090604,Huayacundo Arma,Huayacundo Arma,Huaytara,9,Huancavelica,Resto del país
+090605,Laramarca,Laramarca,Huaytara,9,Huancavelica,Resto del país
+090606,Ocoyo,Ocoyo,Huaytara,9,Huancavelica,Resto del país
+090607,Pilpichaca,Pilpichaca,Huaytara,9,Huancavelica,Resto del país
+090608,Querco,Querco,Huaytara,9,Huancavelica,Resto del país
+090609,Quito-arma,Quito-arma,Huaytara,9,Huancavelica,Resto del país
+090610,San Antonio de Cusicancha,San Antonio de Cusicancha,Huaytara,9,Huancavelica,Resto del país
+090611,San Francisco de Sangayaico,San Francisco de Sangayaico,Huaytara,9,Huancavelica,Resto del país
+090613,Santiago de Chocorvos,Santiago de Chocorvos,Huaytara,9,Huancavelica,Resto del país
+090614,Santiago de Quirahuara,Santiago de Quirahuara,Huaytara,9,Huancavelica,Resto del país
+090615,Santo Domingo de Capillas,Santo Domingo de Capillas,Huaytara,9,Huancavelica,Resto del país
+090616,Tambo,Tambo (Huaytara),Huaytara,9,Huancavelica,Resto del país
+090701,Pampas,Pampas (Tayacaja),Tayacaja,9,Huancavelica,Resto del país
+090702,Acostambo,Acostambo,Tayacaja,9,Huancavelica,Resto del país
+090703,Acraquia,Acraquia,Tayacaja,9,Huancavelica,Resto del país
+090704,Ahuaycha,Ahuaycha,Tayacaja,9,Huancavelica,Resto del país
+090705,Colcabamba,Colcabamba (Tayacaja),Tayacaja,9,Huancavelica,Resto del país
+090706,Daniel Hernandez,Daniel Hernandez,Tayacaja,9,Huancavelica,Resto del país
+090707,Huachocolpa,Huachocolpa (Tayacaja),Tayacaja,9,Huancavelica,Resto del país
+090709,Huaribamba,Huaribamba,Tayacaja,9,Huancavelica,Resto del país
+090710,Ñahuimpuquio,Ñahuimpuquio,Tayacaja,9,Huancavelica,Resto del país
+090711,Pazos,Pazos,Tayacaja,9,Huancavelica,Resto del país
+090713,Quishuar,Quishuar,Tayacaja,9,Huancavelica,Resto del país
+090714,Salcabamba,Salcabamba,Tayacaja,9,Huancavelica,Resto del país
+090715,Salcahuasi,Salcahuasi,Tayacaja,9,Huancavelica,Resto del país
+090716,San Marcos de Rocchac,San Marcos de Rocchac,Tayacaja,9,Huancavelica,Resto del país
+090717,Surcubamba,Surcubamba,Tayacaja,9,Huancavelica,Resto del país
+090718,Tintay Puncu,Tintay Puncu,Tayacaja,9,Huancavelica,Resto del país
+100101,Huanuco,Huanuco,Huanuco,10,Huánuco,Resto del país
+100102,Amarilis,Amarilis,Huanuco,10,Huánuco,Resto del país
+100103,Chinchao,Chinchao,Huanuco,10,Huánuco,Resto del país
+100104,Churubamba,Churubamba,Huanuco,10,Huánuco,Resto del país
+100105,Margos,Margos,Huanuco,10,Huánuco,Resto del país
+100106,Quisqui,Quisqui,Huanuco,10,Huánuco,Resto del país
+100107,San Francisco de Cayran,San Francisco de Cayran,Huanuco,10,Huánuco,Resto del país
+100108,San Pedro de Chaulan,San Pedro de Chaulan,Huanuco,10,Huánuco,Resto del país
+100109,Santa Maria del Valle,Santa Maria del Valle,Huanuco,10,Huánuco,Resto del país
+100110,Yarumayo,Yarumayo,Huanuco,10,Huánuco,Resto del país
+100111,Pillco Marca,Pillco Marca,Huanuco,10,Huánuco,Resto del país
+100201,Ambo,Ambo,Ambo,10,Huánuco,Resto del país
+100202,Cayna,Cayna,Ambo,10,Huánuco,Resto del país
+100203,Colpas,Colpas,Ambo,10,Huánuco,Resto del país
+100204,Conchamarca,Conchamarca,Ambo,10,Huánuco,Resto del país
+100205,Huacar,Huacar,Ambo,10,Huánuco,Resto del país
+100206,San Francisco,San Francisco,Ambo,10,Huánuco,Resto del país
+100207,San Rafael,San Rafael (Ambo),Ambo,10,Huánuco,Resto del país
+100208,Tomay Kichwa,Tomay Kichwa,Ambo,10,Huánuco,Resto del país
+100301,La Union,La Union (Dos de Mayo),Dos de Mayo,10,Huánuco,Resto del país
+100307,Chuquis,Chuquis,Dos de Mayo,10,Huánuco,Resto del país
+100311,Marias,Marias,Dos de Mayo,10,Huánuco,Resto del país
+100313,Pachas,Pachas,Dos de Mayo,10,Huánuco,Resto del país
+100316,Quivilla,Quivilla,Dos de Mayo,10,Huánuco,Resto del país
+100317,Ripan,Ripan,Dos de Mayo,10,Huánuco,Resto del país
+100321,Shunqui,Shunqui,Dos de Mayo,10,Huánuco,Resto del país
+100322,Sillapata,Sillapata,Dos de Mayo,10,Huánuco,Resto del país
+100323,Yanas,Yanas,Dos de Mayo,10,Huánuco,Resto del país
+100401,Huacaybamba,Huacaybamba,Huacaybamba,10,Huánuco,Resto del país
+100402,Canchabamba,Canchabamba,Huacaybamba,10,Huánuco,Resto del país
+100403,Cochabamba,Cochabamba (Huacaybamba),Huacaybamba,10,Huánuco,Resto del país
+100404,Pinra,Pinra,Huacaybamba,10,Huánuco,Resto del país
+100501,Llata,Llata,Huamalies,10,Huánuco,Resto del país
+100502,Arancay,Arancay,Huamalies,10,Huánuco,Resto del país
+100503,Chavin de Pariarca,Chavin de Pariarca,Huamalies,10,Huánuco,Resto del país
+100504,Jacas Grande,Jacas Grande,Huamalies,10,Huánuco,Resto del país
+100505,Jircan,Jircan,Huamalies,10,Huánuco,Resto del país
+100506,Miraflores,Miraflores (Huamalies),Huamalies,10,Huánuco,Resto del país
+100507,Monzon,Monzon,Huamalies,10,Huánuco,Resto del país
+100508,Punchao,Punchao,Huamalies,10,Huánuco,Resto del país
+100509,Puños,Puños,Huamalies,10,Huánuco,Resto del país
+100510,Singa,Singa,Huamalies,10,Huánuco,Resto del país
+100511,Tantamayo,Tantamayo,Huamalies,10,Huánuco,Resto del país
+100601,Rupa-rupa,Rupa-rupa,Leoncio Prado,10,Huánuco,Resto del país
+100602,Daniel Alomias Robles,Daniel Alomias Robles,Leoncio Prado,10,Huánuco,Resto del país
+100603,Hermilio Valdizan,Hermilio Valdizan,Leoncio Prado,10,Huánuco,Resto del país
+100604,Jose Crespo y Castillo,Jose Crespo y Castillo,Leoncio Prado,10,Huánuco,Resto del país
+100605,Luyando,Luyando,Leoncio Prado,10,Huánuco,Resto del país
+100606,Mariano Damaso Beraun,Mariano Damaso Beraun,Leoncio Prado,10,Huánuco,Resto del país
+100608,Castillo Grande,Castillo Grande,Leoncio Prado,10,Huánuco,Resto del país
+100701,Huacrachuco,Huacrachuco,Marañon,10,Huánuco,Resto del país
+100702,Cholon,Cholon,Marañon,10,Huánuco,Resto del país
+100703,San Buenaventura,San Buenaventura (Marañon),Marañon,10,Huánuco,Resto del país
+100801,Panao,Panao,Pachitea,10,Huánuco,Resto del país
+100802,Chaglla,Chaglla,Pachitea,10,Huánuco,Resto del país
+100803,Molino,Molino,Pachitea,10,Huánuco,Resto del país
+100804,Umari,Umari,Pachitea,10,Huánuco,Resto del país
+100901,Puerto Inca,Puerto Inca,Puerto Inca,10,Huánuco,Resto del país
+100902,Codo del Pozuzo,Codo del Pozuzo,Puerto Inca,10,Huánuco,Resto del país
+100903,Honoria,Honoria,Puerto Inca,10,Huánuco,Resto del país
+100904,Tournavista,Tournavista,Puerto Inca,10,Huánuco,Resto del país
+100905,Yuyapichis,Yuyapichis,Puerto Inca,10,Huánuco,Resto del país
+101001,Jesus,Jesus (Lauricocha),Lauricocha,10,Huánuco,Resto del país
+101002,Baños,Baños,Lauricocha,10,Huánuco,Resto del país
+101003,Jivia,Jivia,Lauricocha,10,Huánuco,Resto del país
+101004,Queropalca,Queropalca,Lauricocha,10,Huánuco,Resto del país
+101005,Rondos,Rondos,Lauricocha,10,Huánuco,Resto del país
+101006,San Francisco de Asis,San Francisco de Asis,Lauricocha,10,Huánuco,Resto del país
+101007,San Miguel de Cauri,San Miguel de Cauri,Lauricocha,10,Huánuco,Resto del país
+101101,Chavinillo,Chavinillo,Yarowilca,10,Huánuco,Resto del país
+101102,Cahuac,Cahuac,Yarowilca,10,Huánuco,Resto del país
+101103,Chacabamba,Chacabamba,Yarowilca,10,Huánuco,Resto del país
+101104,Aparicio Pomares,Aparicio Pomares,Yarowilca,10,Huánuco,Resto del país
+101105,Jacas Chico,Jacas Chico,Yarowilca,10,Huánuco,Resto del país
+101106,Obas,Obas,Yarowilca,10,Huánuco,Resto del país
+101107,Pampamarca,Pampamarca (Yarowilca),Yarowilca,10,Huánuco,Resto del país
+101108,Choras,Choras,Yarowilca,10,Huánuco,Resto del país
+110101,Ica,Ica,Ica,11,Ica,Resto del país
+110102,La Tinguiña,La Tinguiña,Ica,11,Ica,Resto del país
+110103,Los Aquijes,Los Aquijes,Ica,11,Ica,Resto del país
+110104,Ocucaje,Ocucaje,Ica,11,Ica,Resto del país
+110105,Pachacutec,Pachacutec,Ica,11,Ica,Resto del país
+110106,Parcona,Parcona,Ica,11,Ica,Resto del país
+110107,Pueblo Nuevo,Pueblo Nuevo (Ica),Ica,11,Ica,Resto del país
+110108,Salas,Salas (Ica),Ica,11,Ica,Resto del país
+110109,San Jose de los Molinos,San Jose de los Molinos,Ica,11,Ica,Resto del país
+110110,San Juan Bautista,San Juan Bautista (Ica),Ica,11,Ica,Resto del país
+110111,Santiago,Santiago (Ica),Ica,11,Ica,Resto del país
+110112,Subtanjalla,Subtanjalla,Ica,11,Ica,Resto del país
+110113,Tate,Tate,Ica,11,Ica,Resto del país
+110114,Yauca del Rosario,Yauca del Rosario,Ica,11,Ica,Resto del país
+110201,Chincha Alta,Chincha Alta,Chincha,11,Ica,Resto del país
+110202,Alto Laran,Alto Laran,Chincha,11,Ica,Resto del país
+110203,Chavin,Chavin,Chincha,11,Ica,Resto del país
+110204,Chincha Baja,Chincha Baja,Chincha,11,Ica,Resto del país
+110205,El Carmen,El Carmen (Chincha),Chincha,11,Ica,Resto del país
+110206,Grocio Prado,Grocio Prado,Chincha,11,Ica,Resto del país
+110207,Pueblo Nuevo,Pueblo Nuevo (Chincha),Chincha,11,Ica,Resto del país
+110208,San Juan de Yanac,San Juan de Yanac,Chincha,11,Ica,Resto del país
+110209,San Pedro de Huacarpana,San Pedro de Huacarpana,Chincha,11,Ica,Resto del país
+110210,Sunampe,Sunampe,Chincha,11,Ica,Resto del país
+110211,Tambo de Mora,Tambo de Mora,Chincha,11,Ica,Resto del país
+110301,Nazca,Nazca,Nazca,11,Ica,Resto del país
+110302,Changuillo,Changuillo,Nazca,11,Ica,Resto del país
+110303,El Ingenio,El Ingenio,Nazca,11,Ica,Resto del país
+110304,Marcona,Marcona,Nazca,11,Ica,Resto del país
+110305,Vista Alegre,Vista Alegre (Nazca),Nazca,11,Ica,Resto del país
+110401,Palpa,Palpa,Palpa,11,Ica,Resto del país
+110402,Llipata,Llipata,Palpa,11,Ica,Resto del país
+110403,Rio Grande,Rio Grande (Palpa),Palpa,11,Ica,Resto del país
+110404,Santa Cruz,Santa Cruz (Palpa),Palpa,11,Ica,Resto del país
+110405,Tibillo,Tibillo,Palpa,11,Ica,Resto del país
+110501,Pisco,Pisco,Pisco,11,Ica,Resto del país
+110502,Huancano,Huancano,Pisco,11,Ica,Resto del país
+110503,Humay,Humay,Pisco,11,Ica,Resto del país
+110504,Independencia,Independencia (Pisco),Pisco,11,Ica,Resto del país
+110505,Paracas,Paracas,Pisco,11,Ica,Resto del país
+110506,San Andres,San Andres,Pisco,11,Ica,Resto del país
+110507,San Clemente,San Clemente,Pisco,11,Ica,Resto del país
+110508,Tupac Amaru Inca,Tupac Amaru Inca,Pisco,11,Ica,Resto del país
+120101,Huancayo,Huancayo,Huancayo,12,Junín,Resto del país
+120104,Carhuacallanga,Carhuacallanga,Huancayo,12,Junín,Resto del país
+120105,Chacapampa,Chacapampa,Huancayo,12,Junín,Resto del país
+120106,Chicche,Chicche,Huancayo,12,Junín,Resto del país
+120107,Chilca,Chilca (Huancayo),Huancayo,12,Junín,Resto del país
+120108,Chongos Alto,Chongos Alto,Huancayo,12,Junín,Resto del país
+120111,Chupuro,Chupuro,Huancayo,12,Junín,Resto del país
+120112,Colca,Colca (Huancayo),Huancayo,12,Junín,Resto del país
+120113,Cullhuas,Cullhuas,Huancayo,12,Junín,Resto del país
+120114,El Tambo,El Tambo,Huancayo,12,Junín,Resto del país
+120116,Huacrapuquio,Huacrapuquio,Huancayo,12,Junín,Resto del país
+120117,Hualhuas,Hualhuas,Huancayo,12,Junín,Resto del país
+120119,Huancan,Huancan,Huancayo,12,Junín,Resto del país
+120120,Huasicancha,Huasicancha,Huancayo,12,Junín,Resto del país
+120121,Huayucachi,Huayucachi,Huancayo,12,Junín,Resto del país
+120122,Ingenio,Ingenio,Huancayo,12,Junín,Resto del país
+120124,Pariahuanca,Pariahuanca (Huancayo),Huancayo,12,Junín,Resto del país
+120125,Pilcomayo,Pilcomayo,Huancayo,12,Junín,Resto del país
+120126,Pucara,Pucara (Huancayo),Huancayo,12,Junín,Resto del país
+120127,Quichuay,Quichuay,Huancayo,12,Junín,Resto del país
+120128,Quilcas,Quilcas,Huancayo,12,Junín,Resto del país
+120129,San Agustin,San Agustin,Huancayo,12,Junín,Resto del país
+120130,San Jeronimo de Tunan,San Jeronimo de Tunan,Huancayo,12,Junín,Resto del país
+120132,Saño,Saño,Huancayo,12,Junín,Resto del país
+120133,Sapallanga,Sapallanga,Huancayo,12,Junín,Resto del país
+120134,Sicaya,Sicaya,Huancayo,12,Junín,Resto del país
+120135,Santo Domingo de Acobamba,Santo Domingo de Acobamba,Huancayo,12,Junín,Resto del país
+120136,Viques,Viques,Huancayo,12,Junín,Resto del país
+120201,Concepcion,Concepcion (Concepcion),Concepcion,12,Junín,Resto del país
+120202,Aco,Aco (Concepcion),Concepcion,12,Junín,Resto del país
+120203,Andamarca,Andamarca,Concepcion,12,Junín,Resto del país
+120204,Chambara,Chambara,Concepcion,12,Junín,Resto del país
+120205,Cochas,Cochas (Concepcion),Concepcion,12,Junín,Resto del país
+120206,Comas,Comas (Concepcion),Concepcion,12,Junín,Resto del país
+120207,Heroinas Toledo,Heroinas Toledo,Concepcion,12,Junín,Resto del país
+120208,Manzanares,Manzanares,Concepcion,12,Junín,Resto del país
+120209,Mariscal Castilla,Mariscal Castilla (Concepcion),Concepcion,12,Junín,Resto del país
+120210,Matahuasi,Matahuasi,Concepcion,12,Junín,Resto del país
+120211,Mito,Mito,Concepcion,12,Junín,Resto del país
+120212,Nueve de Julio,Nueve de Julio,Concepcion,12,Junín,Resto del país
+120213,Orcotuna,Orcotuna,Concepcion,12,Junín,Resto del país
+120214,San Jose de Quero,San Jose de Quero,Concepcion,12,Junín,Resto del país
+120215,Santa Rosa de Ocopa,Santa Rosa de Ocopa,Concepcion,12,Junín,Resto del país
+120301,Chanchamayo,Chanchamayo,Chanchamayo,12,Junín,Resto del país
+120302,Perene,Perene,Chanchamayo,12,Junín,Resto del país
+120303,Pichanaqui,Pichanaqui,Chanchamayo,12,Junín,Resto del país
+120304,San Luis de Shuaro,San Luis de Shuaro,Chanchamayo,12,Junín,Resto del país
+120305,San Ramon,San Ramon,Chanchamayo,12,Junín,Resto del país
+120306,Vitoc,Vitoc,Chanchamayo,12,Junín,Resto del país
+120401,Jauja,Jauja,Jauja,12,Junín,Resto del país
+120402,Acolla,Acolla,Jauja,12,Junín,Resto del país
+120403,Apata,Apata,Jauja,12,Junín,Resto del país
+120404,Ataura,Ataura,Jauja,12,Junín,Resto del país
+120405,Canchayllo,Canchayllo,Jauja,12,Junín,Resto del país
+120406,Curicaca,Curicaca,Jauja,12,Junín,Resto del país
+120407,El Mantaro,El Mantaro,Jauja,12,Junín,Resto del país
+120408,Huamali,Huamali,Jauja,12,Junín,Resto del país
+120409,Huaripampa,Huaripampa,Jauja,12,Junín,Resto del país
+120410,Huertas,Huertas,Jauja,12,Junín,Resto del país
+120411,Janjaillo,Janjaillo,Jauja,12,Junín,Resto del país
+120412,Julcan,Julcan (Jauja),Jauja,12,Junín,Resto del país
+120413,Leonor Ordoñez,Leonor Ordoñez,Jauja,12,Junín,Resto del país
+120414,Llocllapampa,Llocllapampa,Jauja,12,Junín,Resto del país
+120415,Marco,Marco,Jauja,12,Junín,Resto del país
+120416,Masma,Masma,Jauja,12,Junín,Resto del país
+120417,Masma Chicche,Masma Chicche,Jauja,12,Junín,Resto del país
+120418,Molinos,Molinos,Jauja,12,Junín,Resto del país
+120419,Monobamba,Monobamba,Jauja,12,Junín,Resto del país
+120420,Muqui,Muqui,Jauja,12,Junín,Resto del país
+120421,Muquiyauyo,Muquiyauyo,Jauja,12,Junín,Resto del país
+120422,Paca,Paca,Jauja,12,Junín,Resto del país
+120423,Paccha,Paccha (Jauja),Jauja,12,Junín,Resto del país
+120424,Pancan,Pancan,Jauja,12,Junín,Resto del país
+120425,Parco,Parco,Jauja,12,Junín,Resto del país
+120426,Pomacancha,Pomacancha,Jauja,12,Junín,Resto del país
+120427,Ricran,Ricran,Jauja,12,Junín,Resto del país
+120428,San Lorenzo,San Lorenzo,Jauja,12,Junín,Resto del país
+120429,San Pedro de Chunan,San Pedro de Chunan,Jauja,12,Junín,Resto del país
+120430,Sausa,Sausa,Jauja,12,Junín,Resto del país
+120431,Sincos,Sincos,Jauja,12,Junín,Resto del país
+120432,Tunan Marca,Tunan Marca,Jauja,12,Junín,Resto del país
+120433,Yauli,Yauli (Jauja),Jauja,12,Junín,Resto del país
+120434,Yauyos,Yauyos (Jauja),Jauja,12,Junín,Resto del país
+120501,Junin,Junin,Junin,12,Junín,Resto del país
+120502,Carhuamayo,Carhuamayo,Junin,12,Junín,Resto del país
+120503,Ondores,Ondores,Junin,12,Junín,Resto del país
+120504,Ulcumayo,Ulcumayo,Junin,12,Junín,Resto del país
+120601,Satipo,Satipo,Satipo,12,Junín,Resto del país
+120602,Coviriali,Coviriali,Satipo,12,Junín,Resto del país
+120603,Llaylla,Llaylla,Satipo,12,Junín,Resto del país
+120604,Mazamari,Mazamari,Satipo,12,Junín,Resto del país
+120605,Pampa Hermosa,Pampa Hermosa (Satipo),Satipo,12,Junín,Resto del país
+120606,Pangoa,Pangoa,Satipo,12,Junín,Resto del país
+120607,Rio Negro,Rio Negro,Satipo,12,Junín,Resto del país
+120608,Rio Tambo,Rio Tambo,Satipo,12,Junín,Resto del país
+120701,Tarma,Tarma,Tarma,12,Junín,Resto del país
+120702,Acobamba,Acobamba (Tarma),Tarma,12,Junín,Resto del país
+120703,Huaricolca,Huaricolca,Tarma,12,Junín,Resto del país
+120704,Huasahuasi,Huasahuasi,Tarma,12,Junín,Resto del país
+120705,La Union,La Union (Tarma),Tarma,12,Junín,Resto del país
+120706,Palca,Palca (Tarma),Tarma,12,Junín,Resto del país
+120707,Palcamayo,Palcamayo,Tarma,12,Junín,Resto del país
+120708,San Pedro de Cajas,San Pedro de Cajas,Tarma,12,Junín,Resto del país
+120709,Tapo,Tapo,Tarma,12,Junín,Resto del país
+120801,La Oroya,La Oroya,Yauli,12,Junín,Resto del país
+120802,Chacapalpa,Chacapalpa,Yauli,12,Junín,Resto del país
+120803,Huay-huay,Huay-huay,Yauli,12,Junín,Resto del país
+120804,Marcapomacocha,Marcapomacocha,Yauli,12,Junín,Resto del país
+120805,Morococha,Morococha,Yauli,12,Junín,Resto del país
+120806,Paccha,Paccha (Yauli),Yauli,12,Junín,Resto del país
+120807,Santa Barbara de Carhuacayan,Santa Barbara de Carhuacayan,Yauli,12,Junín,Resto del país
+120808,Santa Rosa de Sacco,Santa Rosa de Sacco,Yauli,12,Junín,Resto del país
+120809,Suitucancha,Suitucancha,Yauli,12,Junín,Resto del país
+120810,Yauli,Yauli (Yauli),Yauli,12,Junín,Resto del país
+120901,Chupaca,Chupaca,Chupaca,12,Junín,Resto del país
+120902,Ahuac,Ahuac,Chupaca,12,Junín,Resto del país
+120903,Chongos Bajo,Chongos Bajo,Chupaca,12,Junín,Resto del país
+120904,Huachac,Huachac,Chupaca,12,Junín,Resto del país
+120905,Huamancaca Chico,Huamancaca Chico,Chupaca,12,Junín,Resto del país
+120906,San Juan de Yscos,San Juan de Yscos,Chupaca,12,Junín,Resto del país
+120907,San Juan de Jarpa,San Juan de Jarpa,Chupaca,12,Junín,Resto del país
+120908,Tres de Diciembre,Tres de Diciembre,Chupaca,12,Junín,Resto del país
+120909,Yanacancha,Yanacancha (Chupaca),Chupaca,12,Junín,Resto del país
+130101,Trujillo,Trujillo,Trujillo,13,La Libertad,Resto del país
+130102,El Porvenir,El Porvenir (Trujillo),Trujillo,13,La Libertad,Resto del país
+130103,Florencia de Mora,Florencia de Mora,Trujillo,13,La Libertad,Resto del país
+130104,Huanchaco,Huanchaco,Trujillo,13,La Libertad,Resto del país
+130105,La Esperanza,La Esperanza (Trujillo),Trujillo,13,La Libertad,Resto del país
+130106,Laredo,Laredo,Trujillo,13,La Libertad,Resto del país
+130107,Moche,Moche,Trujillo,13,La Libertad,Resto del país
+130108,Poroto,Poroto,Trujillo,13,La Libertad,Resto del país
+130109,Salaverry,Salaverry,Trujillo,13,La Libertad,Resto del país
+130110,Simbal,Simbal,Trujillo,13,La Libertad,Resto del país
+130111,Victor Larco Herrera,Victor Larco Herrera,Trujillo,13,La Libertad,Resto del país
+130201,Ascope,Ascope,Ascope,13,La Libertad,Resto del país
+130202,Chicama,Chicama,Ascope,13,La Libertad,Resto del país
+130203,Chocope,Chocope,Ascope,13,La Libertad,Resto del país
+130204,Magdalena de Cao,Magdalena de Cao,Ascope,13,La Libertad,Resto del país
+130205,Paijan,Paijan,Ascope,13,La Libertad,Resto del país
+130206,Razuri,Razuri,Ascope,13,La Libertad,Resto del país
+130207,Santiago de Cao,Santiago de Cao,Ascope,13,La Libertad,Resto del país
+130208,Casa Grande,Casa Grande,Ascope,13,La Libertad,Resto del país
+130301,Bolivar,Bolivar (Bolivar),Bolivar,13,La Libertad,Resto del país
+130302,Bambamarca,Bambamarca (Bolivar),Bolivar,13,La Libertad,Resto del país
+130303,Condormarca,Condormarca,Bolivar,13,La Libertad,Resto del país
+130304,Longotea,Longotea,Bolivar,13,La Libertad,Resto del país
+130305,Uchumarca,Uchumarca,Bolivar,13,La Libertad,Resto del país
+130306,Ucuncha,Ucuncha,Bolivar,13,La Libertad,Resto del país
+130401,Chepen,Chepen,Chepen,13,La Libertad,Resto del país
+130402,Pacanga,Pacanga,Chepen,13,La Libertad,Resto del país
+130403,Pueblo Nuevo,Pueblo Nuevo (Chepen),Chepen,13,La Libertad,Resto del país
+130501,Julcan,Julcan (Julcan),Julcan,13,La Libertad,Resto del país
+130502,Calamarca,Calamarca,Julcan,13,La Libertad,Resto del país
+130503,Carabamba,Carabamba,Julcan,13,La Libertad,Resto del país
+130504,Huaso,Huaso,Julcan,13,La Libertad,Resto del país
+130601,Otuzco,Otuzco,Otuzco,13,La Libertad,Resto del país
+130602,Agallpampa,Agallpampa,Otuzco,13,La Libertad,Resto del país
+130604,Charat,Charat,Otuzco,13,La Libertad,Resto del país
+130605,Huaranchal,Huaranchal,Otuzco,13,La Libertad,Resto del país
+130606,La Cuesta,La Cuesta,Otuzco,13,La Libertad,Resto del país
+130608,Mache,Mache,Otuzco,13,La Libertad,Resto del país
+130610,Paranday,Paranday,Otuzco,13,La Libertad,Resto del país
+130611,Salpo,Salpo,Otuzco,13,La Libertad,Resto del país
+130613,Sinsicap,Sinsicap,Otuzco,13,La Libertad,Resto del país
+130614,Usquil,Usquil,Otuzco,13,La Libertad,Resto del país
+130701,San Pedro de Lloc,San Pedro de Lloc,Pacasmayo,13,La Libertad,Resto del país
+130702,Guadalupe,Guadalupe,Pacasmayo,13,La Libertad,Resto del país
+130703,Jequetepeque,Jequetepeque,Pacasmayo,13,La Libertad,Resto del país
+130704,Pacasmayo,Pacasmayo,Pacasmayo,13,La Libertad,Resto del país
+130705,San Jose,San Jose (Pacasmayo),Pacasmayo,13,La Libertad,Resto del país
+130801,Tayabamba,Tayabamba,Pataz,13,La Libertad,Resto del país
+130802,Buldibuyo,Buldibuyo,Pataz,13,La Libertad,Resto del país
+130803,Chillia,Chillia,Pataz,13,La Libertad,Resto del país
+130804,Huancaspata,Huancaspata,Pataz,13,La Libertad,Resto del país
+130805,Huaylillas,Huaylillas,Pataz,13,La Libertad,Resto del país
+130806,Huayo,Huayo,Pataz,13,La Libertad,Resto del país
+130807,Ongon,Ongon,Pataz,13,La Libertad,Resto del país
+130808,Parcoy,Parcoy,Pataz,13,La Libertad,Resto del país
+130809,Pataz,Pataz,Pataz,13,La Libertad,Resto del país
+130810,Pias,Pias,Pataz,13,La Libertad,Resto del país
+130811,Santiago de Challas,Santiago de Challas,Pataz,13,La Libertad,Resto del país
+130812,Taurija,Taurija,Pataz,13,La Libertad,Resto del país
+130813,Urpay,Urpay,Pataz,13,La Libertad,Resto del país
+130901,Huamachuco,Huamachuco,Sanchez Carrion,13,La Libertad,Resto del país
+130902,Chugay,Chugay,Sanchez Carrion,13,La Libertad,Resto del país
+130903,Cochorco,Cochorco,Sanchez Carrion,13,La Libertad,Resto del país
+130904,Curgos,Curgos,Sanchez Carrion,13,La Libertad,Resto del país
+130905,Marcabal,Marcabal,Sanchez Carrion,13,La Libertad,Resto del país
+130906,Sanagoran,Sanagoran,Sanchez Carrion,13,La Libertad,Resto del país
+130907,Sarin,Sarin,Sanchez Carrion,13,La Libertad,Resto del país
+130908,Sartimbamba,Sartimbamba,Sanchez Carrion,13,La Libertad,Resto del país
+131001,Santiago de Chuco,Santiago de Chuco,Santiago de Chuco,13,La Libertad,Resto del país
+131002,Angasmarca,Angasmarca,Santiago de Chuco,13,La Libertad,Resto del país
+131003,Cachicadan,Cachicadan,Santiago de Chuco,13,La Libertad,Resto del país
+131004,Mollebamba,Mollebamba,Santiago de Chuco,13,La Libertad,Resto del país
+131005,Mollepata,Mollepata (Santiago de Chuco),Santiago de Chuco,13,La Libertad,Resto del país
+131006,Quiruvilca,Quiruvilca,Santiago de Chuco,13,La Libertad,Resto del país
+131007,Santa Cruz de Chuca,Santa Cruz de Chuca,Santiago de Chuco,13,La Libertad,Resto del país
+131008,Sitabamba,Sitabamba,Santiago de Chuco,13,La Libertad,Resto del país
+131101,Cascas,Cascas,Gran Chimu,13,La Libertad,Resto del país
+131102,Lucma,Lucma (Gran Chimu),Gran Chimu,13,La Libertad,Resto del país
+131103,Compin,Compin,Gran Chimu,13,La Libertad,Resto del país
+131104,Sayapullo,Sayapullo,Gran Chimu,13,La Libertad,Resto del país
+131201,Viru,Viru,Viru,13,La Libertad,Resto del país
+131202,Chao,Chao,Viru,13,La Libertad,Resto del país
+131203,Guadalupito,Guadalupito,Viru,13,La Libertad,Resto del país
+140101,Chiclayo,Chiclayo,Chiclayo,14,Lambayeque,Resto del país
+140102,Chongoyape,Chongoyape,Chiclayo,14,Lambayeque,Resto del país
+140103,Eten,Eten,Chiclayo,14,Lambayeque,Resto del país
+140104,Eten Puerto,Eten Puerto,Chiclayo,14,Lambayeque,Resto del país
+140105,Jose Leonardo Ortiz,Jose Leonardo Ortiz,Chiclayo,14,Lambayeque,Resto del país
+140106,La Victoria,La Victoria (Chiclayo),Chiclayo,14,Lambayeque,Resto del país
+140107,Lagunas,Lagunas (Chiclayo),Chiclayo,14,Lambayeque,Resto del país
+140108,Monsefu,Monsefu,Chiclayo,14,Lambayeque,Resto del país
+140109,Nueva Arica,Nueva Arica,Chiclayo,14,Lambayeque,Resto del país
+140110,Oyotun,Oyotun,Chiclayo,14,Lambayeque,Resto del país
+140111,Picsi,Picsi,Chiclayo,14,Lambayeque,Resto del país
+140112,Pimentel,Pimentel,Chiclayo,14,Lambayeque,Resto del país
+140113,Reque,Reque,Chiclayo,14,Lambayeque,Resto del país
+140114,Santa Rosa,Santa Rosa (Chiclayo),Chiclayo,14,Lambayeque,Resto del país
+140115,Saña,Saña,Chiclayo,14,Lambayeque,Resto del país
+140116,Cayalti,Cayalti,Chiclayo,14,Lambayeque,Resto del país
+140117,Patapo,Patapo,Chiclayo,14,Lambayeque,Resto del país
+140118,Pomalca,Pomalca,Chiclayo,14,Lambayeque,Resto del país
+140119,Pucala,Pucala,Chiclayo,14,Lambayeque,Resto del país
+140120,Tuman,Tuman,Chiclayo,14,Lambayeque,Resto del país
+140201,Ferreñafe,Ferreñafe,Ferreñafe,14,Lambayeque,Resto del país
+140202,Cañaris,Cañaris,Ferreñafe,14,Lambayeque,Resto del país
+140203,Incahuasi,Incahuasi,Ferreñafe,14,Lambayeque,Resto del país
+140204,Manuel Antonio Mesones Muro,Manuel Antonio Mesones Muro,Ferreñafe,14,Lambayeque,Resto del país
+140205,Pitipo,Pitipo,Ferreñafe,14,Lambayeque,Resto del país
+140206,Pueblo Nuevo,Pueblo Nuevo (Ferreñafe),Ferreñafe,14,Lambayeque,Resto del país
+140301,Lambayeque,Lambayeque,Lambayeque,14,Lambayeque,Resto del país
+140302,Chochope,Chochope,Lambayeque,14,Lambayeque,Resto del país
+140303,Illimo,Illimo,Lambayeque,14,Lambayeque,Resto del país
+140304,Jayanca,Jayanca,Lambayeque,14,Lambayeque,Resto del país
+140305,Mochumi,Mochumi,Lambayeque,14,Lambayeque,Resto del país
+140306,Morrope,Morrope,Lambayeque,14,Lambayeque,Resto del país
+140307,Motupe,Motupe,Lambayeque,14,Lambayeque,Resto del país
+140308,Olmos,Olmos,Lambayeque,14,Lambayeque,Resto del país
+140309,Pacora,Pacora,Lambayeque,14,Lambayeque,Resto del país
+140310,Salas,Salas (Lambayeque),Lambayeque,14,Lambayeque,Resto del país
+140311,San Jose,San Jose (Lambayeque),Lambayeque,14,Lambayeque,Resto del país
+140312,Tucume,Tucume,Lambayeque,14,Lambayeque,Resto del país
+150101,Lima,Lima,Lima,1501,Lima Metropolitana,Lima y Callao
+150102,Ancon,Ancon,Lima,1501,Lima Metropolitana,Lima y Callao
+150103,Ate,Ate,Lima,1501,Lima Metropolitana,Lima y Callao
+150104,Barranco,Barranco,Lima,1501,Lima Metropolitana,Lima y Callao
+150105,Breña,Breña,Lima,1501,Lima Metropolitana,Lima y Callao
+150106,Carabayllo,Carabayllo,Lima,1501,Lima Metropolitana,Lima y Callao
+150107,Chaclacayo,Chaclacayo,Lima,1501,Lima Metropolitana,Lima y Callao
+150108,Chorrillos,Chorrillos,Lima,1501,Lima Metropolitana,Lima y Callao
+150109,Cieneguilla,Cieneguilla,Lima,1501,Lima Metropolitana,Lima y Callao
+150110,Comas,Comas (Lima),Lima,1501,Lima Metropolitana,Lima y Callao
+150111,El Agustino,El Agustino,Lima,1501,Lima Metropolitana,Lima y Callao
+150112,Independencia,Independencia (Lima),Lima,1501,Lima Metropolitana,Lima y Callao
+150113,Jesus Maria,Jesus Maria,Lima,1501,Lima Metropolitana,Lima y Callao
+150114,La Molina,La Molina,Lima,1501,Lima Metropolitana,Lima y Callao
+150115,La Victoria,La Victoria (Lima),Lima,1501,Lima Metropolitana,Lima y Callao
+150116,Lince,Lince,Lima,1501,Lima Metropolitana,Lima y Callao
+150117,Los Olivos,Los Olivos,Lima,1501,Lima Metropolitana,Lima y Callao
+150118,Lurigancho - Chosica,Lurigancho - Chosica,Lima,1501,Lima Metropolitana,Lima y Callao
+150119,Lurin,Lurin,Lima,1501,Lima Metropolitana,Lima y Callao
+150120,Magdalena del Mar,Magdalena del Mar,Lima,1501,Lima Metropolitana,Lima y Callao
+150121,Pueblo Libre,Pueblo Libre (Lima),Lima,1501,Lima Metropolitana,Lima y Callao
+150122,Miraflores,Miraflores (Lima),Lima,1501,Lima Metropolitana,Lima y Callao
+150123,Pachacamac,Pachacamac,Lima,1501,Lima Metropolitana,Lima y Callao
+150124,Pucusana,Pucusana,Lima,1501,Lima Metropolitana,Lima y Callao
+150125,Puente Piedra,Puente Piedra,Lima,1501,Lima Metropolitana,Lima y Callao
+150126,Punta Hermosa,Punta Hermosa,Lima,1501,Lima Metropolitana,Lima y Callao
+150127,Punta Negra,Punta Negra,Lima,1501,Lima Metropolitana,Lima y Callao
+150128,Rimac,Rimac,Lima,1501,Lima Metropolitana,Lima y Callao
+150129,San Bartolo,San Bartolo,Lima,1501,Lima Metropolitana,Lima y Callao
+150130,San Borja,San Borja,Lima,1501,Lima Metropolitana,Lima y Callao
+150131,San Isidro,San Isidro,Lima,1501,Lima Metropolitana,Lima y Callao
+150132,San Juan de Lurigancho,San Juan de Lurigancho,Lima,1501,Lima Metropolitana,Lima y Callao
+150133,San Juan de Miraflores,San Juan de Miraflores,Lima,1501,Lima Metropolitana,Lima y Callao
+150134,San Luis,San Luis (Lima),Lima,1501,Lima Metropolitana,Lima y Callao
+150135,San Martin de Porres,San Martin de Porres,Lima,1501,Lima Metropolitana,Lima y Callao
+150136,San Miguel,San Miguel (Lima),Lima,1501,Lima Metropolitana,Lima y Callao
+150137,Santa Anita,Santa Anita,Lima,1501,Lima Metropolitana,Lima y Callao
+150138,Santa Maria del Mar,Santa Maria del Mar,Lima,1501,Lima Metropolitana,Lima y Callao
+150139,Santa Rosa,Santa Rosa (Lima),Lima,1501,Lima Metropolitana,Lima y Callao
+150140,Santiago de Surco,Santiago de Surco,Lima,1501,Lima Metropolitana,Lima y Callao
+150141,Surquillo,Surquillo,Lima,1501,Lima Metropolitana,Lima y Callao
+150142,Villa el Salvador,Villa el Salvador,Lima,1501,Lima Metropolitana,Lima y Callao
+150143,Villa Maria del Triunfo,Villa Maria del Triunfo,Lima,1501,Lima Metropolitana,Lima y Callao
+150201,Barranca,Barranca (Barranca),Barranca,1599,Región Lima,Resto del país
+150202,Paramonga,Paramonga,Barranca,1599,Región Lima,Resto del país
+150203,Pativilca,Pativilca,Barranca,1599,Región Lima,Resto del país
+150204,Supe,Supe,Barranca,1599,Región Lima,Resto del país
+150205,Supe Puerto,Supe Puerto,Barranca,1599,Región Lima,Resto del país
+150301,Cajatambo,Cajatambo,Cajatambo,1599,Región Lima,Resto del país
+150302,Copa,Copa,Cajatambo,1599,Región Lima,Resto del país
+150303,Gorgor,Gorgor,Cajatambo,1599,Región Lima,Resto del país
+150304,Huancapon,Huancapon,Cajatambo,1599,Región Lima,Resto del país
+150305,Manas,Manas,Cajatambo,1599,Región Lima,Resto del país
+150401,Canta,Canta,Canta,1599,Región Lima,Resto del país
+150402,Arahuay,Arahuay,Canta,1599,Región Lima,Resto del país
+150403,Huamantanga,Huamantanga,Canta,1599,Región Lima,Resto del país
+150404,Huaros,Huaros,Canta,1599,Región Lima,Resto del país
+150405,Lachaqui,Lachaqui,Canta,1599,Región Lima,Resto del país
+150406,San Buenaventura,San Buenaventura (Canta),Canta,1599,Región Lima,Resto del país
+150407,Santa Rosa de Quives,Santa Rosa de Quives,Canta,1599,Región Lima,Resto del país
+150501,San Vicente de Cañete,San Vicente de Cañete,Cañete,1599,Región Lima,Resto del país
+150502,Asia,Asia,Cañete,1599,Región Lima,Resto del país
+150503,Calango,Calango,Cañete,1599,Región Lima,Resto del país
+150504,Cerro Azul,Cerro Azul,Cañete,1599,Región Lima,Resto del país
+150505,Chilca,Chilca (Cañete),Cañete,1599,Región Lima,Resto del país
+150506,Coayllo,Coayllo,Cañete,1599,Región Lima,Resto del país
+150507,Imperial,Imperial,Cañete,1599,Región Lima,Resto del país
+150508,Lunahuana,Lunahuana,Cañete,1599,Región Lima,Resto del país
+150509,Mala,Mala,Cañete,1599,Región Lima,Resto del país
+150510,Nuevo Imperial,Nuevo Imperial,Cañete,1599,Región Lima,Resto del país
+150511,Pacaran,Pacaran,Cañete,1599,Región Lima,Resto del país
+150512,Quilmana,Quilmana,Cañete,1599,Región Lima,Resto del país
+150513,San Antonio,San Antonio (Cañete),Cañete,1599,Región Lima,Resto del país
+150514,San Luis,San Luis (Cañete),Cañete,1599,Región Lima,Resto del país
+150515,Santa Cruz de Flores,Santa Cruz de Flores,Cañete,1599,Región Lima,Resto del país
+150516,Zuñiga,Zuñiga,Cañete,1599,Región Lima,Resto del país
+150601,Huaral,Huaral,Huaral,1599,Región Lima,Resto del país
+150602,Atavillos Alto,Atavillos Alto,Huaral,1599,Región Lima,Resto del país
+150603,Atavillos Bajo,Atavillos Bajo,Huaral,1599,Región Lima,Resto del país
+150604,Aucallama,Aucallama,Huaral,1599,Región Lima,Resto del país
+150605,Chancay,Chancay (Huaral),Huaral,1599,Región Lima,Resto del país
+150606,Ihuari,Ihuari,Huaral,1599,Región Lima,Resto del país
+150607,Lampian,Lampian,Huaral,1599,Región Lima,Resto del país
+150608,Pacaraos,Pacaraos,Huaral,1599,Región Lima,Resto del país
+150609,San Miguel de Acos,San Miguel de Acos,Huaral,1599,Región Lima,Resto del país
+150610,Santa Cruz de Andamarca,Santa Cruz de Andamarca,Huaral,1599,Región Lima,Resto del país
+150611,Sumbilca,Sumbilca,Huaral,1599,Región Lima,Resto del país
+150701,Matucana,Matucana,Huarochiri,1599,Región Lima,Resto del país
+150702,Antioquia,Antioquia,Huarochiri,1599,Región Lima,Resto del país
+150703,Callahuanca,Callahuanca,Huarochiri,1599,Región Lima,Resto del país
+150704,Carampoma,Carampoma,Huarochiri,1599,Región Lima,Resto del país
+150705,Chicla,Chicla,Huarochiri,1599,Región Lima,Resto del país
+150706,Cuenca,Cuenca (Huarochiri),Huarochiri,1599,Región Lima,Resto del país
+150707,Huachupampa,Huachupampa,Huarochiri,1599,Región Lima,Resto del país
+150708,Huanza,Huanza,Huarochiri,1599,Región Lima,Resto del país
+150709,Huarochiri,Huarochiri,Huarochiri,1599,Región Lima,Resto del país
+150710,Lahuaytambo,Lahuaytambo,Huarochiri,1599,Región Lima,Resto del país
+150711,Langa,Langa,Huarochiri,1599,Región Lima,Resto del país
+150712,Laraos,Laraos (Huarochiri),Huarochiri,1599,Región Lima,Resto del país
+150713,Mariatana,Mariatana,Huarochiri,1599,Región Lima,Resto del país
+150714,Ricardo Palma,Ricardo Palma,Huarochiri,1599,Región Lima,Resto del país
+150715,San Andres de Tupicocha,San Andres de Tupicocha,Huarochiri,1599,Región Lima,Resto del país
+150716,San Antonio,San Antonio (Huarochiri),Huarochiri,1599,Región Lima,Resto del país
+150717,San Bartolome,San Bartolome,Huarochiri,1599,Región Lima,Resto del país
+150718,San Damian,San Damian,Huarochiri,1599,Región Lima,Resto del país
+150719,San Juan de Iris,San Juan de Iris,Huarochiri,1599,Región Lima,Resto del país
+150720,San Juan de Tantaranche,San Juan de Tantaranche,Huarochiri,1599,Región Lima,Resto del país
+150721,San Lorenzo de Quinti,San Lorenzo de Quinti,Huarochiri,1599,Región Lima,Resto del país
+150722,San Mateo,San Mateo,Huarochiri,1599,Región Lima,Resto del país
+150723,San Mateo de Otao,San Mateo de Otao,Huarochiri,1599,Región Lima,Resto del país
+150724,San Pedro de Casta,San Pedro de Casta,Huarochiri,1599,Región Lima,Resto del país
+150725,San Pedro de Huancayre,San Pedro de Huancayre,Huarochiri,1599,Región Lima,Resto del país
+150726,Sangallaya,Sangallaya,Huarochiri,1599,Región Lima,Resto del país
+150727,Santa Cruz de Cocachacra,Santa Cruz de Cocachacra,Huarochiri,1599,Región Lima,Resto del país
+150728,Santa Eulalia,Santa Eulalia,Huarochiri,1599,Región Lima,Resto del país
+150729,Santiago de Anchucaya,Santiago de Anchucaya,Huarochiri,1599,Región Lima,Resto del país
+150730,Santiago de Tuna,Santiago de Tuna,Huarochiri,1599,Región Lima,Resto del país
+150731,Santo Domingo de los Olleros,Santo Domingo de los Olleros,Huarochiri,1599,Región Lima,Resto del país
+150732,Surco,Surco,Huarochiri,1599,Región Lima,Resto del país
+150801,Huacho,Huacho,Huaura,1599,Región Lima,Resto del país
+150802,Ambar,Ambar,Huaura,1599,Región Lima,Resto del país
+150803,Caleta de Carquin,Caleta de Carquin,Huaura,1599,Región Lima,Resto del país
+150804,Checras,Checras,Huaura,1599,Región Lima,Resto del país
+150805,Hualmay,Hualmay,Huaura,1599,Región Lima,Resto del país
+150806,Huaura,Huaura,Huaura,1599,Región Lima,Resto del país
+150807,Leoncio Prado,Leoncio Prado (Huaura),Huaura,1599,Región Lima,Resto del país
+150808,Paccho,Paccho,Huaura,1599,Región Lima,Resto del país
+150809,Santa Leonor,Santa Leonor,Huaura,1599,Región Lima,Resto del país
+150810,Santa Maria,Santa Maria,Huaura,1599,Región Lima,Resto del país
+150811,Sayan,Sayan,Huaura,1599,Región Lima,Resto del país
+150812,Vegueta,Vegueta,Huaura,1599,Región Lima,Resto del país
+150901,Oyon,Oyon,Oyon,1599,Región Lima,Resto del país
+150902,Andajes,Andajes,Oyon,1599,Región Lima,Resto del país
+150903,Caujul,Caujul,Oyon,1599,Región Lima,Resto del país
+150904,Cochamarca,Cochamarca,Oyon,1599,Región Lima,Resto del país
+150905,Navan,Navan,Oyon,1599,Región Lima,Resto del país
+150906,Pachangara,Pachangara,Oyon,1599,Región Lima,Resto del país
+151001,Yauyos,Yauyos (Yauyos),Yauyos,1599,Región Lima,Resto del país
+151002,Alis,Alis,Yauyos,1599,Región Lima,Resto del país
+151003,Ayauca,Ayauca,Yauyos,1599,Región Lima,Resto del país
+151004,Ayaviri,Ayaviri (Yauyos),Yauyos,1599,Región Lima,Resto del país
+151005,Azangaro,Azangaro (Yauyos),Yauyos,1599,Región Lima,Resto del país
+151006,Cacra,Cacra,Yauyos,1599,Región Lima,Resto del país
+151007,Carania,Carania,Yauyos,1599,Región Lima,Resto del país
+151008,Catahuasi,Catahuasi,Yauyos,1599,Región Lima,Resto del país
+151009,Chocos,Chocos,Yauyos,1599,Región Lima,Resto del país
+151010,Cochas,Cochas (Yauyos),Yauyos,1599,Región Lima,Resto del país
+151011,Colonia,Colonia,Yauyos,1599,Región Lima,Resto del país
+151012,Hongos,Hongos,Yauyos,1599,Región Lima,Resto del país
+151014,Huancaya,Huancaya,Yauyos,1599,Región Lima,Resto del país
+151015,Huangascar,Huangascar,Yauyos,1599,Región Lima,Resto del país
+151016,Huantan,Huantan,Yauyos,1599,Región Lima,Resto del país
+151017,Huañec,Huañec,Yauyos,1599,Región Lima,Resto del país
+151018,Laraos,Laraos (Yauyos),Yauyos,1599,Región Lima,Resto del país
+151019,Lincha,Lincha,Yauyos,1599,Región Lima,Resto del país
+151020,Madean,Madean,Yauyos,1599,Región Lima,Resto del país
+151021,Miraflores,Miraflores (Yauyos),Yauyos,1599,Región Lima,Resto del país
+151022,Omas,Omas,Yauyos,1599,Región Lima,Resto del país
+151023,Putinza,Putinza,Yauyos,1599,Región Lima,Resto del país
+151024,Quinches,Quinches,Yauyos,1599,Región Lima,Resto del país
+151025,Quinocay,Quinocay,Yauyos,1599,Región Lima,Resto del país
+151026,San Joaquin,San Joaquin,Yauyos,1599,Región Lima,Resto del país
+151027,San Pedro de Pilas,San Pedro de Pilas,Yauyos,1599,Región Lima,Resto del país
+151028,Tanta,Tanta,Yauyos,1599,Región Lima,Resto del país
+151029,Tauripampa,Tauripampa,Yauyos,1599,Región Lima,Resto del país
+151030,Tomas,Tomas,Yauyos,1599,Región Lima,Resto del país
+151031,Tupe,Tupe,Yauyos,1599,Región Lima,Resto del país
+151032,Viñac,Viñac,Yauyos,1599,Región Lima,Resto del país
+151033,Vitis,Vitis,Yauyos,1599,Región Lima,Resto del país
+160101,Iquitos,Iquitos,Maynas,16,Loreto,Resto del país
+160102,Alto Nanay,Alto Nanay,Maynas,16,Loreto,Resto del país
+160103,Fernando Lores,Fernando Lores,Maynas,16,Loreto,Resto del país
+160104,Indiana,Indiana,Maynas,16,Loreto,Resto del país
+160105,Las Amazonas,Las Amazonas,Maynas,16,Loreto,Resto del país
+160106,Mazan,Mazan,Maynas,16,Loreto,Resto del país
+160107,Napo,Napo,Maynas,16,Loreto,Resto del país
+160108,Punchana,Punchana,Maynas,16,Loreto,Resto del país
+160110,Torres Causana,Torres Causana,Maynas,16,Loreto,Resto del país
+160112,Belen,Belen (Maynas),Maynas,16,Loreto,Resto del país
+160113,San Juan Bautista,San Juan Bautista (Maynas),Maynas,16,Loreto,Resto del país
+160201,Yurimaguas,Yurimaguas,Alto Amazonas,16,Loreto,Resto del país
+160202,Balsapuerto,Balsapuerto,Alto Amazonas,16,Loreto,Resto del país
+160205,Jeberos,Jeberos,Alto Amazonas,16,Loreto,Resto del país
+160206,Lagunas,Lagunas (Alto Amazonas),Alto Amazonas,16,Loreto,Resto del país
+160210,Santa Cruz,Santa Cruz (Alto Amazonas),Alto Amazonas,16,Loreto,Resto del país
+160211,Teniente Cesar Lopez Rojas,Teniente Cesar Lopez Rojas,Alto Amazonas,16,Loreto,Resto del país
+160301,Nauta,Nauta,Loreto,16,Loreto,Resto del país
+160302,Parinari,Parinari,Loreto,16,Loreto,Resto del país
+160303,Tigre,Tigre,Loreto,16,Loreto,Resto del país
+160304,Trompeteros,Trompeteros,Loreto,16,Loreto,Resto del país
+160305,Urarinas,Urarinas,Loreto,16,Loreto,Resto del país
+160401,Ramon Castilla,Ramon Castilla,Mariscal Ramon Castilla,16,Loreto,Resto del país
+160402,Pebas,Pebas,Mariscal Ramon Castilla,16,Loreto,Resto del país
+160403,Yavari,Yavari,Mariscal Ramon Castilla,16,Loreto,Resto del país
+160404,San Pablo,San Pablo (Mariscal Ramon Castilla),Mariscal Ramon Castilla,16,Loreto,Resto del país
+160501,Requena,Requena,Requena,16,Loreto,Resto del país
+160502,Alto Tapiche,Alto Tapiche,Requena,16,Loreto,Resto del país
+160503,Capelo,Capelo,Requena,16,Loreto,Resto del país
+160504,Emilio San Martin,Emilio San Martin,Requena,16,Loreto,Resto del país
+160505,Maquia,Maquia,Requena,16,Loreto,Resto del país
+160506,Puinahua,Puinahua,Requena,16,Loreto,Resto del país
+160507,Saquena,Saquena,Requena,16,Loreto,Resto del país
+160508,Soplin,Soplin,Requena,16,Loreto,Resto del país
+160509,Tapiche,Tapiche,Requena,16,Loreto,Resto del país
+160510,Jenaro Herrera,Jenaro Herrera,Requena,16,Loreto,Resto del país
+160601,Contamana,Contamana,Ucayali,16,Loreto,Resto del país
+160602,Inahuaya,Inahuaya,Ucayali,16,Loreto,Resto del país
+160603,Padre Marquez,Padre Marquez,Ucayali,16,Loreto,Resto del país
+160604,Pampa Hermosa,Pampa Hermosa (Ucayali),Ucayali,16,Loreto,Resto del país
+160605,Sarayacu,Sarayacu,Ucayali,16,Loreto,Resto del país
+160606,Vargas Guerra,Vargas Guerra,Ucayali,16,Loreto,Resto del país
+160701,Barranca,Barranca (Datem del Marañon),Datem del Marañon,16,Loreto,Resto del país
+160702,Cahuapanas,Cahuapanas,Datem del Marañon,16,Loreto,Resto del país
+160703,Manseriche,Manseriche,Datem del Marañon,16,Loreto,Resto del país
+160704,Morona,Morona,Datem del Marañon,16,Loreto,Resto del país
+160705,Pastaza,Pastaza,Datem del Marañon,16,Loreto,Resto del país
+160706,Andoas,Andoas,Datem del Marañon,16,Loreto,Resto del país
+160801,Putumayo,Putumayo,Putumayo,16,Loreto,Resto del país
+160803,Teniente Manuel Clavero,Teniente Manuel Clavero,Maynas,16,Loreto,Resto del país
+170101,Tambopata,Tambopata,Tambopata,17,Madre de Dios,Resto del país
+170102,Inambari,Inambari,Tambopata,17,Madre de Dios,Resto del país
+170103,Las Piedras,Las Piedras,Tambopata,17,Madre de Dios,Resto del país
+170104,Laberinto,Laberinto,Tambopata,17,Madre de Dios,Resto del país
+170201,Manu,Manu,Manu,17,Madre de Dios,Resto del país
+170202,Fitzcarrald,Fitzcarrald,Manu,17,Madre de Dios,Resto del país
+170203,Madre de Dios,Madre de Dios,Manu,17,Madre de Dios,Resto del país
+170204,Huepetuhe,Huepetuhe,Manu,17,Madre de Dios,Resto del país
+170301,Iñapari,Iñapari,Tahuamanu,17,Madre de Dios,Resto del país
+170302,Iberia,Iberia,Tahuamanu,17,Madre de Dios,Resto del país
+170303,Tahuamanu,Tahuamanu,Tahuamanu,17,Madre de Dios,Resto del país
+180101,Moquegua,Moquegua,Mariscal Nieto,18,Moquegua,Resto del país
+180102,Carumas,Carumas,Mariscal Nieto,18,Moquegua,Resto del país
+180103,Cuchumbaya,Cuchumbaya,Mariscal Nieto,18,Moquegua,Resto del país
+180104,Samegua,Samegua,Mariscal Nieto,18,Moquegua,Resto del país
+180105,San Cristobal,San Cristobal (Mariscal Nieto),Mariscal Nieto,18,Moquegua,Resto del país
+180106,Torata,Torata,Mariscal Nieto,18,Moquegua,Resto del país
+180201,Omate,Omate,General Sanchez Cerro,18,Moquegua,Resto del país
+180202,Chojata,Chojata,General Sanchez Cerro,18,Moquegua,Resto del país
+180203,Coalaque,Coalaque,General Sanchez Cerro,18,Moquegua,Resto del país
+180204,Ichuña,Ichuña,General Sanchez Cerro,18,Moquegua,Resto del país
+180205,La Capilla,La Capilla,General Sanchez Cerro,18,Moquegua,Resto del país
+180207,Matalaque,Matalaque,General Sanchez Cerro,18,Moquegua,Resto del país
+180208,Puquina,Puquina,General Sanchez Cerro,18,Moquegua,Resto del país
+180209,Quinistaquillas,Quinistaquillas,General Sanchez Cerro,18,Moquegua,Resto del país
+180210,Ubinas,Ubinas,General Sanchez Cerro,18,Moquegua,Resto del país
+180211,Yunga,Yunga,General Sanchez Cerro,18,Moquegua,Resto del país
+180301,Ilo,Ilo,Ilo,18,Moquegua,Resto del país
+180302,El Algarrobal,El Algarrobal,Ilo,18,Moquegua,Resto del país
+180303,Pacocha,Pacocha,Ilo,18,Moquegua,Resto del país
+190101,Chaupimarca,Chaupimarca,Pasco,19,Pasco,Resto del país
+190102,Huachon,Huachon,Pasco,19,Pasco,Resto del país
+190103,Huariaca,Huariaca,Pasco,19,Pasco,Resto del país
+190104,Huayllay,Huayllay,Pasco,19,Pasco,Resto del país
+190105,Ninacaca,Ninacaca,Pasco,19,Pasco,Resto del país
+190106,Pallanchacra,Pallanchacra,Pasco,19,Pasco,Resto del país
+190107,Paucartambo,Paucartambo (Pasco),Pasco,19,Pasco,Resto del país
+190108,San Francisco de Asis de Yarusyacan,San Francisco de Asis de Yarusyacan,Pasco,19,Pasco,Resto del país
+190109,Simon Bolivar,Simon Bolivar,Pasco,19,Pasco,Resto del país
+190110,Ticlacayan,Ticlacayan,Pasco,19,Pasco,Resto del país
+190111,Tinyahuarco,Tinyahuarco,Pasco,19,Pasco,Resto del país
+190112,Vicco,Vicco,Pasco,19,Pasco,Resto del país
+190113,Yanacancha,Yanacancha (Pasco),Pasco,19,Pasco,Resto del país
+190201,Yanahuanca,Yanahuanca,Daniel Alcides Carrion,19,Pasco,Resto del país
+190202,Chacayan,Chacayan,Daniel Alcides Carrion,19,Pasco,Resto del país
+190203,Goyllarisquizga,Goyllarisquizga,Daniel Alcides Carrion,19,Pasco,Resto del país
+190204,Paucar,Paucar,Daniel Alcides Carrion,19,Pasco,Resto del país
+190205,San Pedro de Pillao,San Pedro de Pillao,Daniel Alcides Carrion,19,Pasco,Resto del país
+190206,Santa Ana de Tusi,Santa Ana de Tusi,Daniel Alcides Carrion,19,Pasco,Resto del país
+190207,Tapuc,Tapuc,Daniel Alcides Carrion,19,Pasco,Resto del país
+190208,Vilcabamba,Vilcabamba (Daniel Alcides Carrion),Daniel Alcides Carrion,19,Pasco,Resto del país
+190301,Oxapampa,Oxapampa,Oxapampa,19,Pasco,Resto del país
+190302,Chontabamba,Chontabamba,Oxapampa,19,Pasco,Resto del país
+190303,Huancabamba,Huancabamba (Oxapampa),Oxapampa,19,Pasco,Resto del país
+190304,Palcazu,Palcazu,Oxapampa,19,Pasco,Resto del país
+190305,Pozuzo,Pozuzo,Oxapampa,19,Pasco,Resto del país
+190306,Puerto Bermudez,Puerto Bermudez,Oxapampa,19,Pasco,Resto del país
+190307,Villa Rica,Villa Rica,Oxapampa,19,Pasco,Resto del país
+190308,Constitucion,Constitucion,Oxapampa,19,Pasco,Resto del país
+200101,Piura,Piura,Piura,20,Piura,Resto del país
+200104,Castilla,Castilla,Piura,20,Piura,Resto del país
+200105,Catacaos,Catacaos,Piura,20,Piura,Resto del país
+200107,Cura Mori,Cura Mori,Piura,20,Piura,Resto del país
+200108,El Tallan,El Tallan,Piura,20,Piura,Resto del país
+200109,La Arena,La Arena,Piura,20,Piura,Resto del país
+200110,La Union,La Union (Piura),Piura,20,Piura,Resto del país
+200111,Las Lomas,Las Lomas,Piura,20,Piura,Resto del país
+200114,Tambo Grande,Tambo Grande,Piura,20,Piura,Resto del país
+200115,26 de Octubre,26 de Octubre,Piura,20,Piura,Resto del país
+200201,Ayabaca,Ayabaca,Ayabaca,20,Piura,Resto del país
+200202,Frias,Frias,Ayabaca,20,Piura,Resto del país
+200203,Jilili,Jilili,Ayabaca,20,Piura,Resto del país
+200204,Lagunas,Lagunas (Ayabaca),Ayabaca,20,Piura,Resto del país
+200205,Montero,Montero,Ayabaca,20,Piura,Resto del país
+200206,Pacaipampa,Pacaipampa,Ayabaca,20,Piura,Resto del país
+200207,Paimas,Paimas,Ayabaca,20,Piura,Resto del país
+200208,Sapillica,Sapillica,Ayabaca,20,Piura,Resto del país
+200209,Sicchez,Sicchez,Ayabaca,20,Piura,Resto del país
+200210,Suyo,Suyo,Ayabaca,20,Piura,Resto del país
+200301,Huancabamba,Huancabamba (Huancabamba),Huancabamba,20,Piura,Resto del país
+200302,Canchaque,Canchaque,Huancabamba,20,Piura,Resto del país
+200303,El Carmen de la Frontera,El Carmen de la Frontera,Huancabamba,20,Piura,Resto del país
+200304,Huarmaca,Huarmaca,Huancabamba,20,Piura,Resto del país
+200305,Lalaquiz,Lalaquiz,Huancabamba,20,Piura,Resto del país
+200306,San Miguel de el Faique,San Miguel de el Faique,Huancabamba,20,Piura,Resto del país
+200307,Sondor,Sondor,Huancabamba,20,Piura,Resto del país
+200308,Sondorillo,Sondorillo,Huancabamba,20,Piura,Resto del país
+200401,Chulucanas,Chulucanas,Morropon,20,Piura,Resto del país
+200402,Buenos Aires,Buenos Aires (Morropon),Morropon,20,Piura,Resto del país
+200403,Chalaco,Chalaco,Morropon,20,Piura,Resto del país
+200404,La Matanza,La Matanza,Morropon,20,Piura,Resto del país
+200405,Morropon,Morropon,Morropon,20,Piura,Resto del país
+200406,Salitral,Salitral (Morropon),Morropon,20,Piura,Resto del país
+200407,San Juan de Bigote,San Juan de Bigote,Morropon,20,Piura,Resto del país
+200408,Santa Catalina de Mossa,Santa Catalina de Mossa,Morropon,20,Piura,Resto del país
+200409,Santo Domingo,Santo Domingo,Morropon,20,Piura,Resto del país
+200410,Yamango,Yamango,Morropon,20,Piura,Resto del país
+200501,Paita,Paita,Paita,20,Piura,Resto del país
+200502,Amotape,Amotape,Paita,20,Piura,Resto del país
+200503,Arenal,Arenal,Paita,20,Piura,Resto del país
+200504,Colan,Colan,Paita,20,Piura,Resto del país
+200505,La Huaca,La Huaca,Paita,20,Piura,Resto del país
+200506,Tamarindo,Tamarindo,Paita,20,Piura,Resto del país
+200507,Vichayal,Vichayal,Paita,20,Piura,Resto del país
+200601,Sullana,Sullana,Sullana,20,Piura,Resto del país
+200602,Bellavista,Bellavista (Sullana),Sullana,20,Piura,Resto del país
+200603,Ignacio Escudero,Ignacio Escudero,Sullana,20,Piura,Resto del país
+200604,Lancones,Lancones,Sullana,20,Piura,Resto del país
+200605,Marcavelica,Marcavelica,Sullana,20,Piura,Resto del país
+200606,Miguel Checa,Miguel Checa,Sullana,20,Piura,Resto del país
+200607,Querecotillo,Querecotillo,Sullana,20,Piura,Resto del país
+200608,Salitral,Salitral (Sullana),Sullana,20,Piura,Resto del país
+200701,Pariñas,Pariñas,Talara,20,Piura,Resto del país
+200702,El Alto,El Alto,Talara,20,Piura,Resto del país
+200703,La Brea,La Brea,Talara,20,Piura,Resto del país
+200704,Lobitos,Lobitos,Talara,20,Piura,Resto del país
+200705,Los Organos,Los Organos,Talara,20,Piura,Resto del país
+200706,Mancora,Mancora,Talara,20,Piura,Resto del país
+200801,Sechura,Sechura,Sechura,20,Piura,Resto del país
+200802,Bellavista de la Union,Bellavista de la Union,Sechura,20,Piura,Resto del país
+200803,Bernal,Bernal,Sechura,20,Piura,Resto del país
+200804,Cristo Nos Valga,Cristo Nos Valga,Sechura,20,Piura,Resto del país
+200805,Vice,Vice,Sechura,20,Piura,Resto del país
+200806,Rinconada Llicuar,Rinconada Llicuar,Sechura,20,Piura,Resto del país
+210101,Puno,Puno,Puno,21,Puno,Resto del país
+210102,Acora,Acora,Puno,21,Puno,Resto del país
+210103,Amantani,Amantani,Puno,21,Puno,Resto del país
+210104,Atuncolla,Atuncolla,Puno,21,Puno,Resto del país
+210105,Capachica,Capachica,Puno,21,Puno,Resto del país
+210106,Chucuito,Chucuito,Puno,21,Puno,Resto del país
+210107,Coata,Coata,Puno,21,Puno,Resto del país
+210108,Huata,Huata (Puno),Puno,21,Puno,Resto del país
+210109,Mañazo,Mañazo,Puno,21,Puno,Resto del país
+210110,Paucarcolla,Paucarcolla,Puno,21,Puno,Resto del país
+210111,Pichacani,Pichacani,Puno,21,Puno,Resto del país
+210112,Plateria,Plateria,Puno,21,Puno,Resto del país
+210113,San Antonio,San Antonio (Puno),Puno,21,Puno,Resto del país
+210114,Tiquillaca,Tiquillaca,Puno,21,Puno,Resto del país
+210115,Vilque,Vilque,Puno,21,Puno,Resto del país
+210201,Azangaro,Azangaro (Azangaro),Azangaro,21,Puno,Resto del país
+210202,Achaya,Achaya,Azangaro,21,Puno,Resto del país
+210203,Arapa,Arapa,Azangaro,21,Puno,Resto del país
+210204,Asillo,Asillo,Azangaro,21,Puno,Resto del país
+210205,Caminaca,Caminaca,Azangaro,21,Puno,Resto del país
+210206,Chupa,Chupa,Azangaro,21,Puno,Resto del país
+210207,Jose Domingo Choquehuanca,Jose Domingo Choquehuanca,Azangaro,21,Puno,Resto del país
+210208,Muñani,Muñani,Azangaro,21,Puno,Resto del país
+210209,Potoni,Potoni,Azangaro,21,Puno,Resto del país
+210210,Saman,Saman,Azangaro,21,Puno,Resto del país
+210211,San Anton,San Anton,Azangaro,21,Puno,Resto del país
+210212,San Jose,San Jose (Azangaro),Azangaro,21,Puno,Resto del país
+210213,San Juan de Salinas,San Juan de Salinas,Azangaro,21,Puno,Resto del país
+210214,Santiago de Pupuja,Santiago de Pupuja,Azangaro,21,Puno,Resto del país
+210215,Tirapata,Tirapata,Azangaro,21,Puno,Resto del país
+210301,Macusani,Macusani,Carabaya,21,Puno,Resto del país
+210302,Ajoyani,Ajoyani,Carabaya,21,Puno,Resto del país
+210303,Ayapata,Ayapata,Carabaya,21,Puno,Resto del país
+210304,Coasa,Coasa,Carabaya,21,Puno,Resto del país
+210305,Corani,Corani,Carabaya,21,Puno,Resto del país
+210306,Crucero,Crucero,Carabaya,21,Puno,Resto del país
+210307,Ituata,Ituata,Carabaya,21,Puno,Resto del país
+210308,Ollachea,Ollachea,Carabaya,21,Puno,Resto del país
+210309,San Gaban,San Gaban,Carabaya,21,Puno,Resto del país
+210310,Usicayos,Usicayos,Carabaya,21,Puno,Resto del país
+210401,Juli,Juli,Chucuito,21,Puno,Resto del país
+210402,Desaguadero,Desaguadero,Chucuito,21,Puno,Resto del país
+210403,Huacullani,Huacullani,Chucuito,21,Puno,Resto del país
+210404,Kelluyo,Kelluyo,Chucuito,21,Puno,Resto del país
+210405,Pisacoma,Pisacoma,Chucuito,21,Puno,Resto del país
+210406,Pomata,Pomata,Chucuito,21,Puno,Resto del país
+210407,Zepita,Zepita,Chucuito,21,Puno,Resto del país
+210501,Ilave,Ilave,El Collao,21,Puno,Resto del país
+210502,Capazo,Capazo,El Collao,21,Puno,Resto del país
+210503,Pilcuyo,Pilcuyo,El Collao,21,Puno,Resto del país
+210504,Santa Rosa,Santa Rosa (El Collao),El Collao,21,Puno,Resto del país
+210505,Conduriri,Conduriri,El Collao,21,Puno,Resto del país
+210601,Huancane,Huancane,Huancane,21,Puno,Resto del país
+210602,Cojata,Cojata,Huancane,21,Puno,Resto del país
+210603,Huatasani,Huatasani,Huancane,21,Puno,Resto del país
+210604,Inchupalla,Inchupalla,Huancane,21,Puno,Resto del país
+210605,Pusi,Pusi,Huancane,21,Puno,Resto del país
+210606,Rosaspata,Rosaspata,Huancane,21,Puno,Resto del país
+210607,Taraco,Taraco,Huancane,21,Puno,Resto del país
+210608,Vilque Chico,Vilque Chico,Huancane,21,Puno,Resto del país
+210701,Lampa,Lampa (Lampa),Lampa,21,Puno,Resto del país
+210702,Cabanilla,Cabanilla,Lampa,21,Puno,Resto del país
+210703,Calapuja,Calapuja,Lampa,21,Puno,Resto del país
+210704,Nicasio,Nicasio,Lampa,21,Puno,Resto del país
+210705,Ocuviri,Ocuviri,Lampa,21,Puno,Resto del país
+210706,Palca,Palca (Lampa),Lampa,21,Puno,Resto del país
+210707,Paratia,Paratia,Lampa,21,Puno,Resto del país
+210708,Pucara,Pucara (Lampa),Lampa,21,Puno,Resto del país
+210709,Santa Lucia,Santa Lucia (Lampa),Lampa,21,Puno,Resto del país
+210710,Vilavila,Vilavila,Lampa,21,Puno,Resto del país
+210801,Ayaviri,Ayaviri (Melgar),Melgar,21,Puno,Resto del país
+210802,Antauta,Antauta,Melgar,21,Puno,Resto del país
+210803,Cupi,Cupi,Melgar,21,Puno,Resto del país
+210804,Llalli,Llalli,Melgar,21,Puno,Resto del país
+210805,Macari,Macari,Melgar,21,Puno,Resto del país
+210806,Nuñoa,Nuñoa,Melgar,21,Puno,Resto del país
+210807,Orurillo,Orurillo,Melgar,21,Puno,Resto del país
+210808,Santa Rosa,Santa Rosa (Melgar),Melgar,21,Puno,Resto del país
+210809,Umachiri,Umachiri,Melgar,21,Puno,Resto del país
+210901,Moho,Moho,Moho,21,Puno,Resto del país
+210902,Conima,Conima,Moho,21,Puno,Resto del país
+210903,Huayrapata,Huayrapata,Moho,21,Puno,Resto del país
+210904,Tilali,Tilali,Moho,21,Puno,Resto del país
+211001,Putina,Putina,San Antonio de Putina,21,Puno,Resto del país
+211002,Ananea,Ananea,San Antonio de Putina,21,Puno,Resto del país
+211003,Pedro Vilca Apaza,Pedro Vilca Apaza,San Antonio de Putina,21,Puno,Resto del país
+211004,Quilcapuncu,Quilcapuncu,San Antonio de Putina,21,Puno,Resto del país
+211005,Sina,Sina,San Antonio de Putina,21,Puno,Resto del país
+211101,Juliaca,Juliaca,San Roman,21,Puno,Resto del país
+211102,Cabana,Cabana (San Roman),San Roman,21,Puno,Resto del país
+211103,Cabanillas,Cabanillas,San Roman,21,Puno,Resto del país
+211104,Caracoto,Caracoto,San Roman,21,Puno,Resto del país
+211105,San Miguel,San Miguel (San Roman),San Roman,21,Puno,Resto del país
+211201,Sandia,Sandia,Sandia,21,Puno,Resto del país
+211202,Cuyocuyo,Cuyocuyo,Sandia,21,Puno,Resto del país
+211203,Limbani,Limbani,Sandia,21,Puno,Resto del país
+211204,Patambuco,Patambuco,Sandia,21,Puno,Resto del país
+211205,Phara,Phara,Sandia,21,Puno,Resto del país
+211206,Quiaca,Quiaca,Sandia,21,Puno,Resto del país
+211207,San Juan del Oro,San Juan del Oro,Sandia,21,Puno,Resto del país
+211208,Yanahuaya,Yanahuaya,Sandia,21,Puno,Resto del país
+211209,Alto Inambari,Alto Inambari,Sandia,21,Puno,Resto del país
+211210,San Pedro de Putina Punco,San Pedro de Putina Punco,Sandia,21,Puno,Resto del país
+211301,Yunguyo,Yunguyo,Yunguyo,21,Puno,Resto del país
+211302,Anapia,Anapia,Yunguyo,21,Puno,Resto del país
+211303,Copani,Copani,Yunguyo,21,Puno,Resto del país
+211304,Cuturapi,Cuturapi,Yunguyo,21,Puno,Resto del país
+211305,Ollaraya,Ollaraya,Yunguyo,21,Puno,Resto del país
+211306,Tinicachi,Tinicachi,Yunguyo,21,Puno,Resto del país
+211307,Unicachi,Unicachi,Yunguyo,21,Puno,Resto del país
+220101,Moyobamba,Moyobamba,Moyobamba,22,San Martín,Resto del país
+220102,Calzada,Calzada,Moyobamba,22,San Martín,Resto del país
+220103,Habana,Habana,Moyobamba,22,San Martín,Resto del país
+220104,Jepelacio,Jepelacio,Moyobamba,22,San Martín,Resto del país
+220105,Soritor,Soritor,Moyobamba,22,San Martín,Resto del país
+220106,Yantalo,Yantalo,Moyobamba,22,San Martín,Resto del país
+220201,Bellavista,Bellavista (Bellavista),Bellavista,22,San Martín,Resto del país
+220202,Alto Biavo,Alto Biavo,Bellavista,22,San Martín,Resto del país
+220203,Bajo Biavo,Bajo Biavo,Bellavista,22,San Martín,Resto del país
+220204,Huallaga,Huallaga,Bellavista,22,San Martín,Resto del país
+220205,San Pablo,San Pablo (Bellavista),Bellavista,22,San Martín,Resto del país
+220206,San Rafael,San Rafael (Bellavista),Bellavista,22,San Martín,Resto del país
+220301,San Jose de Sisa,San Jose de Sisa,El Dorado,22,San Martín,Resto del país
+220302,Agua Blanca,Agua Blanca,El Dorado,22,San Martín,Resto del país
+220303,San Martin,San Martin,El Dorado,22,San Martín,Resto del país
+220304,Santa Rosa,Santa Rosa (El Dorado),El Dorado,22,San Martín,Resto del país
+220305,Shatoja,Shatoja,El Dorado,22,San Martín,Resto del país
+220401,Saposoa,Saposoa,Huallaga,22,San Martín,Resto del país
+220402,Alto Saposoa,Alto Saposoa,Huallaga,22,San Martín,Resto del país
+220403,El Eslabon,El Eslabon,Huallaga,22,San Martín,Resto del país
+220404,Piscoyacu,Piscoyacu,Huallaga,22,San Martín,Resto del país
+220405,Sacanche,Sacanche,Huallaga,22,San Martín,Resto del país
+220406,Tingo de Saposoa,Tingo de Saposoa,Huallaga,22,San Martín,Resto del país
+220501,Lamas,Lamas,Lamas,22,San Martín,Resto del país
+220502,Alonso de Alvarado,Alonso de Alvarado,Lamas,22,San Martín,Resto del país
+220503,Barranquita,Barranquita,Lamas,22,San Martín,Resto del país
+220504,Caynarachi,Caynarachi,Lamas,22,San Martín,Resto del país
+220505,Cuñumbuqui,Cuñumbuqui,Lamas,22,San Martín,Resto del país
+220506,Pinto Recodo,Pinto Recodo,Lamas,22,San Martín,Resto del país
+220507,Rumisapa,Rumisapa,Lamas,22,San Martín,Resto del país
+220508,San Roque de Cumbaza,San Roque de Cumbaza,Lamas,22,San Martín,Resto del país
+220509,Shanao,Shanao,Lamas,22,San Martín,Resto del país
+220510,Tabalosos,Tabalosos,Lamas,22,San Martín,Resto del país
+220511,Zapatero,Zapatero,Lamas,22,San Martín,Resto del país
+220601,Juanjui,Juanjui,Mariscal Caceres,22,San Martín,Resto del país
+220602,Campanilla,Campanilla,Mariscal Caceres,22,San Martín,Resto del país
+220603,Huicungo,Huicungo,Mariscal Caceres,22,San Martín,Resto del país
+220604,Pachiza,Pachiza,Mariscal Caceres,22,San Martín,Resto del país
+220605,Pajarillo,Pajarillo,Mariscal Caceres,22,San Martín,Resto del país
+220701,Picota,Picota,Picota,22,San Martín,Resto del país
+220702,Buenos Aires,Buenos Aires (Picota),Picota,22,San Martín,Resto del país
+220703,Caspisapa,Caspisapa,Picota,22,San Martín,Resto del país
+220704,Pilluana,Pilluana,Picota,22,San Martín,Resto del país
+220705,Pucacaca,Pucacaca,Picota,22,San Martín,Resto del país
+220706,San Cristobal,San Cristobal (Picota),Picota,22,San Martín,Resto del país
+220707,San Hilarion,San Hilarion,Picota,22,San Martín,Resto del país
+220708,Shamboyacu,Shamboyacu,Picota,22,San Martín,Resto del país
+220709,Tingo de Ponasa,Tingo de Ponasa,Picota,22,San Martín,Resto del país
+220710,Tres Unidos,Tres Unidos,Picota,22,San Martín,Resto del país
+220801,Rioja,Rioja,Rioja,22,San Martín,Resto del país
+220802,Awajun,Awajun,Rioja,22,San Martín,Resto del país
+220803,Elias Soplin Vargas,Elias Soplin Vargas,Rioja,22,San Martín,Resto del país
+220804,Nueva Cajamarca,Nueva Cajamarca,Rioja,22,San Martín,Resto del país
+220805,Pardo Miguel,Pardo Miguel,Rioja,22,San Martín,Resto del país
+220806,Posic,Posic,Rioja,22,San Martín,Resto del país
+220807,San Fernando,San Fernando,Rioja,22,San Martín,Resto del país
+220808,Yorongos,Yorongos,Rioja,22,San Martín,Resto del país
+220809,Yuracyacu,Yuracyacu,Rioja,22,San Martín,Resto del país
+220901,Tarapoto,Tarapoto,San Martin,22,San Martín,Resto del país
+220902,Alberto Leveau,Alberto Leveau,San Martin,22,San Martín,Resto del país
+220903,Cacatachi,Cacatachi,San Martin,22,San Martín,Resto del país
+220904,Chazuta,Chazuta,San Martin,22,San Martín,Resto del país
+220905,Chipurana,Chipurana,San Martin,22,San Martín,Resto del país
+220906,El Porvenir,El Porvenir (San Martin),San Martin,22,San Martín,Resto del país
+220907,Huimbayoc,Huimbayoc,San Martin,22,San Martín,Resto del país
+220908,Juan Guerra,Juan Guerra,San Martin,22,San Martín,Resto del país
+220909,La Banda de Shilcayo,La Banda de Shilcayo,San Martin,22,San Martín,Resto del país
+220910,Morales,Morales,San Martin,22,San Martín,Resto del país
+220911,Papaplaya,Papaplaya,San Martin,22,San Martín,Resto del país
+220912,San Antonio,San Antonio (San Martin),San Martin,22,San Martín,Resto del país
+220913,Sauce,Sauce,San Martin,22,San Martín,Resto del país
+220914,Shapaja,Shapaja,San Martin,22,San Martín,Resto del país
+221001,Tocache,Tocache,Tocache,22,San Martín,Resto del país
+221002,Nuevo Progreso,Nuevo Progreso,Tocache,22,San Martín,Resto del país
+221003,Polvora,Polvora,Tocache,22,San Martín,Resto del país
+221004,Shunte,Shunte,Tocache,22,San Martín,Resto del país
+221005,Uchiza,Uchiza,Tocache,22,San Martín,Resto del país
+230101,Tacna,Tacna,Tacna,23,Tacna,Resto del país
+230102,Alto de la Alianza,Alto de la Alianza,Tacna,23,Tacna,Resto del país
+230103,Calana,Calana,Tacna,23,Tacna,Resto del país
+230104,Ciudad Nueva,Ciudad Nueva,Tacna,23,Tacna,Resto del país
+230105,Inclan,Inclan,Tacna,23,Tacna,Resto del país
+230106,Pachia,Pachia,Tacna,23,Tacna,Resto del país
+230107,Palca,Palca (Tacna),Tacna,23,Tacna,Resto del país
+230108,Pocollay,Pocollay,Tacna,23,Tacna,Resto del país
+230109,Sama,Sama,Tacna,23,Tacna,Resto del país
+230110,Coronel Gregorio Albarracin Lanchipa,Coronel Gregorio Albarracin Lanchipa,Tacna,23,Tacna,Resto del país
+230111,La Yarada los Palos,La Yarada los Palos,Tacna,23,Tacna,Resto del país
+230201,Candarave,Candarave,Candarave,23,Tacna,Resto del país
+230202,Cairani,Cairani,Candarave,23,Tacna,Resto del país
+230203,Camilaca,Camilaca,Candarave,23,Tacna,Resto del país
+230204,Curibaya,Curibaya,Candarave,23,Tacna,Resto del país
+230205,Huanuara,Huanuara,Candarave,23,Tacna,Resto del país
+230206,Quilahuani,Quilahuani,Candarave,23,Tacna,Resto del país
+230301,Locumba,Locumba,Jorge Basadre,23,Tacna,Resto del país
+230302,Ilabaya,Ilabaya,Jorge Basadre,23,Tacna,Resto del país
+230303,Ite,Ite,Jorge Basadre,23,Tacna,Resto del país
+230401,Tarata,Tarata,Tarata,23,Tacna,Resto del país
+230402,Heroes Albarracin,Heroes Albarracin,Tarata,23,Tacna,Resto del país
+230403,Estique,Estique,Tarata,23,Tacna,Resto del país
+230404,Estique-pampa,Estique-pampa,Tarata,23,Tacna,Resto del país
+230405,Sitajara,Sitajara,Tarata,23,Tacna,Resto del país
+230406,Susapaya,Susapaya,Tarata,23,Tacna,Resto del país
+230407,Tarucachi,Tarucachi,Tarata,23,Tacna,Resto del país
+230408,Ticaco,Ticaco,Tarata,23,Tacna,Resto del país
+240101,Tumbes,Tumbes,Tumbes,24,Tumbes,Resto del país
+240102,Corrales,Corrales,Tumbes,24,Tumbes,Resto del país
+240103,La Cruz,La Cruz,Tumbes,24,Tumbes,Resto del país
+240104,Pampas de Hospital,Pampas de Hospital,Tumbes,24,Tumbes,Resto del país
+240105,San Jacinto,San Jacinto,Tumbes,24,Tumbes,Resto del país
+240106,San Juan de la Virgen,San Juan de la Virgen,Tumbes,24,Tumbes,Resto del país
+240201,Zorritos,Zorritos,Contralmirante Villar,24,Tumbes,Resto del país
+240202,Casitas,Casitas,Contralmirante Villar,24,Tumbes,Resto del país
+240203,Canoas de Punta Sal,Canoas de Punta Sal,Contralmirante Villar,24,Tumbes,Resto del país
+240301,Zarumilla,Zarumilla,Zarumilla,24,Tumbes,Resto del país
+240302,Aguas Verdes,Aguas Verdes,Zarumilla,24,Tumbes,Resto del país
+240303,Matapalo,Matapalo,Zarumilla,24,Tumbes,Resto del país
+240304,Papayal,Papayal,Zarumilla,24,Tumbes,Resto del país
+250101,Calleria,Calleria,Coronel Portillo,25,Ucayali,Resto del país
+250102,Campoverde,Campoverde,Coronel Portillo,25,Ucayali,Resto del país
+250103,Iparia,Iparia,Coronel Portillo,25,Ucayali,Resto del país
+250104,Masisea,Masisea,Coronel Portillo,25,Ucayali,Resto del país
+250105,Yarinacocha,Yarinacocha,Coronel Portillo,25,Ucayali,Resto del país
+250106,Nueva Requena,Nueva Requena,Coronel Portillo,25,Ucayali,Resto del país
+250107,Manantay,Manantay,Coronel Portillo,25,Ucayali,Resto del país
+250201,Raymondi,Raymondi,Atalaya,25,Ucayali,Resto del país
+250202,Sepahua,Sepahua,Atalaya,25,Ucayali,Resto del país
+250203,Tahuania,Tahuania,Atalaya,25,Ucayali,Resto del país
+250204,Yurua,Yurua,Atalaya,25,Ucayali,Resto del país
+250301,Padre Abad,Padre Abad,Padre Abad,25,Ucayali,Resto del país
+250302,Irazola,Irazola,Padre Abad,25,Ucayali,Resto del país
+250303,Curimana,Curimana,Padre Abad,25,Ucayali,Resto del país
+250304,Neshuya,Neshuya,Padre Abad,25,Ucayali,Resto del país
+250305,A.von.humboldt,A.von.humboldt,Padre Abad,25,Ucayali,Resto del país
+250401,Purus,Purus,Purus,25,Ucayali,Resto del país

@@ -1,0 +1,5 @@
+paso,descripcion,filas,denuncias,columnas,nota
+1. raw,CSV del portal,369100,7359931,8.0,Tal como se publica
+2. staging,Denuncias con UBIGEO de 6 dígitos,369100,7359931,11.0,Reglas de campo: 0 filas excluidas
+3. curated,fact_denuncia,369099,7359931,5.0,"Suma la clave repetida (problema 2): 1 fila menos, mismas denuncias"
+3a. marca,Celdas atípicas,3,150,,"Subconjunto, no exclusión"
