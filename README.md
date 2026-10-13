@@ -10,6 +10,8 @@ Análisis de las **denuncias policiales del Perú**: 7,36 millones registradas p
 entre enero de 2018 y julio de 2026. Se hizo de punta a punta con **datos abiertos reales** del
 Ministerio del Interior, desde tres archivos del portal hasta un tablero de Power BI para gerencia.
 
+**[Ver el tablero en Power BI →](https://app.powerbi.com/view?r=eyJrIjoiODYyYzdjYTItOTc2My00Zjg5LTlhYTUtYzM3OGViZjQ0Mzk1IiwidCI6IjFlYmE0NDNmLTIzZTUtNDUzNC05MGQxLTA5NzZhYWJlODZhYyIsImMiOjR9&pageName=p1_resumen)**
+
 ![Página 1 del tablero: resumen ejecutivo de las denuncias policiales](docs/img/01_resumen.png)
 
 ## La pregunta
