@@ -40,6 +40,17 @@ table _Medidas
 		displayFolder: 1. Denuncias
 		lineageTag: 5193fcbc-378d-5a3b-843e-087a681c69f4
 
+	/// Variación del último periodo (enero–julio de 2026) frente al mismo periodo del año anterior. No depende del año que se elija en el segmentador; sí respeta modalidad y territorio.
+	measure 'Var. último periodo vs año anterior' =
+			VAR ultimo = CALCULATE ( MAX ( dim_fecha[anio] ), REMOVEFILTERS ( dim_fecha ) )
+			VAR actual = CALCULATE ( [Denuncias ene–jul], REMOVEFILTERS ( dim_fecha ), dim_fecha[anio] = ultimo )
+			VAR antes = CALCULATE ( [Denuncias ene–jul], REMOVEFILTERS ( dim_fecha ), dim_fecha[anio] = ultimo - 1 )
+			RETURN
+			    DIVIDE ( actual - antes, antes )
+		formatString: +0.0%;-0.0%;0.0%
+		displayFolder: 1. Denuncias
+		lineageTag: f2a4a27c-74dd-57c7-9b08-90c607de1e11
+
 	/// Parte de las denuncias que corresponde a la modalidad dentro del contexto (año, territorio).
 	measure 'Participación de la modalidad' = DIVIDE ( [Denuncias], CALCULATE ( [Denuncias], REMOVEFILTERS ( dim_modalidad ) ) )
 		formatString: 0.0%
@@ -174,6 +185,11 @@ table _Medidas
 		formatString: +0.0%;-0.0%;0.0%
 		displayFolder: 4. Alertas
 		lineageTag: 670e47e8-7f07-5d58-9bd1-71a89ed71f5b
+
+	/// Marca la fila como En alerta cuando el puntaje z es 3 o más.
+	measure 'Estado de alerta' = IF ( [Distritos en alerta] > 0, "En alerta", "Normal" )
+		displayFolder: 4. Alertas
+		lineageTag: f0ed55a0-48ce-5da6-a010-1b50ade9ad69
 
 	/// Cuántas desviaciones robustas se aparta el distrito del cambio típico de su modalidad (3 o más = alerta).
 	measure 'Puntaje z' = MAX ( fact_alerta_distrito[z] )

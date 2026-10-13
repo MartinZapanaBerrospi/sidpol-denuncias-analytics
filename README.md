@@ -18,7 +18,7 @@ tablero de Power BI para gerencia.
 | 3. Transformación | Cerrada | [03_transformacion.md](docs/03_transformacion.md) |
 | 4. Modelado | Cerrada | [04_modelado.md](docs/04_modelado.md) |
 | 5. Análisis | Cerrada | [05_analisis.md](docs/05_analisis.md) |
-| 6. Tablero | Pendiente | — |
+| 6. Tablero | Cerrada | [powerbi/README.md](powerbi/README.md) |
 | 7. Hallazgos | Pendiente | — |
 | 8. Automatización | Pendiente | — |
 | 9. Publicación | Pendiente | — |

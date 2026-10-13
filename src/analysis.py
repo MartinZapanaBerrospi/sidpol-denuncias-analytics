@@ -185,6 +185,7 @@ def p3(t: dict) -> None:
     key("dep_mayor_tasa_veces", table.iloc[0]["veces_tasa_nacional"], "Veces la tasa nacional del departamento líder")
     key("dep_2", table.index[1], "Segundo departamento por tasa")
     key("dep_2_valor", table.iloc[1]["tasa_por_100mil"], "Tasa del segundo departamento")
+    key("dep_2_veces", table.iloc[1]["veces_tasa_nacional"], "Veces la tasa nacional del segundo departamento")
     key("dep_3", table.index[2], "Tercer departamento por tasa")
     key("dep_menor_tasa", table.index[-1], "Departamento con menor tasa en 2025")
     key("dep_menor_tasa_valor", table.iloc[-1]["tasa_por_100mil"], "Tasa del departamento con menor tasa en 2025")

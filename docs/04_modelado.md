@@ -5,11 +5,11 @@
 ## 1. Resumen
 
 El modelo de Power BI se guarda como **proyecto PBIP con TMDL**: tablas, consultas de Power Query,
-relaciones y las 35 medidas DAX están en archivos de texto que se leen en GitHub. No se
+relaciones y las 37 medidas DAX están en archivos de texto que se leen en GitHub. No se
 armó a mano: lo genera [`tools/build_model.py`](../tools/build_model.py), así que es reproducible y
 cada cambio queda en el historial.
 
-**Las medidas se validaron contra Python.** En **1 522 comparaciones** (total, cada año, cada
+**Las medidas se validaron contra Python.** En **1 530 comparaciones** (total, cada año, cada
 modalidad, cada departamento, cada año × departamento y cada mes) la diferencia relativa máxima es
 de 3,9 × 10⁻¹⁵, que es error de punto flotante. Los textos (distrito líder, fecha de corte)
 también coinciden. El resultado completo está en
@@ -59,6 +59,7 @@ flowchart LR
 | Denuncias | `Denuncias mismo periodo año anterior` | Denuncias de los mismos meses un año antes. En 2026 compara enero–julio con enero–julio de 2025. |
 | Denuncias | `Var. interanual` | Variación frente a los mismos meses del año anterior. Solo con un año elegido: sobre varios años no tiene sentido. |
 | Denuncias | `Denuncias ene–jul` | Denuncias de enero a julio de cada año: compara los años completos con el último, que llega hasta el corte. |
+| Denuncias | `Var. último periodo vs año anterior` | Variación del último periodo (enero–julio de 2026) frente al mismo periodo del año anterior. No depende del año que se elija en el segmentador; sí respeta modalidad y territorio. |
 | Denuncias | `Participación de la modalidad` | Parte de las denuncias que corresponde a la modalidad dentro del contexto (año, territorio). |
 | Tasas | `Población del año` | Población proyectada del territorio en el año del contexto. Con varios años los suma: úsela dentro de Habitantes-año. |
 | Tasas | `Población (último año)` | Población proyectada del último año elegido (2026 si no se elige ninguno). |
@@ -78,6 +79,7 @@ flowchart LR
 | Alertas | `Denuncias 12 m previos` | Denuncias de agosto de 2024 a julio de 2025. |
 | Alertas | `Cambio 12 meses` | Variación de los últimos 12 meses frente a los 12 anteriores. |
 | Alertas | `Cambio nacional de la modalidad` | Variación nacional de la modalidad en la misma ventana: lo que cambió el sistema entero. |
+| Alertas | `Estado de alerta` | Marca la fila como En alerta cuando el puntaje z es 3 o más. |
 | Alertas | `Puntaje z` | Cuántas desviaciones robustas se aparta el distrito del cambio típico de su modalidad (3 o más = alerta). |
 | Calendario | `Participación del mes en el año` | Parte de las denuncias del año que cae en el mes. Solo tiene sentido en años completos. |
 | Calendario | `Índice estacional` | Promedio de la parte del año que cae en el mes, de 2018 a 2025 sin 2020 (la pandemia deforma sus meses). Un mes parejo tendría 8,3 %. |
@@ -123,7 +125,7 @@ La validación contra Python encontró un error que el total no mostraba:
 
 Las pruebas de `tests/test_powerbi.py` fijan tres cosas: ninguna variable DAX usa una palabra
 reservada (`top` deja la medida en error), el TMDL versionado es exactamente el que genera el
-script, y las 1 522 comparaciones cumplen.
+script, y las 1 530 comparaciones cumplen.
 
 ## 6. Lo que pasa a la Fase 5
 

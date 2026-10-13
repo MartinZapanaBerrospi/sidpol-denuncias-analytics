@@ -82,8 +82,10 @@ def test_los_visuales_solo_usan_medidas_y_columnas_del_modelo():
             if "Measure" in node:
                 assert node["Measure"]["Property"] in measures, node["Measure"]["Property"]
             if "Column" in node:
-                ref = (node["Column"]["Expression"]["SourceRef"]["Entity"], node["Column"]["Property"])
-                assert ref in columns, ref
+                source = node["Column"]["Expression"]["SourceRef"]
+                if "Entity" in source:        # los filtros guardados usan un alias (Source) definido en From
+                    ref = (source["Entity"], node["Column"]["Property"])
+                    assert ref in columns, ref
             for value in node.values():
                 walk(value)
         elif isinstance(node, list):

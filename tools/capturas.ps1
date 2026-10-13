@@ -20,7 +20,7 @@ public static class Win {
 }
 '@
 
-$paginas = @("1. Resumen", "2. Catálogos", "3. Concentración", "4. Entidades", "5. Calendario", "6. Gran Compra", "7. Notas")
+$paginas = @("1. Resumen", "2. Modalidades", "3. Territorio", "4. Distritos", "5. Alertas", "6. Calendario", "7. Notas")
 $proc = Get-Process PBIDesktop | Where-Object MainWindowTitle | Select-Object -First 1
 if (-not $proc) { throw "Power BI Desktop no está abierto" }
 $hwnd = $proc.MainWindowHandle

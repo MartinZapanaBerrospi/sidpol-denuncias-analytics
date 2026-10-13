@@ -39,6 +39,7 @@ dep_mayor_tasa_valor,4410.038322496303,Tasa del departamento con mayor tasa en 2
 dep_mayor_tasa_veces,1.6872839823017223,Veces la tasa nacional del departamento líder
 dep_2,Madre de Dios,Segundo departamento por tasa
 dep_2_valor,4122.736606769127,Tasa del segundo departamento
+dep_2_veces,1.5773621295682818,Veces la tasa nacional del segundo departamento
 dep_3,Arequipa,Tercer departamento por tasa
 dep_menor_tasa,Huancavelica,Departamento con menor tasa en 2025
 dep_menor_tasa_valor,1226.043606145867,Tasa del departamento con menor tasa en 2025

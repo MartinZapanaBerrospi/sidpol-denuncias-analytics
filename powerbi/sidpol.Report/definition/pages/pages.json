@@ -1,7 +1,13 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/pagesMetadata/1.1.0/schema.json",
   "pageOrder": [
-    "p1_resumen"
+    "p1_resumen",
+    "p2_modalidades",
+    "p3_territorio",
+    "p4_distritos",
+    "p5_alertas",
+    "p6_calendario",
+    "p7_notas"
   ],
   "activePageName": "p1_resumen"
 }

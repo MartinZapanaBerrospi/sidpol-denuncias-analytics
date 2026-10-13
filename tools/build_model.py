@@ -170,6 +170,14 @@ MEASURES = [
      f"CALCULATE ( [Denuncias], dim_fecha[es_ene_jul] = 1 )", "#,##0",
      f"Denuncias de enero a {MONTHS_ES[CUTOFF_MONTH - 1]} de cada año: compara los años completos con el último, "
      "que llega hasta el corte."),
+    ("1. Denuncias", "Var. último periodo vs año anterior",
+     "VAR ultimo = CALCULATE ( MAX ( dim_fecha[anio] ), REMOVEFILTERS ( dim_fecha ) )\n"
+     "VAR actual = CALCULATE ( [Denuncias ene–jul], REMOVEFILTERS ( dim_fecha ), dim_fecha[anio] = ultimo )\n"
+     "VAR antes = CALCULATE ( [Denuncias ene–jul], REMOVEFILTERS ( dim_fecha ), dim_fecha[anio] = ultimo - 1 )\n"
+     "RETURN\n    DIVIDE ( actual - antes, antes )",
+     "+0.0%;-0.0%;0.0%",
+     f"Variación del último periodo (enero–{MONTHS_ES[CUTOFF_MONTH - 1]} de {config.END[0]}) frente al mismo periodo del año anterior. "
+     "No depende del año que se elija en el segmentador; sí respeta modalidad y territorio."),
     ("1. Denuncias", "Participación de la modalidad",
      "DIVIDE ( [Denuncias], CALCULATE ( [Denuncias], REMOVEFILTERS ( dim_modalidad ) ) )", "0.0%",
      "Parte de las denuncias que corresponde a la modalidad dentro del contexto (año, territorio)."),
@@ -239,6 +247,9 @@ MEASURES = [
     ("4. Alertas", "Cambio nacional de la modalidad",
      "IF ( HASONEVALUE ( dim_modalidad[modalidad] ), AVERAGE ( fact_alerta_distrito[variacion_nacional_pct] ) / 100 )",
      "+0.0%;-0.0%;0.0%", "Variación nacional de la modalidad en la misma ventana: lo que cambió el sistema entero."),
+    ("4. Alertas", "Estado de alerta",
+     "IF ( [Distritos en alerta] > 0, \"En alerta\", \"Normal\" )", None,
+     "Marca la fila como En alerta cuando el puntaje z es 3 o más."),
     ("4. Alertas", "Puntaje z", "MAX ( fact_alerta_distrito[z] )", "0.0",
      "Cuántas desviaciones robustas se aparta el distrito del cambio típico de su modalidad (3 o más = alerta)."),
 

@@ -14,10 +14,9 @@ import numpy as np
 from PIL import Image
 
 ROOT = Path(__file__).resolve().parent.parent
-PAGE_BACKGROUND = np.array([244, 245, 247])     # "page" en el tema PeruCompras.json
+PAGE_BACKGROUND = np.array([244, 245, 247])     # "page" en el tema Sidpol.json
 BOTTOM_TRIM = 12                                  # píxeles
-NAMES = ["01_resumen", "02_catalogos", "03_concentracion", "04_entidades", "05_calendario",
-         "06_gran_compra", "07_notas"]
+NAMES = ["01_resumen", "02_modalidades", "03_territorio", "04_distritos", "05_alertas", "06_calendario", "07_notas"]
 
 
 def canvas_box(image: Image.Image) -> tuple[int, int, int, int]:

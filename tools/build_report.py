@@ -130,6 +130,7 @@ def main() -> None:
             "displayOption": "FitToPage",
             "height": 720,
             "width": 1280,
+            **({"visualInteractions": page["interactions"]} if page.get("interactions") else {}),
         })
         for z, visual in enumerate(page.get("visuals", [])):
             visual["position"]["z"] = z * 1000

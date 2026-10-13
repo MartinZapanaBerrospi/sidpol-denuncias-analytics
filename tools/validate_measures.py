@@ -29,11 +29,11 @@ TOLERANCE = 1e-6          # diferencia relativa admitida (redondeo de punto flot
 COMMON = ["Denuncias", "Distritos con denuncias", "Denuncias ene–jul", "Meses cubiertos", "Población (último año)",
           "Habitantes-año", "Tasa por 100 mil (anual)", "Participación top 10 distritos",
           "Distritos para el 50 %", "Participación del distrito líder"]
-GLOBAL = COMMON + ["Denuncias (miles)", "Combinaciones evaluadas", "Distritos en alerta", "Denuncias últimos 12 m",
+GLOBAL = COMMON + ["Var. último periodo vs año anterior", "Denuncias (miles)", "Combinaciones evaluadas", "Distritos en alerta", "Denuncias últimos 12 m",
                    "Denuncias 12 m previos", "Cambio 12 meses", "Saltos de serie", "Denuncias en celdas atípicas",
                    "Tasa (distritos de 5 mil hab. o más)"]
 BY_YEAR = COMMON + ["Var. interanual", "Población del año"]
-BY_MODALITY = COMMON + ["Participación de la modalidad", "Combinaciones evaluadas", "Distritos en alerta",
+BY_MODALITY = COMMON + ["Var. último periodo vs año anterior", "Participación de la modalidad", "Combinaciones evaluadas", "Distritos en alerta",
                         "Denuncias últimos 12 m", "Denuncias 12 m previos", "Cambio 12 meses",
                         "Cambio nacional de la modalidad", "Saltos de serie", "Denuncias en celdas atípicas"]
 BY_DEPARTMENT = COMMON + ["Tasa nacional", "Veces la tasa nacional"]
@@ -41,6 +41,7 @@ BY_YEAR_DEPARTMENT = ["Denuncias", "Población del año", "Habitantes-año", "Ta
 BY_MONTH = ["Índice estacional"]      # contexto: cada mes del calendario (1 a 12)
 TEXTS = {"Distrito líder", "Corte de datos"}
 CUTOFF_MONTH = config.END[1]
+LAST_YEAR = config.END[0]
 LAST_FULL_YEAR = config.END[0] if config.END[1] == 12 else config.END[0] - 1
 PANDEMIC_YEAR = 2020
 MIN_POPULATION_FOR_RATE = 5000
@@ -88,6 +89,13 @@ def exposure(d: Data, months_by_year: dict, departments: set | None) -> float:
     return sum(population(d, y, departments) * m / 12 for y, m in months_by_year.items())
 
 
+def last_period_change(den: pd.DataFrame) -> float:
+    """Enero–julio del último año frente a enero–julio del anterior; en blanco si el contexto no los tiene."""
+    now = den.loc[(den["anio"] == LAST_YEAR) & (den["mes"] <= CUTOFF_MONTH), "cantidad"].sum()
+    before = den.loc[(den["anio"] == LAST_YEAR - 1) & (den["mes"] <= CUTOFF_MONTH), "cantidad"].sum()
+    return now / before - 1 if now and before else np.nan
+
+
 def measures(d: Data, names: list[str], den: pd.DataFrame, months_by_year: dict, departments: set | None = None,
              prior: pd.DataFrame | None = None) -> dict:
     total = den["cantidad"].sum()
@@ -109,6 +117,7 @@ def measures(d: Data, names: list[str], den: pd.DataFrame, months_by_year: dict,
         "Participación del distrito líder": by_district.max() / total if total else np.nan,
         "Var. interanual": (total / prior["cantidad"].sum() - 1) if prior is not None and len(prior) else np.nan,
         "Tasa (distritos de 5 mil hab. o más)": np.nan,
+        "Var. último periodo vs año anterior": last_period_change(den),
     }
     return {k: out[k] for k in names if k in out}
 

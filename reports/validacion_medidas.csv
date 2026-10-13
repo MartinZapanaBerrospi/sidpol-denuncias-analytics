@@ -1376,6 +1376,7 @@ global,total,Población (último año),34562703.0,34562703.0,0.0,cumple
 global,total,Saltos de serie,19.0,19.0,0.0,cumple
 global,total,Tasa (distritos de 5 mil hab. o más),2589.297285771907,2589.29728577191,1.2293804476206685e-15,cumple
 global,total,Tasa por 100 mil (anual),2589.297285771907,2589.29728577191,1.2293804476206685e-15,cumple
+global,total,Var. último periodo vs año anterior,-0.0769385918060157,-0.0769385918060157,0.0,cumple
 mes,1,Índice estacional,0.08212802334531447,0.0821280233453145,3.3795499374102995e-16,cumple
 mes,10,Índice estacional,0.08576074319900362,0.0857607431990036,1.6181981743805237e-16,cumple
 mes,11,Índice estacional,0.0834682829415377,0.0834682829415377,0.0,cumple
@@ -1407,6 +1408,7 @@ modalidad,Estafa,Participación top 10 distritos,0.258702885009799,0.25870288500
 modalidad,Estafa,Población (último año),34562703.0,34562703.0,0.0,cumple
 modalidad,Estafa,Saltos de serie,4.0,4.0,0.0,cumple
 modalidad,Estafa,Tasa por 100 mil (anual),77.19063092727555,77.1906309272755,5.523023148466281e-16,cumple
+modalidad,Estafa,Var. último periodo vs año anterior,-0.06994841304537902,-0.069948413045379,3.968006478949349e-16,cumple
 modalidad,Extorsión,Cambio 12 meses,-0.12338723550662309,-0.123387235506623,6.748406875719102e-16,cumple
 modalidad,Extorsión,Cambio nacional de la modalidad,-0.12248999999999999,-0.12249,1.1329731249746475e-16,cumple
 modalidad,Extorsión,Combinaciones evaluadas,138.0,138.0,0.0,cumple
@@ -1426,6 +1428,7 @@ modalidad,Extorsión,Participación top 10 distritos,0.30538821658864057,0.30538
 modalidad,Extorsión,Población (último año),34562703.0,34562703.0,0.0,cumple
 modalidad,Extorsión,Saltos de serie,9.0,9.0,0.0,cumple
 modalidad,Extorsión,Tasa por 100 mil (anual),39.8284094949039,39.8284094949039,0.0,cumple
+modalidad,Extorsión,Var. último periodo vs año anterior,-0.24861128255770892,-0.248611282557709,3.3492738539554593e-16,cumple
 modalidad,Hurto,Cambio 12 meses,-0.08394456266946086,-0.0839445626694609,4.959625984041208e-16,cumple
 modalidad,Hurto,Cambio nacional de la modalidad,-0.08516000000000001,-0.08516,1.6296134109692878e-16,cumple
 modalidad,Hurto,Combinaciones evaluadas,382.0,382.0,0.0,cumple
@@ -1445,6 +1448,7 @@ modalidad,Hurto,Participación top 10 distritos,0.26004714125281864,0.2600471412
 modalidad,Hurto,Población (último año),34562703.0,34562703.0,0.0,cumple
 modalidad,Hurto,Saltos de serie,1.0,1.0,0.0,cumple
 modalidad,Hurto,Tasa por 100 mil (anual),516.5812610818004,516.5812610818,8.803016778699122e-16,cumple
+modalidad,Hurto,Var. último periodo vs año anterior,-0.050067327702289166,-0.0500673277022891,1.38591257459702e-15,cumple
 modalidad,Otros,Cambio 12 meses,,,,cumple
 modalidad,Otros,Cambio nacional de la modalidad,,,,cumple
 modalidad,Otros,Combinaciones evaluadas,0.0,,0.0,cumple
@@ -1464,6 +1468,7 @@ modalidad,Otros,Participación top 10 distritos,0.1944018944570005,0.19440189445
 modalidad,Otros,Población (último año),34562703.0,34562703.0,0.0,cumple
 modalidad,Otros,Saltos de serie,0.0,,0.0,cumple
 modalidad,Otros,Tasa por 100 mil (anual),944.8666569450425,944.866656945042,4.812820386283503e-16,cumple
+modalidad,Otros,Var. último periodo vs año anterior,-0.08811218176376245,-0.0881121817637625,4.725040577824593e-16,cumple
 modalidad,Robo,Cambio 12 meses,-0.25056981992181016,-0.25056981992181,6.646189622746264e-16,cumple
 modalidad,Robo,Cambio nacional de la modalidad,-0.2502600000000001,-0.25026,4.436278368996868e-16,cumple
 modalidad,Robo,Combinaciones evaluadas,217.0,217.0,0.0,cumple
@@ -1483,6 +1488,7 @@ modalidad,Robo,Participación top 10 distritos,0.31667775389161595,0.31667775389
 modalidad,Robo,Población (último año),34562703.0,34562703.0,0.0,cumple
 modalidad,Robo,Saltos de serie,5.0,5.0,0.0,cumple
 modalidad,Robo,Tasa por 100 mil (anual),251.20464953355452,251.204649533555,1.9234081105347102e-15,cumple
+modalidad,Robo,Var. último periodo vs año anterior,-0.13753691671588897,-0.137536916715889,2.018045502136987e-16,cumple
 modalidad,Secuestro,Cambio 12 meses,0.0,0.0,0.0,cumple
 modalidad,Secuestro,Cambio nacional de la modalidad,-0.09820000000000001,-0.0982,1.4132166810401686e-16,cumple
 modalidad,Secuestro,Combinaciones evaluadas,3.0,3.0,0.0,cumple
@@ -1502,6 +1508,7 @@ modalidad,Secuestro,Participación top 10 distritos,0.22705941088367448,0.227059
 modalidad,Secuestro,Población (último año),34562703.0,34562703.0,0.0,cumple
 modalidad,Secuestro,Saltos de serie,0.0,,0.0,cumple
 modalidad,Secuestro,Tasa por 100 mil (anual),3.523377096470829,3.52337709647083,2.5208156702550067e-16,cumple
+modalidad,Secuestro,Var. último periodo vs año anterior,-0.10632183908045978,-0.10632183908046,2.088419527402997e-15,cumple
 modalidad,Violencia contra la mujer e integrantes,Cambio 12 meses,-0.07214876477870073,-0.0721487647787007,3.846992488473306e-16,cumple
 modalidad,Violencia contra la mujer e integrantes,Cambio nacional de la modalidad,-0.07254,-0.07254,0.0,cumple
 modalidad,Violencia contra la mujer e integrantes,Combinaciones evaluadas,607.0,607.0,0.0,cumple
@@ -1521,3 +1528,4 @@ modalidad,Violencia contra la mujer e integrantes,Participación top 10 distrito
 modalidad,Violencia contra la mujer e integrantes,Población (último año),34562703.0,34562703.0,0.0,cumple
 modalidad,Violencia contra la mujer e integrantes,Saltos de serie,0.0,,0.0,cumple
 modalidad,Violencia contra la mujer e integrantes,Tasa por 100 mil (anual),756.1023006928591,756.102300692859,1.5035906863057867e-16,cumple
+modalidad,Violencia contra la mujer e integrantes,Var. último periodo vs año anterior,-0.04399556857329312,-0.0439955685732931,4.731540558918507e-16,cumple
