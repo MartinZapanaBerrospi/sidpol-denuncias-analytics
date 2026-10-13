@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Datos: raw y staging se regeneran; el manifiesto y curated sí se versionan
+data/raw/*
+!data/raw/manifest.csv
+data/staging/
+
+# Power BI (PBIP): caché y ajustes locales
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+**/.pbi/editorSettings.json
+
+# Sistema
+.DS_Store
+Thumbs.db
