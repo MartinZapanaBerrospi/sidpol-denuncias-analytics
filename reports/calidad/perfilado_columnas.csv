@@ -1,0 +1,9 @@
+columna,tipo_detectado,vacios,con_espacios_extremos,distintos,longitud_min,longitud_max,minimo,maximo,valores_frecuentes
+ANIO,entero,0,0,9,4,4,2018,2026,2024 (48519) | 2023 (48304) | 2022 (46539)
+MES,entero,0,0,12,1,2,1,12,7 (32313) | 3 (32005) | 6 (31975)
+DPTO_HECHO_NEW,texto,0,0,26,3,23,,,LIMA METROPOLITANA (26527) | AREQUIPA (26200) | CUSCO (24814)
+PROV_HECHO,texto,0,0,196,3,25,,,LIMA (26527) | AREQUIPA (12208) | CHICLAYO (9313)
+DIST_HECHO,texto,0,0,1688,3,36,,,
+UBIGEO_HECHO,texto,0,0,1839,5,6,10101,250401,
+P_MODALIDADES,texto,0,0,7,4,39,,,Otros (107429) | Violencia contra la mujer e integrantes (94941) | Hurto (67438)
+cantidad,entero,0,0,918,1,4,1,1303,

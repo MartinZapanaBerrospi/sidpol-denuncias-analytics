@@ -139,8 +139,9 @@ Todo lo siguiente se resolverá en las Fases 2 y 3:
 3. **Lima está partida en dos "departamentos".** `LIMA METROPOLITANA` y `REGION LIMA` comparten
    el código de departamento 15. Es útil para analizar, pero hay que distinguirlo del
    departamento oficial para unir con la población.
-4. **Siete distritos nuevos sin población.** Como Alto Tapiche (Loreto) o Yurúa (Ucayali): 459
-   denuncias en total, 0,006 %.
+4. **Distritos sin población.** Con los indicadores SIDPOL solos faltan siete distritos (459
+   denuncias); uniendo todas las fuentes del conjunto de indicadores queda uno, Kumpirushiato
+   (Cusco), con 442 denuncias, el 0,006 %. Ver [Fase 2](02_calidad.md#6-catálogo-de-problemas).
 5. **La población del archivo de indicadores se repite por indicador.** Cada UBIGEO y año trae
    una fila por indicador con la misma población: sumarla directamente la inflaría nueve veces
    (205 millones en 2018 en vez de 31,6).

@@ -1,0 +1,46 @@
+validacion,anio,medida,oficial,calculado,tolerancia_pct,severidad,detalle,diferencia_pct,resultado
+V1,2018,denuncias de violencia contra la mujer,250543.0,250543.0,0.0,bloqueante,8549 celdas año-mes-distrito; 0 distintas,0.0,cumple
+V1,2019,denuncias de violencia contra la mujer,296986.0,296986.0,0.0,bloqueante,10323 celdas año-mes-distrito; 0 distintas,0.0,cumple
+V1,2020,denuncias de violencia contra la mujer,250385.0,250385.0,0.0,bloqueante,11061 celdas año-mes-distrito; 0 distintas,0.0,cumple
+V1,2021,denuncias de violencia contra la mujer,258086.0,258086.0,0.0,bloqueante,12097 celdas año-mes-distrito; 0 distintas,0.0,cumple
+V1,2022,denuncias de violencia contra la mujer,247461.0,247461.0,0.0,bloqueante,11949 celdas año-mes-distrito; 0 distintas,0.0,cumple
+V1,2023,denuncias de violencia contra la mujer,256282.0,256282.0,0.0,bloqueante,11708 celdas año-mes-distrito; 0 distintas,0.0,cumple
+V1,2024,denuncias de violencia contra la mujer,244030.0,244030.0,0.0,bloqueante,11686 celdas año-mes-distrito; 0 distintas,0.0,cumple
+V1,2025,denuncias de violencia contra la mujer,219417.0,219417.0,0.0,bloqueante,11200 celdas año-mes-distrito; 0 distintas,0.0,cumple
+V1,2026,denuncias de violencia contra la mujer,125988.0,125988.0,0.0,bloqueante,6367 celdas año-mes-distrito; 0 distintas,0.0,cumple
+V2-7,2018,denuncias de extorsión,3223.0,3072.0,6.0,bloqueante,indicador oficial 7 del Plan de Acción de Seguridad Ciudadana,-4.685,cumple
+V2-7,2019,denuncias de extorsión,3866.0,3705.0,6.0,bloqueante,indicador oficial 7 del Plan de Acción de Seguridad Ciudadana,-4.165,cumple
+V2-7,2020,denuncias de extorsión,2839.0,2689.0,6.0,bloqueante,indicador oficial 7 del Plan de Acción de Seguridad Ciudadana,-5.284,cumple
+V2-7,2021,denuncias de extorsión,4740.0,4539.0,6.0,bloqueante,indicador oficial 7 del Plan de Acción de Seguridad Ciudadana,-4.241,cumple
+V2-7,2022,denuncias de extorsión,16349.0,16066.0,6.0,bloqueante,indicador oficial 7 del Plan de Acción de Seguridad Ciudadana,-1.731,cumple
+V2-7,2023,denuncias de extorsión,22688.0,22320.0,6.0,bloqueante,indicador oficial 7 del Plan de Acción de Seguridad Ciudadana,-1.622,cumple
+V2-7,2024,denuncias de extorsión,22388.0,21915.0,6.0,bloqueante,indicador oficial 7 del Plan de Acción de Seguridad Ciudadana,-2.113,cumple
+V2-7,2025,denuncias de extorsión,27286.0,26730.0,6.0,bloqueante,indicador oficial 7 del Plan de Acción de Seguridad Ciudadana,-2.038,cumple
+V2-7,2026,denuncias de extorsión,12522.0,12174.0,6.0,bloqueante,indicador oficial 7 del Plan de Acción de Seguridad Ciudadana,-2.779,cumple
+V2-2,2018,denuncias de delitos contra el patrimonio (hurto + robo),276492.0,257594.0,,info,indicador oficial 2 del Plan de Acción de Seguridad Ciudadana,-6.835,info
+V2-2,2019,denuncias de delitos contra el patrimonio (hurto + robo),283001.0,260452.0,,info,indicador oficial 2 del Plan de Acción de Seguridad Ciudadana,-7.968,info
+V2-2,2020,denuncias de delitos contra el patrimonio (hurto + robo),171077.0,150489.0,,info,indicador oficial 2 del Plan de Acción de Seguridad Ciudadana,-12.034,info
+V2-2,2021,denuncias de delitos contra el patrimonio (hurto + robo),222272.0,193138.0,,info,indicador oficial 2 del Plan de Acción de Seguridad Ciudadana,-13.107,info
+V2-2,2022,denuncias de delitos contra el patrimonio (hurto + robo),289664.0,253541.0,,info,indicador oficial 2 del Plan de Acción de Seguridad Ciudadana,-12.471,info
+V2-2,2023,denuncias de delitos contra el patrimonio (hurto + robo),418467.0,373172.0,,info,indicador oficial 2 del Plan de Acción de Seguridad Ciudadana,-10.824,info
+V2-2,2024,denuncias de delitos contra el patrimonio (hurto + robo),375880.0,326115.0,,info,indicador oficial 2 del Plan de Acción de Seguridad Ciudadana,-13.24,info
+V2-2,2025,denuncias de delitos contra el patrimonio (hurto + robo),285540.0,237804.0,,info,indicador oficial 2 del Plan de Acción de Seguridad Ciudadana,-16.718,info
+V2-2,2026,denuncias de delitos contra el patrimonio (hurto + robo),155179.0,130083.0,,info,indicador oficial 2 del Plan de Acción de Seguridad Ciudadana,-16.172,info
+V2-8,2018,denuncias de secuestro,1446.0,1071.0,,info,indicador oficial 8 del Plan de Acción de Seguridad Ciudadana,-25.934,info
+V2-8,2019,denuncias de secuestro,1700.0,1214.0,,info,indicador oficial 8 del Plan de Acción de Seguridad Ciudadana,-28.588,info
+V2-8,2020,denuncias de secuestro,1115.0,896.0,,info,indicador oficial 8 del Plan de Acción de Seguridad Ciudadana,-19.641,info
+V2-8,2021,denuncias de secuestro,1378.0,1122.0,,info,indicador oficial 8 del Plan de Acción de Seguridad Ciudadana,-18.578,info
+V2-8,2022,denuncias de secuestro,1838.0,1321.0,,info,indicador oficial 8 del Plan de Acción de Seguridad Ciudadana,-28.128,info
+V2-8,2023,denuncias de secuestro,1802.0,1325.0,,info,indicador oficial 8 del Plan de Acción de Seguridad Ciudadana,-26.471,info
+V2-8,2024,denuncias de secuestro,1692.0,1268.0,,info,indicador oficial 8 del Plan de Acción de Seguridad Ciudadana,-25.059,info
+V2-8,2025,denuncias de secuestro,1577.0,1176.0,,info,indicador oficial 8 del Plan de Acción de Seguridad Ciudadana,-25.428,info
+V2-8,2026,denuncias de secuestro,815.0,622.0,,info,indicador oficial 8 del Plan de Acción de Seguridad Ciudadana,-23.681,info
+V3,2018,población de los distritos,31562130.0,31562130.0,1.0,bloqueante,1874 distritos con población,0.0,cumple
+V3,2019,población de los distritos,32131400.0,32131400.0,1.0,bloqueante,1874 distritos con población,0.0,cumple
+V3,2020,población de los distritos,32625948.0,32624315.0,1.0,bloqueante,1874 distritos con población,-0.005,cumple
+V3,2021,población de los distritos,33035304.0,32961764.0,1.0,bloqueante,1874 distritos con población,-0.223,cumple
+V3,2022,población de los distritos,33396698.0,33322520.0,1.0,bloqueante,1874 distritos con población,-0.222,cumple
+V3,2023,población de los distritos,33725844.0,33566742.0,1.0,bloqueante,1874 distritos con población,-0.472,cumple
+V3,2024,población de los distritos,34038457.0,33875022.0,1.0,bloqueante,1866 distritos con población,-0.48,cumple
+V3,2025,población de los distritos,34350244.0,34179939.0,1.0,bloqueante,1858 distritos con población,-0.496,cumple
+V3,2026,población de los distritos,34660114.0,33828083.0,1.0,alerta,1515 distritos con población,-2.401,alerta

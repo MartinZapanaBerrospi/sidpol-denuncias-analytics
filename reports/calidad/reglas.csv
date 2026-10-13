@@ -1,0 +1,41 @@
+id,dimension,regla,severidad,evaluadas,fallan,pct_fallan,denuncias_afectadas,resultado,detalle
+C1,Completitud,Los 103 meses del periodo están presentes,bloqueante,103,0,0.0,,cumple,
+C2,Completitud,Las 7 modalidades aparecen en todos los meses,bloqueante,721,0,0.0,,cumple,
+C3,Completitud,Las 8 columnas esperadas están en el archivo principal,bloqueante,8,0,0.0,,cumple,
+C4,Completitud,Sin vacíos: ANIO,bloqueante,369100,0,0.0,0.0,cumple,
+C4,Completitud,Sin vacíos: MES,bloqueante,369100,0,0.0,0.0,cumple,
+C4,Completitud,Sin vacíos: DPTO_HECHO_NEW,bloqueante,369100,0,0.0,0.0,cumple,
+C4,Completitud,Sin vacíos: PROV_HECHO,bloqueante,369100,0,0.0,0.0,cumple,
+C4,Completitud,Sin vacíos: DIST_HECHO,bloqueante,369100,0,0.0,0.0,cumple,
+C4,Completitud,Sin vacíos: UBIGEO_HECHO,bloqueante,369100,0,0.0,0.0,cumple,
+C4,Completitud,Sin vacíos: P_MODALIDADES,bloqueante,369100,0,0.0,0.0,cumple,
+C4,Completitud,Sin vacíos: cantidad,bloqueante,369100,0,0.0,0.0,cumple,
+C5,Completitud,La tabla es dispersa: un mes sin fila significa cero denuncias,info,1325919,956819,72.163,,info,"369,100 filas de 1,325,919 combinaciones posibles distrito-mes-modalidad; para tasas y alertas se completa la grilla con ceros en la Fase 3"
+U1,Unicidad,"Una fila por año, mes, distrito y modalidad",alerta,369100,2,0.001,2.0,alerta,Un UBIGEO con dos nombres de provincia (problema 2); se suman las dos filas
+U2,Unicidad,No hay filas idénticas en todas las columnas,bloqueante,369100,0,0.0,0.0,cumple,
+V1,Validez,Año entre 2018 y 2026,bloqueante,369100,0,0.0,0.0,cumple,
+V2,Validez,Mes entre 1 y 12,bloqueante,369100,0,0.0,0.0,cumple,
+V3,Validez,Ningún mes posterior al corte,bloqueante,369100,0,0.0,0.0,cumple,
+V4,Validez,Cantidad entera mayor que cero,bloqueante,369100,0,0.0,0.0,cumple,
+V5,Validez,Modalidad dentro del dominio de 7,bloqueante,369100,0,0.0,0.0,cumple,
+V6,Validez,UBIGEO numérico de 6 dígitos tras agregar el cero inicial,bloqueante,369100,0,0.0,0.0,cumple,
+V7,Validez,Código de departamento entre 01 y 25,bloqueante,369100,0,0.0,0.0,cumple,
+V8,Validez,El UBIGEO existe en el padrón de población,alerta,369100,152,0.041,442.0,alerta,"Distritos creados recientemente; 0,006 % de las denuncias"
+V9,Validez,UBIGEO ya viene con 6 dígitos en el archivo,info,369100,142979,38.737,1836118.0,info,El archivo trató el código como número y perdió el cero inicial
+K1,Consistencia,Cada UBIGEO tiene un solo nombre de provincia y de distrito,alerta,369100,106,0.029,258.0,alerta,
+K2,Consistencia,Cada nombre de departamento corresponde a un solo código,bloqueante,369100,0,0.0,0.0,cumple,
+K3,Consistencia,Lima Metropolitana es solo la provincia de Lima,bloqueante,369100,0,0.0,0.0,cumple,
+K4,Consistencia,Región Lima no incluye la provincia de Lima,bloqueante,369100,0,0.0,0.0,cumple,
+K5,Consistencia,El nombre de distrito identifica un solo UBIGEO,info,369100,51566,13.971,1009664.0,info,"98 nombres de distrito se repiten en provincias distintas; la identidad de un distrito es su UBIGEO, nunca su nombre"
+K6,Consistencia,Las columnas del archivo de violencia equivalen a las del principal,bloqueante,7,0,0.0,,cumple,
+K7,Consistencia,Sin saltos bruscos de un mes a otro en las series por modalidad,alerta,721,19,2.635,,alerta,"Saltos de más de 20 % en modalidades de más de 1 000 denuncias al mes, fuera de la pandemia; ver reports/calidad/rupturas.csv"
+K8,Consistencia,Sin celdas distrito-modalidad-mes muy altas frente a su propia historia,alerta,369100,3,0.001,,alerta,z robusto sobre el logaritmo; ver atipicos.csv
+E,Exactitud,V1: violencia contra la mujer idéntica en ambos archivos,bloqueante,9,0,0.0,,cumple,diferencia absoluta máxima 0.000 %
+E,Exactitud,V2-2: denuncias de delitos contra el patrimonio (hurto + robo) frente al indicador oficial,info,9,9,100.0,,info,diferencia de -6.8 % a -16.7 % según el año (no es una prueba; se explica en 02_calidad.md)
+E,Exactitud,V2-7: denuncias de extorsión frente al indicador oficial,bloqueante,9,0,0.0,,cumple,diferencia absoluta máxima 5.284 %
+E,Exactitud,V2-8: denuncias de secuestro frente al indicador oficial,info,9,9,100.0,,info,diferencia de -18.6 % a -28.6 % según el año (no es una prueba; se explica en 02_calidad.md)
+E,Exactitud,V3: población de los distritos suma la nacional,alerta,9,1,11.111,,alerta,diferencia absoluta máxima 2.401 %; 2026 queda corto de población distrital (se imputa en la Fase 3)
+O1,Oportunidad,Publicación a menos de 30 días del cierre: denuncias,alerta,1,0,0.0,,cumple,"publicado el 2026-08-13, 13 días después de cerrar julio de 2026"
+O1,Oportunidad,Publicación a menos de 30 días del cierre: violencia,alerta,1,0,0.0,,cumple,"publicado el 2026-08-21, 21 días después de cerrar julio de 2026"
+O1,Oportunidad,Publicación a menos de 30 días del cierre: indicadores,alerta,1,0,0.0,,cumple,"publicado el 2026-08-26, 26 días después de cerrar julio de 2026"
+O2,Oportunidad,El último año está completo,info,1,1,100.0,,info,2026 llega a julio: las comparaciones usan enero–julio de cada año
