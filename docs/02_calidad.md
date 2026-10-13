@@ -64,8 +64,8 @@ documenta y se marca) o *informativa* (describe la fuente sin juzgarla).
 | `cantidad` | 918 | 0 | 1 a 1 303 |
 
 **Por mes.** Cada mes trae entre 2 389 y 4 151 filas y entre 853 y 1 336 distritos con al menos
-una denuncia. Los distritos con registro crecen de 1 038 (2018) a 1 336 (2021) y se mantienen
-(problema 17). El porcentaje de filas con UBIGEO de 5 dígitos es estable, entre 37,6 % y 39,4 %
+una denuncia. Los distritos con registro en un mes típico (mediana) crecen de 953 en 2018 a 1 290 en 2021 y se
+mantienen (problema 17). El porcentaje de filas con UBIGEO de 5 dígitos es estable, entre 37,6 % y 39,4 %
 cada año: no es un problema de un mes, sino del formato del archivo.
 
 ## 4. Las seis dimensiones
@@ -182,7 +182,7 @@ Cusco) no tiene población en ningún año.
 | 14 | **Datos dinámicos** | El metadato dice "información sujeta a variación por ser datos dinámicos" | Meses recientes | Documentar: los últimos meses pueden subir en publicaciones futuras. El manifiesto con hash permite detectar cambios |
 | 15 | **Indicadores oficiales con definiciones más amplias** | Patrimonio −6,8 % a −16,7 %; secuestro −18,6 % a −28,6 % | 2 de 3 indicadores | Informar: solo la extorsión se usa como prueba |
 | 16 | **Celdas atípicas** | 55 denuncias de estafa en San José de Sisa (San Martín) en octubre de 2025, con z = 22,5 | 3 celdas | Marcar, no excluir: son pocas y no alteran ningún total |
-| 17 | **Cobertura del sistema que crece** | Distritos con al menos una denuncia: 1 038 en 2018 y 1 336 en 2021 | Comparabilidad 2018–2021 | Documentar: parte del aumento 2018–2021 puede ser más comisarías registrando en el sistema, y un mes sin fila puede ser cero o falta de registro |
+| 17 | **Cobertura del sistema que crece** | Distritos con al menos una denuncia en un mes típico (mediana): 953 en 2018 y 1 290 en 2021; en el año completo, 1 518 y 1 749 | Comparabilidad 2018–2021 | Documentar: parte del aumento 2018–2021 puede ser más comisarías registrando en el sistema, y un mes sin fila puede ser cero o falta de registro |
 | 18 | **El último año está incompleto** | 2026 llega a julio | 2026 | Documentar: las comparaciones con 2026 usan enero–julio |
 | 19 | **La población por distrito no suma la de su provincia** | Provincia de Trujillo, 2025: 1 223 977 habitantes oficiales y 1 136 345 sumando sus 11 distritos (−7,2 %) | Desde 2020; en 2025, 21 de 196 provincias; hasta −30 % en algunas. Provincias, departamentos y país sí cuadran entre sí | Corregir en la Fase 3: se reparte el total provincial oficial entre sus distritos en proporción a su población publicada, y se marca `poblacion_ajustada` |
 

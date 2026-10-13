@@ -1,0 +1,95 @@
+cifra,valor,descripcion
+denuncias_total,7359931,Denuncias de enero de 2018 a julio de 2026
+denuncias_2018,774804,Denuncias en 2018
+denuncias_2023,1044843,"Denuncias en 2023, el máximo anual"
+denuncias_2025,895260,Denuncias en 2025
+var_2023_2025,-0.1431631355141394,Cambio de las denuncias entre 2023 y 2025
+var_2018_2025,0.15546641473198375,Cambio de las denuncias entre 2018 y 2025
+denuncias_ene_jul_2025,535466,Denuncias de enero a julio de 2025
+denuncias_ene_jul_2026,494268,Denuncias de enero a julio de 2026
+var_ene_jul_2026,-0.0769385918060157,Cambio de enero–julio de 2026 frente a enero–julio de 2025
+var_ene_jul_2026_2018,0.1305280637509978,Cambio de enero–julio de 2026 frente a enero–julio de 2018
+tasa_2018,2462.404038881121,"Denuncias por 100 mil habitantes, 2018"
+tasa_2023,3107.1180973586447,"Denuncias por 100 mil habitantes, 2023"
+tasa_2025,2613.6906227725303,"Denuncias por 100 mil habitantes, 2025"
+tasa_2026,2451.5344515403535,"Denuncias por 100 mil habitantes, 2026 (anualizada)"
+pct_otros,0.364912388444946,Parte de las denuncias que cae en la modalidad Otros
+pct_violencia,0.2920106180343267,Parte de violencia contra la mujer
+pct_hurto,0.19950635406772155,Parte de hurto
+extorsion_2018,3072,Denuncias de extorsión en 2018
+extorsion_2025,26730,Denuncias de extorsión en 2025
+extorsion_veces,8.701171875,Veces que se multiplicó la extorsión entre 2018 y 2025
+var_extorsion_ene_jul_2026,-0.24861128255770892,"Extorsión, enero–julio 2026 frente a 2025"
+robo_2023,141708,"Denuncias de robo en 2023, su máximo"
+robo_2025,57200,Denuncias de robo en 2025
+var_robo_2023_2025,-0.5963530640471957,Cambio del robo entre 2023 y 2025
+saltos_robo,5,Saltos de serie del robo
+estafa_2018,9574,Denuncias de estafa en 2018
+estafa_2025,40068,Denuncias de estafa en 2025
+estafa_veces,4.185084604136202,Veces que se multiplicó la estafa
+var_violencia_2018_2025,-0.12423416339710147,Cambio de la violencia contra la mujer entre 2018 y 2025
+var_hurto_2023_2025,-0.2197317941450938,Cambio del hurto entre 2023 y 2025
+saltos_total,19,Saltos de serie detectados
+aporte_robo_cambio_2023_2025,0.564957247815594,Parte de la caída 2023–2025 que explica el robo
+distritos_con_denuncias_2018,1518,Distritos con alguna denuncia en 2018
+distritos_con_denuncias_2025,1758,Distritos con alguna denuncia en 2025
+tasa_nacional_2025,2613.6906227725303,Tasa nacional por 100 mil habitantes en 2025
+dep_mayor_tasa,Lambayeque,Departamento con mayor tasa en 2025
+dep_mayor_tasa_valor,4410.038322496303,Tasa del departamento con mayor tasa en 2025
+dep_mayor_tasa_veces,1.6872839823017223,Veces la tasa nacional del departamento líder
+dep_2,Madre de Dios,Segundo departamento por tasa
+dep_2_valor,4122.736606769127,Tasa del segundo departamento
+dep_3,Arequipa,Tercer departamento por tasa
+dep_menor_tasa,Huancavelica,Departamento con menor tasa en 2025
+dep_menor_tasa_valor,1226.043606145867,Tasa del departamento con menor tasa en 2025
+lima_met_tasa,3111.92351554567,Tasa de Lima Metropolitana en 2025
+lima_met_veces,1.1906242798715894,"Lima Metropolitana, veces la tasa nacional"
+lima_met_pct_denuncias,0.3626209145946429,Parte de las denuncias de 2025 que registra Lima Metropolitana
+lima_met_pct_poblacion,0.3045636820322126,Parte de la población que vive en Lima Metropolitana
+deps_sobre_nacional,11,Departamentos con tasa sobre la nacional
+n_departamentos,26,Departamentos (Lima partida en dos)
+convergencia_spearman,-0.7087179487179487,Correlación de rangos entre la tasa de 2018 y su cambio hasta 2025: negativa = los más bajos suben más
+convergencia_5_bajos_cambio,0.5006307434691903,Cambio de la tasa conjunta de los 5 departamentos con menor tasa en 2018
+convergencia_5_bajos,"Huancavelica, Puno, Cajamarca, Loreto, San Martín",Los 5 departamentos con menor tasa en 2018
+ratio_max_min_dep,3.5969669434185074,Veces entre el departamento con mayor y con menor tasa
+distritos_en_ranking,811,Distritos de 5000 habitantes o más
+distrito_mayor_tasa,Arequipa,Distrito grande (20 mil o más) con mayor tasa en 2025
+distrito_mayor_tasa_valor,13202.60956101876,Su tasa
+distrito_mayor_tasa_dep,Arequipa,Su departamento
+distrito_menor_tasa_valor,171.88311947875445,Tasa más baja entre los distritos grandes
+top10_participacion_2025,0.22611755244286577,Parte de las denuncias de 2025 en los 10 distritos con más
+top10_participacion_2018,0.23743811338093246,Lo mismo en 2018
+distritos_para_50pct_2025,41,Distritos que suman la mitad de las denuncias de 2025
+distritos_con_denuncias_total,1758,Distritos con denuncias en 2025
+distrito_lider,Lima,Distrito con más denuncias en 2025
+distrito_lider_denuncias,33669,Sus denuncias
+distrito_2,San Juan de Lurigancho,Segundo distrito con más denuncias en 2025
+distrito_2_denuncias,30622,Sus denuncias
+extorsion_dep_1,Tumbes,Departamento con mayor tasa de extorsión en 2025
+extorsion_dep_1_valor,229.8859084750531,Su tasa de extorsión
+extorsion_dep_2,La Libertad,Segundo departamento por tasa de extorsión
+extorsion_dep_2_valor,200.97933943522625,Su tasa de extorsión
+extorsion_lima_met_pct,0.4167601945379723,Parte de las denuncias de extorsión de 2025 en Lima Metropolitana
+alertas,5,Combinaciones distrito–modalidad en alerta
+alertas_evaluadas,1526,Combinaciones evaluadas
+alertas_distritos,5,Distritos distintos en alerta
+alertas_con_salto_de_nivel,5,"Alertas cuyo aumento es un salto de nivel de 1,8 veces o más entre dos semestres"
+santa_anita_hurto_previos,2438,"Hurto en Santa Anita, 12 meses previos"
+santa_anita_hurto_ultimos,5418,"Hurto en Santa Anita, últimos 12 meses"
+santa_anita_mes_cambio,2025-06-01,Mes en que cambia el nivel del hurto en Santa Anita
+santa_anita_antes,131.5,Promedio mensual de hurto antes del cambio
+santa_anita_despues,465.6666666666667,Promedio mensual de hurto después del cambio
+alerta_z_max,4.091,Puntaje z más alto
+alerta_z_max_distrito,Punchana,Distrito con el puntaje z más alto
+estacional_mes_max,marzo,Mes con mayor parte de las denuncias del año
+estacional_max,0.08756825003782066,Parte del año en el mes con más denuncias
+estacional_mes_min,febrero,Mes con menor parte
+estacional_min,0.07885874819890859,Parte del año en el mes con menos denuncias
+estacional_parejo,0.08333333333333333,Parte de cada mes si el año fuera parejo
+estacional_rango_pp,0.8709501838912073,"Distancia entre el mes más alto y el más bajo, en puntos porcentuales"
+pandemia_abril_2020,21570,Denuncias de abril de 2020
+pandemia_abril_2019,69641,Denuncias de abril de 2019
+pandemia_caida_abril,-0.6902686635746185,Cambio de abril de 2020 frente a abril de 2019
+pandemia_2020_vs_2019,-0.24064742226558022,Cambio de las denuncias de 2020 frente a 2019
+pandemia_dic_vs_dic,-0.18358175218391415,Diciembre de 2020 frente a diciembre de 2019
+recuperacion_2022_vs_2019,0.026714298080004806,Las denuncias de 2022 frente a las de 2019
