@@ -15,12 +15,8 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
-      - name: Pruebas (limpieza, modelo curado, análisis y tablero)
+      # Los archivos originales (data/raw) no se versionan: el portal no permite descargarlos por
+      # script. Las pruebas usan recortes reales (tests/fixtures) y los reportes y el modelo curado
+      # versionados, que contienen el resultado de cada validación.
+      - name: Pruebas (lectura, calidad, validaciones y modelo)
         run: pytest -q
-      - name: El modelo curado coincide con las cifras oficiales de Perú Compras
-        run: python -m src.validate
-      - name: El tablero versionado es el que producen los generadores
-        run: |
-          python tools/build_model.py
-          python tools/build_report.py
-          git diff --exit-code -- powerbi ':!powerbi/perucompras.SemanticModel/definition/expressions.tmdl'
