@@ -1,0 +1,25 @@
+model Model
+	culture: es-PE
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	discourageImplicitMeasures
+	sourceQueryCulture: en-US
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation __PBI_TimeIntelligenceEnabled = 0
+
+annotation PBI_QueryOrder = ["RutaDatos", "dim_fecha", "dim_anio", "dim_distrito", "dim_modalidad", "fact_denuncia", "fact_poblacion", "fact_alerta_distrito", "fact_salto_serie"]
+
+annotation PBI_ProTooling = ["DevMode"]
+
+ref table dim_fecha
+ref table dim_anio
+ref table dim_distrito
+ref table dim_modalidad
+ref table fact_denuncia
+ref table fact_poblacion
+ref table fact_alerta_distrito
+ref table fact_salto_serie
+ref table _Medidas
+

@@ -1,0 +1,93 @@
+{
+  "name": "Sidpol",
+  "dataColors": [
+    "#1f5f99",
+    "#d9822b",
+    "#2a9d8f",
+    "#b5893c",
+    "#6c757d",
+    "#8e5ea2",
+    "#c0504d",
+    "#4f9d4a"
+  ],
+  "background": "#ffffff",
+  "foreground": "#1b1f24",
+  "tableAccent": "#1f5f99",
+  "good": "#2a7d4f",
+  "bad": "#b8433a",
+  "neutral": "#8a8f98",
+  "textClasses": {
+    "label": {
+      "fontFace": "Segoe UI",
+      "color": "#4a5058",
+      "fontSize": 9
+    },
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "color": "#1b1f24",
+      "fontSize": 11
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "color": "#1b1f24",
+      "fontSize": 12
+    },
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "color": "#1b1f24",
+      "fontSize": 24
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#ffffff"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#e3e6ea"
+              }
+            },
+            "radius": 4
+          }
+        ],
+        "title": [
+          {
+            "fontSize": 11,
+            "fontColor": {
+              "solid": {
+                "color": "#1b1f24"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#f4f5f7"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}

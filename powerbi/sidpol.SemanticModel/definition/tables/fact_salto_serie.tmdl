@@ -1,0 +1,61 @@
+/// Meses en que una modalidad grande cambia más de 20 % frente al mes anterior (fuera de la pandemia).
+table fact_salto_serie
+	lineageTag: b7acbcff-d8a2-5e54-b96d-7147e770524f
+
+	column mes_inicio
+		dataType: dateTime
+		isHidden
+		formatString: mmm yyyy
+		lineageTag: b397045f-2e5b-5e13-a8e7-9595a832c421
+		summarizeBy: none
+		sourceColumn: mes_inicio
+
+		annotation SummarizationSetBy = Automatic
+
+	column modalidad_id
+		dataType: int64
+		isHidden
+		lineageTag: d9e94bf7-9ecb-576d-b6b2-bb52ec4df475
+		summarizeBy: none
+		sourceColumn: modalidad_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column denuncias
+		dataType: int64
+		isHidden
+		lineageTag: 326e35bd-d69b-544d-89e6-6f3a54fcf1ae
+		summarizeBy: none
+		sourceColumn: denuncias
+
+		annotation SummarizationSetBy = Automatic
+
+	column mes_anterior
+		dataType: int64
+		isHidden
+		lineageTag: 4381a1e7-b1ed-591b-9c01-bedbe73fb39e
+		summarizeBy: none
+		sourceColumn: mes_anterior
+
+		annotation SummarizationSetBy = Automatic
+
+	column variacion_pct
+		dataType: double
+		isHidden
+		lineageTag: 1ef4514d-1e9e-5595-9a2f-9e000b7cca5a
+		summarizeBy: none
+		sourceColumn: variacion_pct
+
+		annotation SummarizationSetBy = Automatic
+
+	partition fact_salto_serie = m
+		mode: import
+		source =
+				let
+				    Origen = Csv.Document(File.Contents(RutaDatos & "fact_salto_serie.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Encabezados = Table.PromoteHeaders(Origen, [PromoteAllScalars=true]),
+				    Tipos = Table.TransformColumnTypes(Encabezados, {{"mes_inicio", type date}, {"modalidad_id", Int64.Type}, {"denuncias", Int64.Type}, {"mes_anterior", Int64.Type}, {"variacion_pct", type number}}, "en-US")
+				in
+				    Tipos
+
+	annotation PBI_ResultType = Table

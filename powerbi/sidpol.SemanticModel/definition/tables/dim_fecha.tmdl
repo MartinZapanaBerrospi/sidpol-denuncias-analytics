@@ -1,0 +1,89 @@
+/// Calendario mensual de 2018-01 a 2026-07, en español.
+table dim_fecha
+	lineageTag: fd6f9ef7-8ff0-5f24-942e-1fcc93fddaf9
+	dataCategory: Time
+
+	/// Primer día del mes
+	column mes_inicio
+		dataType: dateTime
+		isKey
+		formatString: mmm yyyy
+		lineageTag: eb047095-65d1-5338-bccb-19e79b2fc22a
+		summarizeBy: none
+		sourceColumn: mes_inicio
+
+		annotation SummarizationSetBy = Automatic
+
+	/// Año
+	column anio
+		dataType: int64
+		formatString: 0
+		lineageTag: daa1acbc-b04b-5708-9468-e6803d85cbd9
+		summarizeBy: none
+		sourceColumn: anio
+
+		annotation SummarizationSetBy = Automatic
+
+	column mes
+		dataType: int64
+		isHidden
+		lineageTag: 30abe15a-923c-5a2d-a239-3e42913e9a99
+		summarizeBy: none
+		sourceColumn: mes
+
+		annotation SummarizationSetBy = Automatic
+
+	column mes_nombre
+		dataType: string
+		lineageTag: 9aa20b7e-711a-5dae-befb-cb7a16533906
+		summarizeBy: none
+		sourceColumn: mes_nombre
+		sortByColumn: mes
+
+		annotation SummarizationSetBy = Automatic
+
+	column trimestre
+		dataType: string
+		lineageTag: f5746b1f-ee10-56f8-b799-c0eabf8fe36b
+		summarizeBy: none
+		sourceColumn: trimestre
+
+		annotation SummarizationSetBy = Automatic
+
+	column anio_mes
+		dataType: string
+		lineageTag: b1ee52c2-bc7d-56be-8f3b-4be78603f030
+		summarizeBy: none
+		sourceColumn: anio_mes
+
+		annotation SummarizationSetBy = Automatic
+
+	column es_ene_jul
+		dataType: int64
+		isHidden
+		lineageTag: ab11c970-edc4-53ee-a766-d02224cf4f9a
+		summarizeBy: none
+		sourceColumn: es_ene_jul
+
+		annotation SummarizationSetBy = Automatic
+
+	column es_pandemia
+		dataType: int64
+		isHidden
+		lineageTag: 4a5031eb-bdbc-5b5f-9038-e9efeac42377
+		summarizeBy: none
+		sourceColumn: es_pandemia
+
+		annotation SummarizationSetBy = Automatic
+
+	partition dim_fecha = m
+		mode: import
+		source =
+				let
+				    Origen = Csv.Document(File.Contents(RutaDatos & "dim_fecha.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Encabezados = Table.PromoteHeaders(Origen, [PromoteAllScalars=true]),
+				    Tipos = Table.TransformColumnTypes(Encabezados, {{"mes_inicio", type date}, {"anio", Int64.Type}, {"mes", Int64.Type}, {"mes_nombre", type text}, {"trimestre", type text}, {"anio_mes", type text}, {"es_ene_jul", Int64.Type}, {"es_pandemia", Int64.Type}}, "en-US")
+				in
+				    Tipos
+
+	annotation PBI_ResultType = Table

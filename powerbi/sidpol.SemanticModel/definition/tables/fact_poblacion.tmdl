@@ -1,0 +1,69 @@
+/// Población proyectada por distrito y año, ajustada al total oficial de cada provincia.
+table fact_poblacion
+	lineageTag: d9393c0a-9b0e-542b-9a22-4181069bef78
+
+	column ubigeo
+		dataType: string
+		isHidden
+		lineageTag: 483023af-8169-5bc1-92f1-cf144434d87f
+		summarizeBy: none
+		sourceColumn: ubigeo
+
+		annotation SummarizationSetBy = Automatic
+
+	column anio
+		dataType: int64
+		isHidden
+		lineageTag: 1fbcb37e-159a-56d7-8c1f-cb1e858586a9
+		summarizeBy: none
+		sourceColumn: anio
+
+		annotation SummarizationSetBy = Automatic
+
+	column poblacion_fuente
+		dataType: int64
+		isHidden
+		lineageTag: d551147c-371e-5e02-8c6e-531341da2ff1
+		summarizeBy: none
+		sourceColumn: poblacion_fuente
+
+		annotation SummarizationSetBy = Automatic
+
+	column poblacion_imputada
+		dataType: int64
+		isHidden
+		lineageTag: b4e95aa3-4e53-5d66-bdd6-a11c0f3a6135
+		summarizeBy: none
+		sourceColumn: poblacion_imputada
+
+		annotation SummarizationSetBy = Automatic
+
+	column poblacion
+		dataType: int64
+		isHidden
+		lineageTag: 7a31b51a-dbd5-5dab-b7ba-f396045f440b
+		summarizeBy: none
+		sourceColumn: poblacion
+
+		annotation SummarizationSetBy = Automatic
+
+	column poblacion_ajustada
+		dataType: int64
+		isHidden
+		lineageTag: f7b5f03b-6355-58a5-b9fc-cfba7af29e1b
+		summarizeBy: none
+		sourceColumn: poblacion_ajustada
+
+		annotation SummarizationSetBy = Automatic
+
+	partition fact_poblacion = m
+		mode: import
+		source =
+				let
+				    Origen = Csv.Document(File.Contents(RutaDatos & "fact_poblacion.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Encabezados = Table.PromoteHeaders(Origen, [PromoteAllScalars=true]),
+				    Tipos = Table.TransformColumnTypes(Encabezados, {{"ubigeo", type text}, {"anio", Int64.Type}, {"poblacion_fuente", Int64.Type}, {"poblacion_imputada", Int64.Type}, {"poblacion", Int64.Type}, {"poblacion_ajustada", Int64.Type}}, "en-US")
+				in
+				    Tipos
+
+	annotation PBI_ResultType = Table

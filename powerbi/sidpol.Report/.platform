@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "sidpol"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "d40c1324-d61f-51ed-8355-9c04584ffc01"
+  }
+}

@@ -1,0 +1,41 @@
+/// Las siete modalidades que publica la fuente.
+table dim_modalidad
+	lineageTag: 213201d6-2a24-586b-aaf7-cce89c795219
+
+	column modalidad_id
+		dataType: int64
+		isKey
+		isHidden
+		lineageTag: 166118fc-eeeb-51df-bd2f-22732c20339f
+		summarizeBy: none
+		sourceColumn: modalidad_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column modalidad
+		dataType: string
+		lineageTag: a25889e3-c21a-523b-a9fa-dfba6a4d2b90
+		summarizeBy: none
+		sourceColumn: modalidad
+
+		annotation SummarizationSetBy = Automatic
+
+	column grupo
+		dataType: string
+		lineageTag: 926fcb27-73b9-5de3-8d74-f83b27b916b3
+		summarizeBy: none
+		sourceColumn: grupo
+
+		annotation SummarizationSetBy = Automatic
+
+	partition dim_modalidad = m
+		mode: import
+		source =
+				let
+				    Origen = Csv.Document(File.Contents(RutaDatos & "dim_modalidad.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Encabezados = Table.PromoteHeaders(Origen, [PromoteAllScalars=true]),
+				    Tipos = Table.TransformColumnTypes(Encabezados, {{"modalidad_id", Int64.Type}, {"modalidad", type text}, {"grupo", type text}}, "en-US")
+				in
+				    Tipos
+
+	annotation PBI_ResultType = Table

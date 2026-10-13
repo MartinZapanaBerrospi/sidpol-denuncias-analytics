@@ -1,0 +1,88 @@
+/// Cambio de las denuncias de los últimos 12 meses frente a los 12 anteriores, por distrito y modalidad, y su puntaje frente al resto de distritos.
+table fact_alerta_distrito
+	lineageTag: 228f3d49-7110-5d9a-97df-9cd6f5885642
+
+	column ubigeo
+		dataType: string
+		isHidden
+		lineageTag: 7604ce9f-d833-58f7-80ac-4a7225062525
+		summarizeBy: none
+		sourceColumn: ubigeo
+
+		annotation SummarizationSetBy = Automatic
+
+	column modalidad_id
+		dataType: int64
+		isHidden
+		lineageTag: 5c696b3a-432d-5e6a-ad4c-9f4445e7cf7b
+		summarizeBy: none
+		sourceColumn: modalidad_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column denuncias_ultimos_12m
+		dataType: int64
+		isHidden
+		lineageTag: 339ecbd6-2182-576c-ba46-368e5f663d11
+		summarizeBy: none
+		sourceColumn: denuncias_ultimos_12m
+
+		annotation SummarizationSetBy = Automatic
+
+	column denuncias_12m_previos
+		dataType: int64
+		isHidden
+		lineageTag: 369e746d-9099-58f9-adff-68e7617db2cc
+		summarizeBy: none
+		sourceColumn: denuncias_12m_previos
+
+		annotation SummarizationSetBy = Automatic
+
+	column variacion_pct
+		dataType: double
+		isHidden
+		lineageTag: 17a5cd53-736a-51c0-a6e5-97a44ef1a58a
+		summarizeBy: none
+		sourceColumn: variacion_pct
+
+		annotation SummarizationSetBy = Automatic
+
+	column variacion_nacional_pct
+		dataType: double
+		isHidden
+		lineageTag: 218d1292-cca2-504b-b2be-86076ff61dc0
+		summarizeBy: none
+		sourceColumn: variacion_nacional_pct
+
+		annotation SummarizationSetBy = Automatic
+
+	column z
+		dataType: double
+		isHidden
+		formatString: 0.0
+		lineageTag: e7434590-7b32-543b-acd9-368d7a0730cc
+		summarizeBy: none
+		sourceColumn: z
+
+		annotation SummarizationSetBy = Automatic
+
+	column en_alerta
+		dataType: int64
+		isHidden
+		lineageTag: 73b04d13-8c1c-5773-a651-1ff6ba9efc70
+		summarizeBy: none
+		sourceColumn: en_alerta
+
+		annotation SummarizationSetBy = Automatic
+
+	partition fact_alerta_distrito = m
+		mode: import
+		source =
+				let
+				    Origen = Csv.Document(File.Contents(RutaDatos & "fact_alerta_distrito.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Encabezados = Table.PromoteHeaders(Origen, [PromoteAllScalars=true]),
+				    Tipos = Table.TransformColumnTypes(Encabezados, {{"ubigeo", type text}, {"modalidad_id", Int64.Type}, {"denuncias_ultimos_12m", Int64.Type}, {"denuncias_12m_previos", Int64.Type}, {"variacion_pct", type number}, {"variacion_nacional_pct", type number}, {"z", type number}, {"en_alerta", Int64.Type}}, "en-US")
+				in
+				    Tipos
+
+	annotation PBI_ResultType = Table

@@ -1,0 +1,255 @@
+table _Medidas
+	lineageTag: 6ac7f2c3-a8cf-5298-b236-16fc082f46ac
+
+	/// Denuncias registradas por la Policía Nacional en el SIDPOL.
+	measure Denuncias = SUM ( fact_denuncia[cantidad] )
+		formatString: #,##0
+		displayFolder: 1. Denuncias
+		lineageTag: c25dca03-6ed5-58a7-b1b2-98934949d7d6
+
+	/// Denuncias en miles.
+	measure 'Denuncias (miles)' = DIVIDE ( [Denuncias], 1000 )
+		formatString: #,##0.0
+		displayFolder: 1. Denuncias
+		lineageTag: 1f8891c9-0fdf-56e4-9acc-3103fcbc44d9
+
+	/// Distritos con al menos una denuncia en el contexto.
+	measure 'Distritos con denuncias' = DISTINCTCOUNT ( fact_denuncia[ubigeo] )
+		formatString: #,##0
+		displayFolder: 1. Denuncias
+		lineageTag: 78164260-9902-544b-9aef-79e259f6b032
+
+	/// Denuncias de los mismos meses un año antes. En 2026 compara enero–julio con enero–julio de 2025.
+	measure 'Denuncias mismo periodo año anterior' = CALCULATE ( [Denuncias], DATEADD ( dim_fecha[mes_inicio], -1, YEAR ) )
+		formatString: #,##0
+		displayFolder: 1. Denuncias
+		lineageTag: daddbffa-42f8-5d16-b09c-d323c38bba47
+
+	/// Variación frente a los mismos meses del año anterior. Solo con un año elegido: sobre varios años no tiene sentido.
+	measure 'Var. interanual' =
+			VAR antes = [Denuncias mismo periodo año anterior]
+			RETURN
+			    IF ( HASONEVALUE ( dim_fecha[anio] ) && NOT ISBLANK ( antes ), DIVIDE ( [Denuncias] - antes, antes ) )
+		formatString: +0.0%;-0.0%;0.0%
+		displayFolder: 1. Denuncias
+		lineageTag: 14057110-dedc-5e03-bbf8-19a848ca9c2a
+
+	/// Denuncias de enero a julio de cada año: compara los años completos con el último, que llega hasta el corte.
+	measure 'Denuncias ene–jul' = CALCULATE ( [Denuncias], dim_fecha[es_ene_jul] = 1 )
+		formatString: #,##0
+		displayFolder: 1. Denuncias
+		lineageTag: 5193fcbc-378d-5a3b-843e-087a681c69f4
+
+	/// Parte de las denuncias que corresponde a la modalidad dentro del contexto (año, territorio).
+	measure 'Participación de la modalidad' = DIVIDE ( [Denuncias], CALCULATE ( [Denuncias], REMOVEFILTERS ( dim_modalidad ) ) )
+		formatString: 0.0%
+		displayFolder: 1. Denuncias
+		lineageTag: 82846846-3335-5e22-8f16-228d516fb771
+
+	/// Población proyectada del territorio en el año del contexto. Con varios años los suma: úsela dentro de Habitantes-año.
+	measure 'Población del año' = CALCULATE ( SUM ( fact_poblacion[poblacion] ), TREATAS ( VALUES ( dim_fecha[anio] ), dim_anio[anio] ) )
+		formatString: #,##0
+		displayFolder: 2. Tasas
+		lineageTag: e85eddcc-ea3f-5d1a-8097-83d25ae7cdbc
+
+	/// Población proyectada del último año elegido (2026 si no se elige ninguno).
+	measure 'Población (último año)' =
+			VAR y = MAX ( dim_fecha[anio] )
+			RETURN
+			    CALCULATE ( SUM ( fact_poblacion[poblacion] ), dim_anio[anio] = y )
+		formatString: #,##0
+		displayFolder: 2. Tasas
+		lineageTag: 9a04edd0-d7be-54b7-8066-326642577d43
+
+	/// Meses del calendario dentro del contexto. Dentro de una iteración por año se evalúa año por año.
+	measure 'Meses cubiertos' = DISTINCTCOUNT ( dim_fecha[mes_inicio] )
+		formatString: 0
+		displayFolder: 2. Tasas
+		lineageTag: 6b64cbc4-4c22-5a5f-a8a3-b8532a79605e
+
+	/// Población expuesta: cada año suma su población por la fracción del año que cubre el periodo (2026 cubre 7 de 12 meses).
+	measure 'Habitantes-año' =
+			SUMX (
+			    VALUES ( dim_fecha[anio] ),
+			    [Población del año] * [Meses cubiertos] / 12
+			)
+		formatString: #,##0
+		displayFolder: 2. Tasas
+		lineageTag: b6e10bc6-8f6b-55ee-b5ba-deb38964b9d4
+
+	/// Denuncias por 100 mil habitantes en un año. Si el periodo no es un año completo (2026 llega a julio) queda anualizada, así que es comparable con los demás años. Se calcula como suma entre suma, nunca promediando tasas.
+	measure 'Tasa por 100 mil (anual)' = DIVIDE ( [Denuncias], [Habitantes-año] ) * 100000
+		formatString: #,##0
+		displayFolder: 2. Tasas
+		lineageTag: 55661b56-5af3-5534-9e9d-e0072772553b
+
+	/// La misma tasa para todo el país, con el mismo periodo y modalidad.
+	measure 'Tasa nacional' = CALCULATE ( [Tasa por 100 mil (anual)], REMOVEFILTERS ( dim_distrito ) )
+		formatString: #,##0
+		displayFolder: 2. Tasas
+		lineageTag: 568880c3-cb58-5afa-83fd-65fa115f29a4
+
+	/// Tasa del territorio dividida por la nacional: 2 significa el doble.
+	measure 'Veces la tasa nacional' = DIVIDE ( [Tasa por 100 mil (anual)], [Tasa nacional] )
+		formatString: 0.00
+		displayFolder: 2. Tasas
+		lineageTag: 39f9fcab-a006-5e20-a2cd-749e88775f6b
+
+	/// Tasa en blanco para distritos de menos de 5 mil habitantes, donde pocas denuncias mueven mucho la tasa.
+	measure 'Tasa (distritos de 5 mil hab. o más)' = IF ( [Población (último año)] >= 5000, [Tasa por 100 mil (anual)] )
+		formatString: #,##0
+		displayFolder: 2. Tasas
+		lineageTag: 47c1c9b1-ec09-54df-ad42-f6ac769c5be2
+
+	/// Parte de las denuncias que suman los 10 distritos con más denuncias del contexto.
+	measure 'Participación top 10 distritos' =
+			VAR mayores = TOPN ( 10, VALUES ( fact_denuncia[ubigeo] ), CALCULATE ( [Denuncias] ), DESC )
+			RETURN
+			    DIVIDE ( CALCULATE ( [Denuncias], mayores ), [Denuncias] )
+		formatString: 0.0%
+		displayFolder: 3. Concentración
+		lineageTag: 6bd3951c-9a49-51f2-8cf1-574977a2aa27
+
+	/// Menor número de distritos que, ordenados de mayor a menor, acumulan la mitad de las denuncias.
+	measure 'Distritos para el 50 %' =
+			VAR t = ADDCOLUMNS ( VALUES ( fact_denuncia[ubigeo] ), "@m", CALCULATE ( [Denuncias] ) )
+			VAR total = SUMX ( t, [@m] )
+			VAR conAcumulado =
+			    ADDCOLUMNS ( t, "@antes", VAR m = [@m] RETURN SUMX ( FILTER ( t, [@m] > m ), [@m] ) )
+			RETURN
+			    COUNTROWS ( FILTER ( conAcumulado, [@antes] < 0.5 * total ) )
+		formatString: #,##0
+		displayFolder: 3. Concentración
+		lineageTag: bf2a3c43-328a-5e9a-a0d4-4d993b0205c3
+
+	/// Distrito con más denuncias en el contexto.
+	measure 'Distrito líder' =
+			VAR t = ADDCOLUMNS ( VALUES ( dim_distrito[distrito_unico] ), "@m", CALCULATE ( [Denuncias] ) )
+			RETURN
+			    MAXX ( TOPN ( 1, t, [@m], DESC ), dim_distrito[distrito_unico] )
+		displayFolder: 3. Concentración
+		lineageTag: 50eda8d2-9302-5aa0-87d0-fcff8d9c8a84
+
+	/// Parte de las denuncias que tiene el distrito con más denuncias del contexto.
+	measure 'Participación del distrito líder' =
+			VAR t = ADDCOLUMNS ( VALUES ( fact_denuncia[ubigeo] ), "@m", CALCULATE ( [Denuncias] ) )
+			RETURN
+			    DIVIDE ( MAXX ( t, [@m] ), [Denuncias] )
+		formatString: 0.0%
+		displayFolder: 3. Concentración
+		lineageTag: f39d3f0e-6924-59c3-b141-463adbbcff1a
+
+	/// Combinaciones distrito–modalidad cuyo cambio de los últimos 12 meses se sale 3 o más desviaciones robustas del resto.
+	measure 'Distritos en alerta' = COALESCE ( CALCULATE ( COUNTROWS ( fact_alerta_distrito ), fact_alerta_distrito[en_alerta] = 1 ), 0 )
+		formatString: #,##0
+		displayFolder: 4. Alertas
+		lineageTag: 395bd9f8-e4ce-5c81-9336-76547c936903
+
+	/// Combinaciones distrito–modalidad con al menos 30 denuncias en los 12 meses previos.
+	measure 'Combinaciones evaluadas' = COUNTROWS ( fact_alerta_distrito )
+		formatString: #,##0
+		displayFolder: 4. Alertas
+		lineageTag: 2438ae0a-3431-5892-abfc-47f2f1979612
+
+	/// Denuncias de agosto de 2025 a julio de 2026.
+	measure 'Denuncias últimos 12 m' = SUM ( fact_alerta_distrito[denuncias_ultimos_12m] )
+		formatString: #,##0
+		displayFolder: 4. Alertas
+		lineageTag: 3eb7a1c1-fc95-59cf-a51d-7b6511808136
+
+	/// Denuncias de agosto de 2024 a julio de 2025.
+	measure 'Denuncias 12 m previos' = SUM ( fact_alerta_distrito[denuncias_12m_previos] )
+		formatString: #,##0
+		displayFolder: 4. Alertas
+		lineageTag: e28a3c78-c39c-5069-bb18-9349849474a2
+
+	/// Variación de los últimos 12 meses frente a los 12 anteriores.
+	measure 'Cambio 12 meses' = DIVIDE ( [Denuncias últimos 12 m] - [Denuncias 12 m previos], [Denuncias 12 m previos] )
+		formatString: +0.0%;-0.0%;0.0%
+		displayFolder: 4. Alertas
+		lineageTag: ef5cd603-8a08-5d6d-a4f6-b71b949cbc1a
+
+	/// Variación nacional de la modalidad en la misma ventana: lo que cambió el sistema entero.
+	measure 'Cambio nacional de la modalidad' = IF ( HASONEVALUE ( dim_modalidad[modalidad] ), AVERAGE ( fact_alerta_distrito[variacion_nacional_pct] ) / 100 )
+		formatString: +0.0%;-0.0%;0.0%
+		displayFolder: 4. Alertas
+		lineageTag: 670e47e8-7f07-5d58-9bd1-71a89ed71f5b
+
+	/// Cuántas desviaciones robustas se aparta el distrito del cambio típico de su modalidad (3 o más = alerta).
+	measure 'Puntaje z' = MAX ( fact_alerta_distrito[z] )
+		formatString: 0.0
+		displayFolder: 4. Alertas
+		lineageTag: 67b68f19-ad9a-523c-bb98-bbb8ac3f7c1a
+
+	/// Parte de las denuncias del año que cae en el mes. Solo tiene sentido en años completos.
+	measure 'Participación del mes en el año' = DIVIDE ( [Denuncias], CALCULATE ( [Denuncias], ALLEXCEPT ( dim_fecha, dim_fecha[anio] ) ) )
+		formatString: 0.0%
+		displayFolder: 5. Calendario
+		lineageTag: afbabbe9-ce5c-5c7f-836c-1cf89c3b1e99
+
+	/// Promedio de la parte del año que cae en el mes, de 2018 a 2025 sin 2020 (la pandemia deforma sus meses). Un mes parejo tendría 8,3 %.
+	measure 'Índice estacional' =
+			AVERAGEX (
+			    FILTER ( VALUES ( dim_fecha[anio] ), dim_fecha[anio] <= 2025 && dim_fecha[anio] <> 2020 ),
+			    [Participación del mes en el año]
+			)
+		formatString: 0.0%
+		displayFolder: 5. Calendario
+		lineageTag: 1e36fe0b-a4de-54e5-9dd5-cad486fd9f7c
+
+	/// Igual que Participación del mes en el año, pero en blanco para 2026, que aún no termina.
+	measure 'Participación del mes (años completos)' = IF ( MAX ( dim_fecha[anio] ) <= 2025, [Participación del mes en el año] )
+		formatString: 0.0%
+		displayFolder: 5. Calendario
+		lineageTag: 3a3db5d6-bf06-51db-803d-561e18bf0b18
+
+	/// Meses en que una modalidad grande cambió más de 20 % frente al mes anterior, sin contar la pandemia.
+	measure 'Saltos de serie' = COUNTROWS ( fact_salto_serie )
+		formatString: #,##0
+		displayFolder: 6. Calidad de datos
+		lineageTag: b919c3ea-6c3f-53c5-a0bb-a94eda182f22
+
+	/// Denuncias de la modalidad en el mes del salto.
+	measure 'Denuncias en el mes del salto' = SUM ( fact_salto_serie[denuncias] )
+		formatString: #,##0
+		displayFolder: 6. Calidad de datos
+		lineageTag: dff3dd1b-1bcb-5296-ba09-95e991af1df4
+
+	/// Cambio de la modalidad frente al mes anterior.
+	measure 'Variación del salto' = SUM ( fact_salto_serie[variacion_pct] ) / 100
+		formatString: +0.0%;-0.0%;0.0%
+		displayFolder: 6. Calidad de datos
+		lineageTag: d8c248da-aed2-5aab-a50a-085103927ce5
+
+	/// Denuncias en celdas mes–distrito–modalidad marcadas como atípicas en la Fase 2 (no se excluyen).
+	measure 'Denuncias en celdas atípicas' = CALCULATE ( [Denuncias], fact_denuncia[celda_atipica] = 1 )
+		formatString: #,##0
+		displayFolder: 6. Calidad de datos
+		lineageTag: 0d2c4911-68cd-5788-9f3b-34361ac69bb2
+
+	/// Último mes con datos.
+	measure 'Corte de datos' =
+			VAR f = CALCULATE ( MAX ( fact_denuncia[mes_inicio] ), REMOVEFILTERS () )
+			RETURN
+			    "Denuncias registradas hasta " & LOWER ( FORMAT ( f, "mmmm", "es-PE" ) ) & " de " & YEAR ( f )
+		displayFolder: 7. Textos
+		lineageTag: f67b0f48-6a01-5512-96c8-75fe4448c1cb
+
+	/// Pie de fuente para cada página.
+	measure Fuente = "Fuente: Ministerio del Interior, denuncias policiales del SIDPOL y población proyectada (datosabiertos.gob.pe). Elaboración propia."
+		displayFolder: 7. Textos
+		lineageTag: 838d3c3a-0c77-5f0b-a3e2-5e2dec1f7ef2
+
+	column Columna
+		dataType: string
+		isHidden
+		lineageTag: 7257d6a0-d0bc-5052-9b9c-75bede3da630
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Columna]
+
+		annotation SummarizationSetBy = Automatic
+
+	partition _Medidas = calculated
+		mode: import
+		source = ROW ( "Columna", BLANK () )

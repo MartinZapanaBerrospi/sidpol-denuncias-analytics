@@ -1,0 +1,1523 @@
+contexto,clave,medida,python,dax,diferencia_relativa,resultado
+anio,2018,Denuncias,774804.0,774804.0,0.0,cumple
+anio,2018,Denuncias ene–jul,437201.0,437201.0,0.0,cumple
+anio,2018,Distritos con denuncias,1518.0,1518.0,0.0,cumple
+anio,2018,Distritos para el 50 %,39.0,39.0,0.0,cumple
+anio,2018,Habitantes-año,31465348.0,31465348.0,0.0,cumple
+anio,2018,Meses cubiertos,12.0,12.0,0.0,cumple
+anio,2018,Participación del distrito líder,0.03739526383446652,0.0373952638344665,5.566662613711883e-16,cumple
+anio,2018,Participación top 10 distritos,0.23743811338093246,0.237438113380932,1.9872327098080083e-15,cumple
+anio,2018,Población (último año),31465348.0,31465348.0,0.0,cumple
+anio,2018,Población del año,31465348.0,31465348.0,0.0,cumple
+anio,2018,Tasa por 100 mil (anual),2462.404038881121,2462.40403888112,3.693523432434707e-16,cumple
+anio,2018,Var. interanual,,,,cumple
+anio,2019,Denuncias,854898.0,854898.0,0.0,cumple
+anio,2019,Denuncias ene–jul,495947.0,495947.0,0.0,cumple
+anio,2019,Distritos con denuncias,1625.0,1625.0,0.0,cumple
+anio,2019,Distritos para el 50 %,43.0,43.0,0.0,cumple
+anio,2019,Habitantes-año,32034324.0,32034324.0,0.0,cumple
+anio,2019,Meses cubiertos,12.0,12.0,0.0,cumple
+anio,2019,Participación del distrito líder,0.0366031971065554,0.0366031971065554,0.0,cumple
+anio,2019,Participación top 10 distritos,0.21771837108052658,0.217718371080527,1.912257712420814e-15,cumple
+anio,2019,Población (último año),32034324.0,32034324.0,0.0,cumple
+anio,2019,Población del año,32034324.0,32034324.0,0.0,cumple
+anio,2019,Tasa por 100 mil (anual),2668.6937423745853,2668.69374237459,1.7040072589289809e-15,cumple
+anio,2019,Var. interanual,0.10337324020010219,0.103373240200102,1.8794905619027925e-15,cumple
+anio,2020,Denuncias,649169.0,649169.0,0.0,cumple
+anio,2020,Denuncias ene–jul,359852.0,359852.0,0.0,cumple
+anio,2020,Distritos con denuncias,1693.0,1693.0,0.0,cumple
+anio,2020,Distritos para el 50 %,47.0,47.0,0.0,cumple
+anio,2020,Habitantes-año,32528552.0,32528552.0,0.0,cumple
+anio,2020,Meses cubiertos,12.0,12.0,0.0,cumple
+anio,2020,Participación del distrito líder,0.03465045311775516,0.0346504531177552,1.201524357616845e-15,cumple
+anio,2020,Participación top 10 distritos,0.2100254325144916,0.210025432514492,1.8501476414861957e-15,cumple
+anio,2020,Población (último año),32528552.0,32528552.0,0.0,cumple
+anio,2020,Población del año,32528552.0,32528552.0,0.0,cumple
+anio,2020,Tasa por 100 mil (anual),1995.689817364142,1995.68981736414,1.0253913514936277e-15,cumple
+anio,2020,Var. interanual,-0.24064742226558022,-0.24064742226558,9.2269679365184e-16,cumple
+anio,2021,Denuncias,754638.0,754638.0,0.0,cumple
+anio,2021,Denuncias ene–jul,419009.0,419009.0,0.0,cumple
+anio,2021,Distritos con denuncias,1749.0,1749.0,0.0,cumple
+anio,2021,Distritos para el 50 %,48.0,48.0,0.0,cumple
+anio,2021,Habitantes-año,32936108.0,32936108.0,0.0,cumple
+anio,2021,Meses cubiertos,12.0,12.0,0.0,cumple
+anio,2021,Participación del distrito líder,0.03425881018448581,0.0342588101844858,2.0254334188901645e-16,cumple
+anio,2021,Participación top 10 distritos,0.20430325533567087,0.204303255335671,6.792739442655091e-16,cumple
+anio,2021,Población (último año),32936108.0,32936108.0,0.0,cumple
+anio,2021,Población del año,32936108.0,32936108.0,0.0,cumple
+anio,2021,Tasa por 100 mil (anual),2291.217893747494,2291.21789374749,1.7862666702921708e-15,cumple
+anio,2021,Var. interanual,0.16246770871683647,0.162467708716836,2.9042373354822505e-15,cumple
+anio,2022,Denuncias,877736.0,877736.0,0.0,cumple
+anio,2022,Denuncias ene–jul,507189.0,507189.0,0.0,cumple
+anio,2022,Distritos con denuncias,1753.0,1753.0,0.0,cumple
+anio,2022,Distritos para el 50 %,44.0,44.0,0.0,cumple
+anio,2022,Habitantes-año,33297834.0,33297834.0,0.0,cumple
+anio,2022,Meses cubiertos,12.0,12.0,0.0,cumple
+anio,2022,Participación del distrito líder,0.03643122761285854,0.0364312276128585,1.142793316378631e-15,cumple
+anio,2022,Participación top 10 distritos,0.21863749464531476,0.218637494645315,1.1425312979637788e-15,cumple
+anio,2022,Población (último año),33297834.0,33297834.0,0.0,cumple
+anio,2022,Población del año,33297834.0,33297834.0,0.0,cumple
+anio,2022,Tasa por 100 mil (anual),2636.0153035780045,2636.015303578,1.7251316798852087e-15,cumple
+anio,2022,Var. interanual,0.16312192070900222,0.163121920709002,1.3612186759444975e-15,cumple
+anio,2023,Denuncias,1044843.0,1044843.0,0.0,cumple
+anio,2023,Denuncias ene–jul,602309.0,602309.0,0.0,cumple
+anio,2023,Distritos con denuncias,1760.0,1760.0,0.0,cumple
+anio,2023,Distritos para el 50 %,39.0,39.0,0.0,cumple
+anio,2023,Habitantes-año,33627399.0,33627399.0,0.0,cumple
+anio,2023,Meses cubiertos,12.0,12.0,0.0,cumple
+anio,2023,Participación del distrito líder,0.03510575273031451,0.0351057527303145,1.976568899465687e-16,cumple
+anio,2023,Participación top 10 distritos,0.22684269311274516,0.226842693112745,7.34136292461504e-16,cumple
+anio,2023,Población (último año),33627399.0,33627399.0,0.0,cumple
+anio,2023,Población del año,33627399.0,33627399.0,0.0,cumple
+anio,2023,Tasa por 100 mil (anual),3107.1180973586447,3107.11809735864,1.4635663551798819e-15,cumple
+anio,2023,Var. interanual,0.19038412461150056,0.190384124611501,2.332595802072651e-15,cumple
+anio,2024,Denuncias,1014315.0,1014315.0,0.0,cumple
+anio,2024,Denuncias ene–jul,611885.0,611885.0,0.0,cumple
+anio,2024,Distritos con denuncias,1760.0,1760.0,0.0,cumple
+anio,2024,Distritos para el 50 %,40.0,40.0,0.0,cumple
+anio,2024,Habitantes-año,33940484.0,33940484.0,0.0,cumple
+anio,2024,Meses cubiertos,12.0,12.0,0.0,cumple
+anio,2024,Participación del distrito líder,0.0360617756811247,0.0360617756811247,0.0,cumple
+anio,2024,Participación top 10 distritos,0.23100417523156022,0.23100417523156,9.61214682385945e-16,cumple
+anio,2024,Población (último año),33940484.0,33940484.0,0.0,cumple
+anio,2024,Población del año,33940484.0,33940484.0,0.0,cumple
+anio,2024,Tasa por 100 mil (anual),2988.5107118684577,2988.51071186846,7.608260346541469e-16,cumple
+anio,2024,Var. interanual,-0.02921778678710585,-0.0292177867871058,1.662420828835198e-15,cumple
+anio,2025,Denuncias,895260.0,895260.0,0.0,cumple
+anio,2025,Denuncias ene–jul,535466.0,535466.0,0.0,cumple
+anio,2025,Distritos con denuncias,1758.0,1758.0,0.0,cumple
+anio,2025,Distritos para el 50 %,41.0,41.0,0.0,cumple
+anio,2025,Habitantes-año,34252715.0,34252715.0,0.0,cumple
+anio,2025,Meses cubiertos,12.0,12.0,0.0,cumple
+anio,2025,Participación del distrito líder,0.03760806916426513,0.0376080691642651,7.380218190515887e-16,cumple
+anio,2025,Participación top 10 distritos,0.22611755244286577,0.226117552442866,9.819874774256476e-16,cumple
+anio,2025,Población (último año),34252715.0,34252715.0,0.0,cumple
+anio,2025,Población del año,34252715.0,34252715.0,0.0,cumple
+anio,2025,Tasa por 100 mil (anual),2613.6906227725303,2613.69062277253,1.739866788074867e-16,cumple
+anio,2025,Var. interanual,-0.11737478002395707,-0.117374780023957,5.911741774928949e-16,cumple
+anio,2026,Denuncias,494268.0,494268.0,0.0,cumple
+anio,2026,Denuncias ene–jul,494268.0,494268.0,0.0,cumple
+anio,2026,Distritos con denuncias,1660.0,1660.0,0.0,cumple
+anio,2026,Distritos para el 50 %,40.0,40.0,0.0,cumple
+anio,2026,Habitantes-año,20161576.75,20161576.75,0.0,cumple
+anio,2026,Meses cubiertos,7.0,7.0,0.0,cumple
+anio,2026,Participación del distrito líder,0.03774470530157728,0.0377447053015773,5.515126305901187e-16,cumple
+anio,2026,Participación top 10 distritos,0.22958799679526087,0.229587996795261,6.044648675684129e-16,cumple
+anio,2026,Población (último año),34562703.0,34562703.0,0.0,cumple
+anio,2026,Población del año,34562703.0,34562703.0,0.0,cumple
+anio,2026,Tasa por 100 mil (anual),2451.5344515403535,2451.53445154035,1.483959894916382e-15,cumple
+anio,2026,Var. interanual,-0.0769385918060157,-0.0769385918060157,0.0,cumple
+anio_departamento,2018|Amazonas,Denuncias,9193.0,9193.0,0.0,cumple
+anio_departamento,2018|Amazonas,Habitantes-año,419833.0,419833.0,0.0,cumple
+anio_departamento,2018|Amazonas,Población del año,419833.0,419833.0,0.0,cumple
+anio_departamento,2018|Amazonas,Tasa por 100 mil (anual),2189.680182358223,2189.68018235822,1.4537426432644602e-15,cumple
+anio_departamento,2018|Apurímac,Denuncias,9442.0,9442.0,0.0,cumple
+anio_departamento,2018|Apurímac,Habitantes-año,417348.0,417348.0,0.0,cumple
+anio_departamento,2018|Apurímac,Población del año,417348.0,417348.0,0.0,cumple
+anio_departamento,2018|Apurímac,Tasa por 100 mil (anual),2262.3805553159473,2262.38055531595,1.2060234954316714e-15,cumple
+anio_departamento,2018|Arequipa,Denuncias,57268.0,57268.0,0.0,cumple
+anio_departamento,2018|Arequipa,Habitantes-año,1428708.0,1428708.0,0.0,cumple
+anio_departamento,2018|Arequipa,Población del año,1428708.0,1428708.0,0.0,cumple
+anio_departamento,2018|Arequipa,Tasa por 100 mil (anual),4008.3767991779982,4008.376799178,4.537970092828794e-16,cumple
+anio_departamento,2018|Ayacucho,Denuncias,10423.0,10423.0,0.0,cumple
+anio_departamento,2018|Ayacucho,Habitantes-año,640652.0,640652.0,0.0,cumple
+anio_departamento,2018|Ayacucho,Población del año,640652.0,640652.0,0.0,cumple
+anio_departamento,2018|Ayacucho,Tasa por 100 mil (anual),1626.9363086355775,1626.93630863558,1.5373130568172624e-15,cumple
+anio_departamento,2018|Cajamarca,Denuncias,16174.0,16174.0,0.0,cumple
+anio_departamento,2018|Cajamarca,Habitantes-año,1437053.0,1437053.0,0.0,cumple
+anio_departamento,2018|Cajamarca,Población del año,1437053.0,1437053.0,0.0,cumple
+anio_departamento,2018|Cajamarca,Tasa por 100 mil (anual),1125.497806970237,1125.49780697024,2.626267028204154e-15,cumple
+anio_departamento,2018|Callao,Denuncias,37169.0,37169.0,0.0,cumple
+anio_departamento,2018|Callao,Habitantes-año,1078789.0,1078789.0,0.0,cumple
+anio_departamento,2018|Callao,Población del año,1078789.0,1078789.0,0.0,cumple
+anio_departamento,2018|Callao,Tasa por 100 mil (anual),3445.4374303037944,3445.43743030379,1.3198537488645316e-15,cumple
+anio_departamento,2018|Cusco,Denuncias,30813.0,30813.0,0.0,cumple
+anio_departamento,2018|Cusco,Habitantes-año,1310963.0,1310963.0,0.0,cumple
+anio_departamento,2018|Cusco,Población del año,1310963.0,1310963.0,0.0,cumple
+anio_departamento,2018|Cusco,Tasa por 100 mil (anual),2350.4095844047465,2350.40958440475,1.5478063190476012e-15,cumple
+anio_departamento,2018|Huancavelica,Denuncias,1932.0,1932.0,0.0,cumple
+anio_departamento,2018|Huancavelica,Habitantes-año,360023.0,360023.0,0.0,cumple
+anio_departamento,2018|Huancavelica,Población del año,360023.0,360023.0,0.0,cumple
+anio_departamento,2018|Huancavelica,Tasa por 100 mil (anual),536.6323818200503,536.63238182005,6.355570866001455e-16,cumple
+anio_departamento,2018|Huánuco,Denuncias,10000.0,10000.0,0.0,cumple
+anio_departamento,2018|Huánuco,Habitantes-año,727094.0,727094.0,0.0,cumple
+anio_departamento,2018|Huánuco,Población del año,727094.0,727094.0,0.0,cumple
+anio_departamento,2018|Huánuco,Tasa por 100 mil (anual),1375.3379893108731,1375.33798931087,2.3145084924180994e-15,cumple
+anio_departamento,2018|Ica,Denuncias,27185.0,27185.0,0.0,cumple
+anio_departamento,2018|Ica,Habitantes-año,923175.0,923175.0,0.0,cumple
+anio_departamento,2018|Ica,Población del año,923175.0,923175.0,0.0,cumple
+anio_departamento,2018|Ica,Tasa por 100 mil (anual),2944.7287892328104,2944.72878923281,1.5442758346684259e-16,cumple
+anio_departamento,2018|Junín,Denuncias,28004.0,28004.0,0.0,cumple
+anio_departamento,2018|Junín,Habitantes-año,1330116.0,1330116.0,0.0,cumple
+anio_departamento,2018|Junín,Población del año,1330116.0,1330116.0,0.0,cumple
+anio_departamento,2018|Junín,Tasa por 100 mil (anual),2105.380282621967,2105.38028262197,1.2959578503893015e-15,cumple
+anio_departamento,2018|La Libertad,Denuncias,36246.0,36246.0,0.0,cumple
+anio_departamento,2018|La Libertad,Habitantes-año,1938501.0,1938501.0,0.0,cumple
+anio_departamento,2018|La Libertad,Población del año,1938501.0,1938501.0,0.0,cumple
+anio_departamento,2018|La Libertad,Tasa por 100 mil (anual),1869.7952696439156,1869.79526964392,2.3104667679708755e-15,cumple
+anio_departamento,2018|Lambayeque,Denuncias,43673.0,43673.0,0.0,cumple
+anio_departamento,2018|Lambayeque,Habitantes-año,1270295.0,1270295.0,0.0,cumple
+anio_departamento,2018|Lambayeque,Población del año,1270295.0,1270295.0,0.0,cumple
+anio_departamento,2018|Lambayeque,Tasa por 100 mil (anual),3438.020302370709,3438.02030237071,2.6454023588685046e-16,cumple
+anio_departamento,2018|Lima Metropolitana,Denuncias,294244.0,294244.0,0.0,cumple
+anio_departamento,2018|Lima Metropolitana,Habitantes-año,9256429.0,9256429.0,0.0,cumple
+anio_departamento,2018|Lima Metropolitana,Población del año,9256429.0,9256429.0,0.0,cumple
+anio_departamento,2018|Lima Metropolitana,Tasa por 100 mil (anual),3178.80685953514,3178.80685953514,0.0,cumple
+anio_departamento,2018|Loreto,Denuncias,11493.0,11493.0,0.0,cumple
+anio_departamento,2018|Loreto,Habitantes-año,995969.0,995969.0,0.0,cumple
+anio_departamento,2018|Loreto,Población del año,995969.0,995969.0,0.0,cumple
+anio_departamento,2018|Loreto,Tasa por 100 mil (anual),1153.9515788142,1153.9515788142,0.0,cumple
+anio_departamento,2018|Madre de Dios,Denuncias,5985.0,5985.0,0.0,cumple
+anio_departamento,2018|Madre de Dios,Habitantes-año,161324.0,161324.0,0.0,cumple
+anio_departamento,2018|Madre de Dios,Población del año,161324.0,161324.0,0.0,cumple
+anio_departamento,2018|Madre de Dios,Tasa por 100 mil (anual),3709.9253675832488,3709.92536758325,3.6772762724014004e-16,cumple
+anio_departamento,2018|Moquegua,Denuncias,4934.0,4934.0,0.0,cumple
+anio_departamento,2018|Moquegua,Habitantes-año,185787.0,185787.0,0.0,cumple
+anio_departamento,2018|Moquegua,Población del año,185787.0,185787.0,0.0,cumple
+anio_departamento,2018|Moquegua,Tasa por 100 mil (anual),2655.729410561557,2655.72941056156,1.1986279338346263e-15,cumple
+anio_departamento,2018|Pasco,Denuncias,3851.0,3851.0,0.0,cumple
+anio_departamento,2018|Pasco,Habitantes-año,271704.0,271704.0,0.0,cumple
+anio_departamento,2018|Pasco,Población del año,271704.0,271704.0,0.0,cumple
+anio_departamento,2018|Pasco,Tasa por 100 mil (anual),1417.3512351676825,1417.35123516768,1.7646369988026673e-15,cumple
+anio_departamento,2018|Piura,Denuncias,37072.0,37072.0,0.0,cumple
+anio_departamento,2018|Piura,Habitantes-año,1974368.0,1974368.0,0.0,cumple
+anio_departamento,2018|Piura,Población del año,1974368.0,1974368.0,0.0,cumple
+anio_departamento,2018|Piura,Tasa por 100 mil (anual),1877.6641436652135,1877.66414366521,1.8164085111573553e-15,cumple
+anio_departamento,2018|Puno,Denuncias,9827.0,9827.0,0.0,cumple
+anio_departamento,2018|Puno,Habitantes-año,1236836.0,1236836.0,0.0,cumple
+anio_departamento,2018|Puno,Población del año,1236836.0,1236836.0,0.0,cumple
+anio_departamento,2018|Puno,Tasa por 100 mil (anual),794.5273261774398,794.52732617744,2.8617477077491133e-16,cumple
+anio_departamento,2018|Región Lima,Denuncias,23733.0,23733.0,0.0,cumple
+anio_departamento,2018|Región Lima,Habitantes-año,923655.0,923655.0,0.0,cumple
+anio_departamento,2018|Región Lima,Población del año,923655.0,923655.0,0.0,cumple
+anio_departamento,2018|Región Lima,Tasa por 100 mil (anual),2569.4658719976615,2569.46587199766,5.309438305941562e-16,cumple
+anio_departamento,2018|San Martín,Denuncias,11910.0,11910.0,0.0,cumple
+anio_departamento,2018|San Martín,Habitantes-año,866861.0,866861.0,0.0,cumple
+anio_departamento,2018|San Martín,Población del año,866861.0,866861.0,0.0,cumple
+anio_departamento,2018|San Martín,Tasa por 100 mil (anual),1373.9226934883447,1373.92269348834,3.4753390470497963e-15,cumple
+anio_departamento,2018|Tacna,Denuncias,9806.0,9806.0,0.0,cumple
+anio_departamento,2018|Tacna,Habitantes-año,354644.0,354644.0,0.0,cumple
+anio_departamento,2018|Tacna,Población del año,354644.0,354644.0,0.0,cumple
+anio_departamento,2018|Tacna,Tasa por 100 mil (anual),2765.026336269611,2765.02633626961,3.289280430507428e-16,cumple
+anio_departamento,2018|Tumbes,Denuncias,9390.0,9390.0,0.0,cumple
+anio_departamento,2018|Tumbes,Habitantes-año,241321.0,241321.0,0.0,cumple
+anio_departamento,2018|Tumbes,Población del año,241321.0,241321.0,0.0,cumple
+anio_departamento,2018|Tumbes,Tasa por 100 mil (anual),3891.082831581172,3891.08283158117,4.674764023994565e-16,cumple
+anio_departamento,2018|Ucayali,Denuncias,10665.0,10665.0,0.0,cumple
+anio_departamento,2018|Ucayali,Habitantes-año,558767.0,558767.0,0.0,cumple
+anio_departamento,2018|Ucayali,Población del año,558767.0,558767.0,0.0,cumple
+anio_departamento,2018|Ucayali,Tasa por 100 mil (anual),1908.6667609218152,1908.66676092182,2.501666232193303e-15,cumple
+anio_departamento,2018|Áncash,Denuncias,24372.0,24372.0,0.0,cumple
+anio_departamento,2018|Áncash,Habitantes-año,1155133.0,1155133.0,0.0,cumple
+anio_departamento,2018|Áncash,Población del año,1155133.0,1155133.0,0.0,cumple
+anio_departamento,2018|Áncash,Tasa por 100 mil (anual),2109.8869134549873,2109.88691345499,1.2931897382361743e-15,cumple
+anio_departamento,2019|Amazonas,Denuncias,9927.0,9927.0,0.0,cumple
+anio_departamento,2019|Amazonas,Habitantes-año,423863.0,423863.0,0.0,cumple
+anio_departamento,2019|Amazonas,Población del año,423863.0,423863.0,0.0,cumple
+anio_departamento,2019|Amazonas,Tasa por 100 mil (anual),2342.0303258364142,2342.03032583641,1.7475120252836749e-15,cumple
+anio_departamento,2019|Apurímac,Denuncias,11780.0,11780.0,0.0,cumple
+anio_departamento,2019|Apurímac,Habitantes-año,419490.0,419490.0,0.0,cumple
+anio_departamento,2019|Apurímac,Población del año,419490.0,419490.0,0.0,cumple
+anio_departamento,2019|Apurímac,Tasa por 100 mil (anual),2808.171827695535,2808.17182769553,1.781308682900672e-15,cumple
+anio_departamento,2019|Arequipa,Denuncias,59314.0,59314.0,0.0,cumple
+anio_departamento,2019|Arequipa,Habitantes-año,1464638.0,1464638.0,0.0,cumple
+anio_departamento,2019|Arequipa,Población del año,1464638.0,1464638.0,0.0,cumple
+anio_departamento,2019|Arequipa,Tasa por 100 mil (anual),4049.7378874506876,4049.73788745069,5.614528193239783e-16,cumple
+anio_departamento,2019|Ayacucho,Denuncias,12263.0,12263.0,0.0,cumple
+anio_departamento,2019|Ayacucho,Habitantes-año,646288.0,646288.0,0.0,cumple
+anio_departamento,2019|Ayacucho,Población del año,646288.0,646288.0,0.0,cumple
+anio_departamento,2019|Ayacucho,Tasa por 100 mil (anual),1897.4512910652836,1897.45129106528,1.9172976003242998e-15,cumple
+anio_departamento,2019|Cajamarca,Denuncias,19089.0,19089.0,0.0,cumple
+anio_departamento,2019|Cajamarca,Habitantes-año,1446643.0,1446643.0,0.0,cumple
+anio_departamento,2019|Cajamarca,Población del año,1446643.0,1446643.0,0.0,cumple
+anio_departamento,2019|Cajamarca,Tasa por 100 mil (anual),1319.5377159395925,1319.53771593959,1.8954444421428356e-15,cumple
+anio_departamento,2019|Callao,Denuncias,34903.0,34903.0,0.0,cumple
+anio_departamento,2019|Callao,Habitantes-año,1105512.0,1105512.0,0.0,cumple
+anio_departamento,2019|Callao,Población del año,1105512.0,1105512.0,0.0,cumple
+anio_departamento,2019|Callao,Tasa por 100 mil (anual),3157.1796597413686,3157.17965974137,4.32107830306733e-16,cumple
+anio_departamento,2019|Cusco,Denuncias,36376.0,36376.0,0.0,cumple
+anio_departamento,2019|Cusco,Habitantes-año,1330763.0,1330763.0,0.0,cumple
+anio_departamento,2019|Cusco,Población del año,1330763.0,1330763.0,0.0,cumple
+anio_departamento,2019|Cusco,Tasa por 100 mil (anual),2733.4694457239943,2733.46944572399,1.66362697632429e-15,cumple
+anio_departamento,2019|Huancavelica,Denuncias,2573.0,2573.0,0.0,cumple
+anio_departamento,2019|Huancavelica,Habitantes-año,355196.0,355196.0,0.0,cumple
+anio_departamento,2019|Huancavelica,Población del año,355196.0,355196.0,0.0,cumple
+anio_departamento,2019|Huancavelica,Tasa por 100 mil (anual),724.3887881620288,724.388788162029,1.569417412023596e-16,cumple
+anio_departamento,2019|Huánuco,Denuncias,13925.0,13925.0,0.0,cumple
+anio_departamento,2019|Huánuco,Habitantes-año,729293.0,729293.0,0.0,cumple
+anio_departamento,2019|Huánuco,Población del año,729293.0,729293.0,0.0,cumple
+anio_departamento,2019|Huánuco,Tasa por 100 mil (anual),1909.3834713894141,1909.38347138941,2.1434804581187637e-15,cumple
+anio_departamento,2019|Ica,Denuncias,32701.0,32701.0,0.0,cumple
+anio_departamento,2019|Ica,Habitantes-año,950100.0,950100.0,0.0,cumple
+anio_departamento,2019|Ica,Población del año,950100.0,950100.0,0.0,cumple
+anio_departamento,2019|Ica,Tasa por 100 mil (anual),3441.848226502473,3441.84822650247,9.248610765849997e-16,cumple
+anio_departamento,2019|Junín,Denuncias,35306.0,35306.0,0.0,cumple
+anio_departamento,2019|Junín,Habitantes-año,1344615.0,1344615.0,0.0,cumple
+anio_departamento,2019|Junín,Población del año,1344615.0,1344615.0,0.0,cumple
+anio_departamento,2019|Junín,Tasa por 100 mil (anual),2625.7330165140206,2625.73301651402,1.731887240730196e-16,cumple
+anio_departamento,2019|La Libertad,Denuncias,43564.0,43564.0,0.0,cumple
+anio_departamento,2019|La Libertad,Habitantes-año,1979901.0,1979901.0,0.0,cumple
+anio_departamento,2019|La Libertad,Población del año,1979901.0,1979901.0,0.0,cumple
+anio_departamento,2019|La Libertad,Tasa por 100 mil (anual),2200.3120358038104,2200.31203580381,2.0667402781366752e-16,cumple
+anio_departamento,2019|Lambayeque,Denuncias,43223.0,43223.0,0.0,cumple
+anio_departamento,2019|Lambayeque,Habitantes-año,1292105.0,1292105.0,0.0,cumple
+anio_departamento,2019|Lambayeque,Población del año,1292105.0,1292105.0,0.0,cumple
+anio_departamento,2019|Lambayeque,Tasa por 100 mil (anual),3345.1615774259835,3345.16157742598,1.087534554875237e-15,cumple
+anio_departamento,2019|Lima Metropolitana,Denuncias,301414.0,301414.0,0.0,cumple
+anio_departamento,2019|Lima Metropolitana,Habitantes-año,9476975.0,9476975.0,0.0,cumple
+anio_departamento,2019|Lima Metropolitana,Población del año,9476975.0,9476975.0,0.0,cumple
+anio_departamento,2019|Lima Metropolitana,Tasa por 100 mil (anual),3180.487444569602,3180.4874445696,5.719215797099336e-16,cumple
+anio_departamento,2019|Loreto,Denuncias,13562.0,13562.0,0.0,cumple
+anio_departamento,2019|Loreto,Habitantes-año,1010796.0,1010796.0,0.0,cumple
+anio_departamento,2019|Loreto,Población del año,1010796.0,1010796.0,0.0,cumple
+anio_departamento,2019|Loreto,Tasa por 100 mil (anual),1341.7148465170023,1341.714846517,1.6946497687901284e-15,cumple
+anio_departamento,2019|Madre de Dios,Denuncias,5876.0,5876.0,0.0,cumple
+anio_departamento,2019|Madre de Dios,Habitantes-año,167674.0,167674.0,0.0,cumple
+anio_departamento,2019|Madre de Dios,Población del año,167674.0,167674.0,0.0,cumple
+anio_departamento,2019|Madre de Dios,Tasa por 100 mil (anual),3504.419289812374,3504.41928981237,1.0381117401298433e-15,cumple
+anio_departamento,2019|Moquegua,Denuncias,5935.0,5935.0,0.0,cumple
+anio_departamento,2019|Moquegua,Habitantes-año,189243.0,189243.0,0.0,cumple
+anio_departamento,2019|Moquegua,Población del año,189243.0,189243.0,0.0,cumple
+anio_departamento,2019|Moquegua,Tasa por 100 mil (anual),3136.1794095422288,3136.17940954223,4.350012784691178e-16,cumple
+anio_departamento,2019|Pasco,Denuncias,4671.0,4671.0,0.0,cumple
+anio_departamento,2019|Pasco,Habitantes-año,272157.0,272157.0,0.0,cumple
+anio_departamento,2019|Pasco,Población del año,272157.0,272157.0,0.0,cumple
+anio_departamento,2019|Pasco,Tasa por 100 mil (anual),1716.2887597967351,1716.28875979674,2.7820768253900186e-15,cumple
+anio_departamento,2019|Piura,Denuncias,45045.0,45045.0,0.0,cumple
+anio_departamento,2019|Piura,Habitantes-año,2013517.0,2013517.0,0.0,cumple
+anio_departamento,2019|Piura,Población del año,2013517.0,2013517.0,0.0,cumple
+anio_departamento,2019|Piura,Tasa por 100 mil (anual),2237.1303544991174,2237.13035449912,1.219635726559921e-15,cumple
+anio_departamento,2019|Puno,Denuncias,16087.0,16087.0,0.0,cumple
+anio_departamento,2019|Puno,Habitantes-año,1239022.0,1239022.0,0.0,cumple
+anio_departamento,2019|Puno,Población del año,1239022.0,1239022.0,0.0,cumple
+anio_departamento,2019|Puno,Tasa por 100 mil (anual),1298.3627409359963,1298.362740936,2.801974126636656e-15,cumple
+anio_departamento,2019|Región Lima,Denuncias,25575.0,25575.0,0.0,cumple
+anio_departamento,2019|Región Lima,Habitantes-año,938622.0,938622.0,0.0,cumple
+anio_departamento,2019|Región Lima,Población del año,938622.0,938622.0,0.0,cumple
+anio_departamento,2019|Región Lima,Tasa por 100 mil (anual),2724.7390323261125,2724.73903232611,8.344787252859329e-16,cumple
+anio_departamento,2019|San Martín,Denuncias,14274.0,14274.0,0.0,cumple
+anio_departamento,2019|San Martín,Habitantes-año,884283.0,884283.0,0.0,cumple
+anio_departamento,2019|San Martín,Población del año,884283.0,884283.0,0.0,cumple
+anio_departamento,2019|San Martín,Tasa por 100 mil (anual),1614.1891227129775,1614.18912271298,1.5494531555707186e-15,cumple
+anio_departamento,2019|Tacna,Denuncias,12064.0,12064.0,0.0,cumple
+anio_departamento,2019|Tacna,Habitantes-año,363205.0,363205.0,0.0,cumple
+anio_departamento,2019|Tacna,Población del año,363205.0,363205.0,0.0,cumple
+anio_departamento,2019|Tacna,Tasa por 100 mil (anual),3321.540177035008,3321.54017703501,5.47634322210604e-16,cumple
+anio_departamento,2019|Tumbes,Denuncias,9378.0,9378.0,0.0,cumple
+anio_departamento,2019|Tumbes,Habitantes-año,246699.0,246699.0,0.0,cumple
+anio_departamento,2019|Tumbes,Población del año,246699.0,246699.0,0.0,cumple
+anio_departamento,2019|Tumbes,Tasa por 100 mil (anual),3801.393601109044,3801.39360110904,1.0766383562028772e-15,cumple
+anio_departamento,2019|Ucayali,Denuncias,14490.0,14490.0,0.0,cumple
+anio_departamento,2019|Ucayali,Habitantes-año,574509.0,574509.0,0.0,cumple
+anio_departamento,2019|Ucayali,Población del año,574509.0,574509.0,0.0,cumple
+anio_departamento,2019|Ucayali,Tasa por 100 mil (anual),2522.1536999420377,2522.15369994204,9.015060241905852e-16,cumple
+anio_departamento,2019|Áncash,Denuncias,31583.0,31583.0,0.0,cumple
+anio_departamento,2019|Áncash,Habitantes-año,1169215.0,1169215.0,0.0,cumple
+anio_departamento,2019|Áncash,Población del año,1169215.0,1169215.0,0.0,cumple
+anio_departamento,2019|Áncash,Tasa por 100 mil (anual),2701.2140624265,2701.2140624265,0.0,cumple
+anio_departamento,2020|Amazonas,Denuncias,7917.0,7917.0,0.0,cumple
+anio_departamento,2020|Amazonas,Habitantes-año,426806.0,426806.0,0.0,cumple
+anio_departamento,2020|Amazonas,Población del año,426806.0,426806.0,0.0,cumple
+anio_departamento,2020|Amazonas,Tasa por 100 mil (anual),1854.941120790242,1854.94112079024,1.1031957058115661e-15,cumple
+anio_departamento,2020|Apurímac,Denuncias,10878.0,10878.0,0.0,cumple
+anio_departamento,2020|Apurímac,Habitantes-año,420537.0,420537.0,0.0,cumple
+anio_departamento,2020|Apurímac,Población del año,420537.0,420537.0,0.0,cumple
+anio_departamento,2020|Apurímac,Tasa por 100 mil (anual),2586.6927285827405,2586.69272858274,1.7580261693302167e-16,cumple
+anio_departamento,2020|Arequipa,Denuncias,46863.0,46863.0,0.0,cumple
+anio_departamento,2020|Arequipa,Habitantes-año,1497438.0,1497438.0,0.0,cumple
+anio_departamento,2020|Arequipa,Población del año,1497438.0,1497438.0,0.0,cumple
+anio_departamento,2020|Arequipa,Tasa por 100 mil (anual),3129.5452633097334,3129.54526330973,1.017154630586406e-15,cumple
+anio_departamento,2020|Ayacucho,Denuncias,10926.0,10926.0,0.0,cumple
+anio_departamento,2020|Ayacucho,Habitantes-año,650247.0,650247.0,0.0,cumple
+anio_departamento,2020|Ayacucho,Población del año,650247.0,650247.0,0.0,cumple
+anio_departamento,2020|Ayacucho,Tasa por 100 mil (anual),1680.284568786938,1680.28456878694,1.2178669714656945e-15,cumple
+anio_departamento,2020|Cajamarca,Denuncias,17563.0,17563.0,0.0,cumple
+anio_departamento,2020|Cajamarca,Habitantes-año,1452489.0,1452489.0,0.0,cumple
+anio_departamento,2020|Cajamarca,Población del año,1452489.0,1452489.0,0.0,cumple
+anio_departamento,2020|Cajamarca,Tasa por 100 mil (anual),1209.1657836995669,1209.16578369957,2.632584794506693e-15,cumple
+anio_departamento,2020|Callao,Denuncias,25417.0,25417.0,0.0,cumple
+anio_departamento,2020|Callao,Habitantes-año,1129854.0,1129854.0,0.0,cumple
+anio_departamento,2020|Callao,Población del año,1129854.0,1129854.0,0.0,cumple
+anio_departamento,2020|Callao,Tasa por 100 mil (anual),2249.582689444831,2249.58268944483,4.0429485256991386e-16,cumple
+anio_departamento,2020|Cusco,Denuncias,28485.0,28485.0,0.0,cumple
+anio_departamento,2020|Cusco,Habitantes-año,1347284.0,1347284.0,0.0,cumple
+anio_departamento,2020|Cusco,Población del año,1347284.0,1347284.0,0.0,cumple
+anio_departamento,2020|Cusco,Tasa por 100 mil (anual),2114.2535649499287,2114.25356494993,6.452594311655808e-16,cumple
+anio_departamento,2020|Huancavelica,Denuncias,3065.0,3065.0,0.0,cumple
+anio_departamento,2020|Huancavelica,Habitantes-año,349325.0,349325.0,0.0,cumple
+anio_departamento,2020|Huancavelica,Población del año,349325.0,349325.0,0.0,cumple
+anio_departamento,2020|Huancavelica,Tasa por 100 mil (anual),877.4064266800257,877.406426680026,3.8871440052629876e-16,cumple
+anio_departamento,2020|Huánuco,Denuncias,13384.0,13384.0,0.0,cumple
+anio_departamento,2020|Huánuco,Habitantes-año,729594.0,729594.0,0.0,cumple
+anio_departamento,2020|Huánuco,Población del año,729594.0,729594.0,0.0,cumple
+anio_departamento,2020|Huánuco,Tasa por 100 mil (anual),1834.4449104570485,1834.44491045705,7.436811238553323e-16,cumple
+anio_departamento,2020|Ica,Denuncias,25782.0,25782.0,0.0,cumple
+anio_departamento,2020|Ica,Habitantes-año,975182.0,975182.0,0.0,cumple
+anio_departamento,2020|Ica,Población del año,975182.0,975182.0,0.0,cumple
+anio_departamento,2020|Ica,Tasa por 100 mil (anual),2643.8141803273643,2643.81418032736,1.548038507559334e-15,cumple
+anio_departamento,2020|Junín,Denuncias,28009.0,28009.0,0.0,cumple
+anio_departamento,2020|Junín,Habitantes-año,1355667.0,1355667.0,0.0,cumple
+anio_departamento,2020|Junín,Población del año,1355667.0,1355667.0,0.0,cumple
+anio_departamento,2020|Junín,Tasa por 100 mil (anual),2066.067847045034,2066.06784704503,1.9809253427140567e-15,cumple
+anio_departamento,2020|La Libertad,Denuncias,32053.0,32053.0,0.0,cumple
+anio_departamento,2020|La Libertad,Habitantes-año,2016771.0,2016771.0,0.0,cumple
+anio_departamento,2020|La Libertad,Población del año,2016771.0,2016771.0,0.0,cumple
+anio_departamento,2020|La Libertad,Tasa por 100 mil (anual),1589.3227342122632,1589.32273421226,2.002885498132005e-15,cumple
+anio_departamento,2020|Lambayeque,Denuncias,32380.0,32380.0,0.0,cumple
+anio_departamento,2020|Lambayeque,Habitantes-año,1310785.0,1310785.0,0.0,cumple
+anio_departamento,2020|Lambayeque,Población del año,1310785.0,1310785.0,0.0,cumple
+anio_departamento,2020|Lambayeque,Tasa por 100 mil (anual),2470.275445629909,2470.27544562991,3.681754208349066e-16,cumple
+anio_departamento,2020|Lima Metropolitana,Denuncias,209987.0,209987.0,0.0,cumple
+anio_departamento,2020|Lima Metropolitana,Habitantes-año,9674755.0,9674755.0,0.0,cumple
+anio_departamento,2020|Lima Metropolitana,Población del año,9674755.0,9674755.0,0.0,cumple
+anio_departamento,2020|Lima Metropolitana,Tasa por 100 mil (anual),2170.4632313686493,2170.46323136865,4.190325312257972e-16,cumple
+anio_departamento,2020|Loreto,Denuncias,10020.0,10020.0,0.0,cumple
+anio_departamento,2020|Loreto,Habitantes-año,1023122.0,1023122.0,0.0,cumple
+anio_departamento,2020|Loreto,Población del año,1023122.0,1023122.0,0.0,cumple
+anio_departamento,2020|Loreto,Tasa por 100 mil (anual),979.3553456967986,979.355345696799,3.482500143216025e-16,cumple
+anio_departamento,2020|Madre de Dios,Denuncias,5403.0,5403.0,0.0,cumple
+anio_departamento,2020|Madre de Dios,Habitantes-año,173811.0,173811.0,0.0,cumple
+anio_departamento,2020|Madre de Dios,Población del año,173811.0,173811.0,0.0,cumple
+anio_departamento,2020|Madre de Dios,Tasa por 100 mil (anual),3108.5489410911855,3108.54894109119,1.4628926856362616e-15,cumple
+anio_departamento,2020|Moquegua,Denuncias,4465.0,4465.0,0.0,cumple
+anio_departamento,2020|Moquegua,Habitantes-año,192247.0,192247.0,0.0,cumple
+anio_departamento,2020|Moquegua,Población del año,192247.0,192247.0,0.0,cumple
+anio_departamento,2020|Moquegua,Tasa por 100 mil (anual),2322.53299141209,2322.53299141209,0.0,cumple
+anio_departamento,2020|Pasco,Denuncias,4297.0,4297.0,0.0,cumple
+anio_departamento,2020|Pasco,Habitantes-año,271904.0,271904.0,0.0,cumple
+anio_departamento,2020|Pasco,Población del año,271904.0,271904.0,0.0,cumple
+anio_departamento,2020|Pasco,Tasa por 100 mil (anual),1580.3371778274684,1580.33717782747,1.0071367999395299e-15,cumple
+anio_departamento,2020|Piura,Denuncias,34033.0,34033.0,0.0,cumple
+anio_departamento,2020|Piura,Habitantes-año,2047954.0,2047954.0,0.0,cumple
+anio_departamento,2020|Piura,Población del año,2047954.0,2047954.0,0.0,cumple
+anio_departamento,2020|Piura,Tasa por 100 mil (anual),1661.804903821082,1661.80490382108,1.231409941253495e-15,cumple
+anio_departamento,2020|Puno,Denuncias,13348.0,13348.0,0.0,cumple
+anio_departamento,2020|Puno,Habitantes-año,1237997.0,1237997.0,0.0,cumple
+anio_departamento,2020|Puno,Población del año,1237997.0,1237997.0,0.0,cumple
+anio_departamento,2020|Puno,Tasa por 100 mil (anual),1078.193242794611,1078.19324279461,1.0544198684360765e-15,cumple
+anio_departamento,2020|Región Lima,Denuncias,21150.0,21150.0,0.0,cumple
+anio_departamento,2020|Región Lima,Habitantes-año,953189.0,953189.0,0.0,cumple
+anio_departamento,2020|Región Lima,Población del año,953189.0,953189.0,0.0,cumple
+anio_departamento,2020|Región Lima,Tasa por 100 mil (anual),2218.867401952813,2218.86740195281,1.4346199567417613e-15,cumple
+anio_departamento,2020|San Martín,Denuncias,12557.0,12557.0,0.0,cumple
+anio_departamento,2020|San Martín,Habitantes-año,899648.0,899648.0,0.0,cumple
+anio_departamento,2020|San Martín,Población del año,899648.0,899648.0,0.0,cumple
+anio_departamento,2020|San Martín,Tasa por 100 mil (anual),1395.7681226435227,1395.76812264352,1.9548262072006326e-15,cumple
+anio_departamento,2020|Tacna,Denuncias,9478.0,9478.0,0.0,cumple
+anio_departamento,2020|Tacna,Habitantes-año,370974.0,370974.0,0.0,cumple
+anio_departamento,2020|Tacna,Población del año,370974.0,370974.0,0.0,cumple
+anio_departamento,2020|Tacna,Tasa por 100 mil (anual),2554.896030449573,2554.89603044957,1.2459338533807618e-15,cumple
+anio_departamento,2020|Tumbes,Denuncias,6962.0,6962.0,0.0,cumple
+anio_departamento,2020|Tumbes,Habitantes-año,251521.0,251521.0,0.0,cumple
+anio_departamento,2020|Tumbes,Población del año,251521.0,251521.0,0.0,cumple
+anio_departamento,2020|Tumbes,Tasa por 100 mil (anual),2767.959732984522,2767.95973298452,6.57158910900973e-16,cumple
+anio_departamento,2020|Ucayali,Denuncias,10396.0,10396.0,0.0,cumple
+anio_departamento,2020|Ucayali,Habitantes-año,589110.0,589110.0,0.0,cumple
+anio_departamento,2020|Ucayali,Población del año,589110.0,589110.0,0.0,cumple
+anio_departamento,2020|Ucayali,Tasa por 100 mil (anual),1764.6958972008624,1764.69589720086,1.4173039297268053e-15,cumple
+anio_departamento,2020|Áncash,Denuncias,24351.0,24351.0,0.0,cumple
+anio_departamento,2020|Áncash,Habitantes-año,1180341.0,1180341.0,0.0,cumple
+anio_departamento,2020|Áncash,Población del año,1180341.0,1180341.0,0.0,cumple
+anio_departamento,2020|Áncash,Tasa por 100 mil (anual),2063.047881925647,2063.04788192565,1.5429750729944395e-15,cumple
+anio_departamento,2021|Amazonas,Denuncias,8679.0,8679.0,0.0,cumple
+anio_departamento,2021|Amazonas,Habitantes-año,428512.0,428512.0,0.0,cumple
+anio_departamento,2021|Amazonas,Población del año,428512.0,428512.0,0.0,cumple
+anio_departamento,2021|Amazonas,Tasa por 100 mil (anual),2025.3808528115899,2025.38085281159,1.1226218275323224e-16,cumple
+anio_departamento,2021|Apurímac,Denuncias,12128.0,12128.0,0.0,cumple
+anio_departamento,2021|Apurímac,Habitantes-año,420105.0,420105.0,0.0,cumple
+anio_departamento,2021|Apurímac,Población del año,420105.0,420105.0,0.0,cumple
+anio_departamento,2021|Apurímac,Tasa por 100 mil (anual),2886.8973232882254,2886.89732328823,1.5752113773429916e-15,cumple
+anio_departamento,2021|Arequipa,Denuncias,53090.0,53090.0,0.0,cumple
+anio_departamento,2021|Arequipa,Habitantes-año,1526669.0,1526669.0,0.0,cumple
+anio_departamento,2021|Arequipa,Población del año,1526669.0,1526669.0,0.0,cumple
+anio_departamento,2021|Arequipa,Tasa por 100 mil (anual),3477.505602065674,3477.50560206567,1.1769143248962865e-15,cumple
+anio_departamento,2021|Ayacucho,Denuncias,12815.0,12815.0,0.0,cumple
+anio_departamento,2021|Ayacucho,Habitantes-año,651572.0,651572.0,0.0,cumple
+anio_departamento,2021|Ayacucho,Población del año,651572.0,651572.0,0.0,cumple
+anio_departamento,2021|Ayacucho,Tasa por 100 mil (anual),1966.7818752187018,1966.7818752187,9.24855687590465e-16,cumple
+anio_departamento,2021|Cajamarca,Denuncias,20654.0,20654.0,0.0,cumple
+anio_departamento,2021|Cajamarca,Habitantes-año,1454048.0,1454048.0,0.0,cumple
+anio_departamento,2021|Cajamarca,Población del año,1454048.0,1454048.0,0.0,cumple
+anio_departamento,2021|Cajamarca,Tasa por 100 mil (anual),1420.4482933163142,1420.44829331631,3.0413636693070266e-15,cumple
+anio_departamento,2021|Callao,Denuncias,28268.0,28268.0,0.0,cumple
+anio_departamento,2021|Callao,Habitantes-año,1151480.0,1151480.0,0.0,cumple
+anio_departamento,2021|Callao,Población del año,1151480.0,1151480.0,0.0,cumple
+anio_departamento,2021|Callao,Tasa por 100 mil (anual),2454.9275714732344,2454.92757147323,1.852386018107916e-15,cumple
+anio_departamento,2021|Cusco,Denuncias,32609.0,32609.0,0.0,cumple
+anio_departamento,2021|Cusco,Habitantes-año,1358914.0,1358914.0,0.0,cumple
+anio_departamento,2021|Cusco,Población del año,1358914.0,1358914.0,0.0,cumple
+anio_departamento,2021|Cusco,Tasa por 100 mil (anual),2399.636768772711,2399.63676877271,3.790134880447291e-16,cumple
+anio_departamento,2021|Huancavelica,Denuncias,4539.0,4539.0,0.0,cumple
+anio_departamento,2021|Huancavelica,Habitantes-año,342542.0,342542.0,0.0,cumple
+anio_departamento,2021|Huancavelica,Población del año,342542.0,342542.0,0.0,cumple
+anio_departamento,2021|Huancavelica,Tasa por 100 mil (anual),1325.0929812986437,1325.09298129864,2.74545172183038e-15,cumple
+anio_departamento,2021|Huánuco,Denuncias,16406.0,16406.0,0.0,cumple
+anio_departamento,2021|Huánuco,Habitantes-año,727943.0,727943.0,0.0,cumple
+anio_departamento,2021|Huánuco,Población del año,727943.0,727943.0,0.0,cumple
+anio_departamento,2021|Huánuco,Tasa por 100 mil (anual),2253.7478896012462,2253.74788960125,1.614190666079948e-15,cumple
+anio_departamento,2021|Ica,Denuncias,28273.0,28273.0,0.0,cumple
+anio_departamento,2021|Ica,Habitantes-año,998144.0,998144.0,0.0,cumple
+anio_departamento,2021|Ica,Población del año,998144.0,998144.0,0.0,cumple
+anio_departamento,2021|Ica,Tasa por 100 mil (anual),2832.557226211849,2832.55722621185,3.210860819886244e-16,cumple
+anio_departamento,2021|Junín,Denuncias,33834.0,33834.0,0.0,cumple
+anio_departamento,2021|Junín,Habitantes-año,1362926.0,1362926.0,0.0,cumple
+anio_departamento,2021|Junín,Población del año,1362926.0,1362926.0,0.0,cumple
+anio_departamento,2021|Junín,Tasa por 100 mil (anual),2482.4531926164736,2482.45319261647,1.4654773020140333e-15,cumple
+anio_departamento,2021|La Libertad,Denuncias,36251.0,36251.0,0.0,cumple
+anio_departamento,2021|La Libertad,Habitantes-año,2048492.0,2048492.0,0.0,cumple
+anio_departamento,2021|La Libertad,Población del año,2048492.0,2048492.0,0.0,cumple
+anio_departamento,2021|La Libertad,Tasa por 100 mil (anual),1769.6432302396104,1769.64323023961,2.5697120363910365e-16,cumple
+anio_departamento,2021|Lambayeque,Denuncias,40817.0,40817.0,0.0,cumple
+anio_departamento,2021|Lambayeque,Habitantes-año,1325912.0,1325912.0,0.0,cumple
+anio_departamento,2021|Lambayeque,Población del año,1325912.0,1325912.0,0.0,cumple
+anio_departamento,2021|Lambayeque,Tasa por 100 mil (anual),3078.409426869958,3078.40942686996,5.908861204974137e-16,cumple
+anio_departamento,2021|Lima Metropolitana,Denuncias,243815.0,243815.0,0.0,cumple
+anio_departamento,2021|Lima Metropolitana,Habitantes-año,9846795.0,9846795.0,0.0,cumple
+anio_departamento,2021|Lima Metropolitana,Población del año,9846795.0,9846795.0,0.0,cumple
+anio_departamento,2021|Lima Metropolitana,Tasa por 100 mil (anual),2476.0848580680313,2476.08485806803,5.509674065548158e-16,cumple
+anio_departamento,2021|Loreto,Denuncias,11885.0,11885.0,0.0,cumple
+anio_departamento,2021|Loreto,Habitantes-año,1032606.0,1032606.0,0.0,cumple
+anio_departamento,2021|Loreto,Población del año,1032606.0,1032606.0,0.0,cumple
+anio_departamento,2021|Loreto,Tasa por 100 mil (anual),1150.971425693827,1150.97142569383,2.5681417581502257e-15,cumple
+anio_departamento,2021|Madre de Dios,Denuncias,6072.0,6072.0,0.0,cumple
+anio_departamento,2021|Madre de Dios,Habitantes-año,179688.0,179688.0,0.0,cumple
+anio_departamento,2021|Madre de Dios,Población del año,179688.0,179688.0,0.0,cumple
+anio_departamento,2021|Madre de Dios,Tasa por 100 mil (anual),3379.1905970348603,3379.19059703486,1.3457286229592714e-16,cumple
+anio_departamento,2021|Moquegua,Denuncias,6372.0,6372.0,0.0,cumple
+anio_departamento,2021|Moquegua,Habitantes-año,194726.0,194726.0,0.0,cumple
+anio_departamento,2021|Moquegua,Población del año,194726.0,194726.0,0.0,cumple
+anio_departamento,2021|Moquegua,Tasa por 100 mil (anual),3272.290295081294,3272.29029508129,1.2507222125525085e-15,cumple
+anio_departamento,2021|Pasco,Denuncias,4673.0,4673.0,0.0,cumple
+anio_departamento,2021|Pasco,Habitantes-año,270842.0,270842.0,0.0,cumple
+anio_departamento,2021|Pasco,Población del año,270842.0,270842.0,0.0,cumple
+anio_departamento,2021|Pasco,Tasa por 100 mil (anual),1725.3601730898456,1725.36017308985,2.5038828998149398e-15,cumple
+anio_departamento,2021|Piura,Denuncias,39022.0,39022.0,0.0,cumple
+anio_departamento,2021|Piura,Habitantes-año,2077039.0,2077039.0,0.0,cumple
+anio_departamento,2021|Piura,Población del año,2077039.0,2077039.0,0.0,cumple
+anio_departamento,2021|Piura,Tasa por 100 mil (anual),1878.7321759485499,1878.73217594855,1.2102506059887635e-16,cumple
+anio_departamento,2021|Puno,Denuncias,16809.0,16809.0,0.0,cumple
+anio_departamento,2021|Puno,Habitantes-año,1233277.0,1233277.0,0.0,cumple
+anio_departamento,2021|Puno,Población del año,1233277.0,1233277.0,0.0,cumple
+anio_departamento,2021|Puno,Tasa por 100 mil (anual),1362.9541457434138,1362.95414574341,2.8360106571498893e-15,cumple
+anio_departamento,2021|Región Lima,Denuncias,23013.0,23013.0,0.0,cumple
+anio_departamento,2021|Región Lima,Habitantes-año,967144.0,967144.0,0.0,cumple
+anio_departamento,2021|Región Lima,Población del año,967144.0,967144.0,0.0,cumple
+anio_departamento,2021|Región Lima,Tasa por 100 mil (anual),2379.4802015005002,2379.4802015005,1.9111205489320752e-16,cumple
+anio_departamento,2021|San Martín,Denuncias,16343.0,16343.0,0.0,cumple
+anio_departamento,2021|San Martín,Habitantes-año,912673.0,912673.0,0.0,cumple
+anio_departamento,2021|San Martín,Población del año,912673.0,912673.0,0.0,cumple
+anio_departamento,2021|San Martín,Tasa por 100 mil (anual),1790.6742064244258,1790.67420642443,2.2855783275900487e-15,cumple
+anio_departamento,2021|Tacna,Denuncias,10825.0,10825.0,0.0,cumple
+anio_departamento,2021|Tacna,Habitantes-año,377842.0,377842.0,0.0,cumple
+anio_departamento,2021|Tacna,Población del año,377842.0,377842.0,0.0,cumple
+anio_departamento,2021|Tacna,Tasa por 100 mil (anual),2864.9541342677626,2864.95413426776,9.523657194659218e-16,cumple
+anio_departamento,2021|Tumbes,Denuncias,7829.0,7829.0,0.0,cumple
+anio_departamento,2021|Tumbes,Habitantes-año,255712.0,255712.0,0.0,cumple
+anio_departamento,2021|Tumbes,Población del año,255712.0,255712.0,0.0,cumple
+anio_departamento,2021|Tumbes,Tasa por 100 mil (anual),3061.647478413215,3061.64747841322,1.6338330572086786e-15,cumple
+anio_departamento,2021|Ucayali,Denuncias,12511.0,12511.0,0.0,cumple
+anio_departamento,2021|Ucayali,Habitantes-año,602400.0,602400.0,0.0,cumple
+anio_departamento,2021|Ucayali,Población del año,602400.0,602400.0,0.0,cumple
+anio_departamento,2021|Ucayali,Tasa por 100 mil (anual),2076.859229747676,2076.85922974768,1.7516732742323136e-15,cumple
+anio_departamento,2021|Áncash,Denuncias,27106.0,27106.0,0.0,cumple
+anio_departamento,2021|Áncash,Habitantes-año,1188105.0,1188105.0,0.0,cumple
+anio_departamento,2021|Áncash,Población del año,1188105.0,1188105.0,0.0,cumple
+anio_departamento,2021|Áncash,Tasa por 100 mil (anual),2281.448188501858,2281.44818850186,7.972959511915627e-16,cumple
+anio_departamento,2022|Amazonas,Denuncias,9057.0,9057.0,0.0,cumple
+anio_departamento,2022|Amazonas,Habitantes-año,429483.0,429483.0,0.0,cumple
+anio_departamento,2022|Amazonas,Población del año,429483.0,429483.0,0.0,cumple
+anio_departamento,2022|Amazonas,Tasa por 100 mil (anual),2108.814551449068,2108.81455144907,1.0782061195802764e-15,cumple
+anio_departamento,2022|Apurímac,Denuncias,11461.0,11461.0,0.0,cumple
+anio_departamento,2022|Apurímac,Habitantes-año,419076.0,419076.0,0.0,cumple
+anio_departamento,2022|Apurímac,Población del año,419076.0,419076.0,0.0,cumple
+anio_departamento,2022|Apurímac,Tasa por 100 mil (anual),2734.826141320429,2734.82614132043,3.3256033648040454e-16,cumple
+anio_departamento,2022|Arequipa,Denuncias,62846.0,62846.0,0.0,cumple
+anio_departamento,2022|Arequipa,Habitantes-año,1553994.0,1553994.0,0.0,cumple
+anio_departamento,2022|Arequipa,Población del año,1553994.0,1553994.0,0.0,cumple
+anio_departamento,2022|Arequipa,Tasa por 100 mil (anual),4044.159758660587,4044.15975866059,6.746726806416891e-16,cumple
+anio_departamento,2022|Ayacucho,Denuncias,14175.0,14175.0,0.0,cumple
+anio_departamento,2022|Ayacucho,Habitantes-año,652390.0,652390.0,0.0,cumple
+anio_departamento,2022|Ayacucho,Población del año,652390.0,652390.0,0.0,cumple
+anio_departamento,2022|Ayacucho,Tasa por 100 mil (anual),2172.7800855316605,2172.78008553166,2.0929285661010253e-16,cumple
+anio_departamento,2022|Cajamarca,Denuncias,22545.0,22545.0,0.0,cumple
+anio_departamento,2022|Cajamarca,Habitantes-año,1453046.0,1453046.0,0.0,cumple
+anio_departamento,2022|Cajamarca,Población del año,1453046.0,1453046.0,0.0,cumple
+anio_departamento,2022|Cajamarca,Tasa por 100 mil (anual),1551.5682228917735,1551.56822289177,2.344710824453043e-15,cumple
+anio_departamento,2022|Callao,Denuncias,32437.0,32437.0,0.0,cumple
+anio_departamento,2022|Callao,Habitantes-año,1171648.0,1171648.0,0.0,cumple
+anio_departamento,2022|Callao,Población del año,1171648.0,1171648.0,0.0,cumple
+anio_departamento,2022|Callao,Tasa por 100 mil (anual),2768.493609002021,2768.49360900202,3.285160922227234e-16,cumple
+anio_departamento,2022|Cusco,Denuncias,35136.0,35136.0,0.0,cumple
+anio_departamento,2022|Cusco,Habitantes-año,1369474.0,1369474.0,0.0,cumple
+anio_departamento,2022|Cusco,Población del año,1369474.0,1369474.0,0.0,cumple
+anio_departamento,2022|Cusco,Tasa por 100 mil (anual),2565.6565951598936,2565.65659515989,1.4179523533877265e-15,cumple
+anio_departamento,2022|Huancavelica,Denuncias,4492.0,4492.0,0.0,cumple
+anio_departamento,2022|Huancavelica,Habitantes-año,335399.0,335399.0,0.0,cumple
+anio_departamento,2022|Huancavelica,Población del año,335399.0,335399.0,0.0,cumple
+anio_departamento,2022|Huancavelica,Tasa por 100 mil (anual),1339.3003556957535,1339.30035569575,2.546557325355674e-15,cumple
+anio_departamento,2022|Huánuco,Denuncias,19216.0,19216.0,0.0,cumple
+anio_departamento,2022|Huánuco,Habitantes-año,724929.0,724929.0,0.0,cumple
+anio_departamento,2022|Huánuco,Población del año,724929.0,724929.0,0.0,cumple
+anio_departamento,2022|Huánuco,Tasa por 100 mil (anual),2650.7423485610316,2650.74234856103,5.146641481017488e-16,cumple
+anio_departamento,2022|Ica,Denuncias,31610.0,31610.0,0.0,cumple
+anio_departamento,2022|Ica,Habitantes-año,1020050.0,1020050.0,0.0,cumple
+anio_departamento,2022|Ica,Población del año,1020050.0,1020050.0,0.0,cumple
+anio_departamento,2022|Ica,Tasa por 100 mil (anual),3098.8677025636,3098.8677025636,0.0,cumple
+anio_departamento,2022|Junín,Denuncias,37929.0,37929.0,0.0,cumple
+anio_departamento,2022|Junín,Habitantes-año,1367865.0,1367865.0,0.0,cumple
+anio_departamento,2022|Junín,Población del año,1367865.0,1367865.0,0.0,cumple
+anio_departamento,2022|Junín,Tasa por 100 mil (anual),2772.8613569321533,2772.86135693215,1.1479951740995525e-15,cumple
+anio_departamento,2022|La Libertad,Denuncias,47441.0,47441.0,0.0,cumple
+anio_departamento,2022|La Libertad,Habitantes-año,2077345.0,2077345.0,0.0,cumple
+anio_departamento,2022|La Libertad,Población del año,2077345.0,2077345.0,0.0,cumple
+anio_departamento,2022|La Libertad,Tasa por 100 mil (anual),2283.732360296436,2283.73236029644,1.792121629106717e-15,cumple
+anio_departamento,2022|Lambayeque,Denuncias,51969.0,51969.0,0.0,cumple
+anio_departamento,2022|Lambayeque,Habitantes-año,1338994.0,1338994.0,0.0,cumple
+anio_departamento,2022|Lambayeque,Población del año,1338994.0,1338994.0,0.0,cumple
+anio_departamento,2022|Lambayeque,Tasa por 100 mil (anual),3881.1973765379084,3881.19737653791,3.515003026917221e-16,cumple
+anio_departamento,2022|Lima Metropolitana,Denuncias,294568.0,294568.0,0.0,cumple
+anio_departamento,2022|Lima Metropolitana,Habitantes-año,10004141.0,10004141.0,0.0,cumple
+anio_departamento,2022|Lima Metropolitana,Población del año,10004141.0,10004141.0,0.0,cumple
+anio_departamento,2022|Lima Metropolitana,Tasa por 100 mil (anual),2944.460698824617,2944.46069882462,1.0810915076828656e-15,cumple
+anio_departamento,2022|Loreto,Denuncias,14153.0,14153.0,0.0,cumple
+anio_departamento,2022|Loreto,Habitantes-año,1040434.0,1040434.0,0.0,cumple
+anio_departamento,2022|Loreto,Población del año,1040434.0,1040434.0,0.0,cumple
+anio_departamento,2022|Loreto,Tasa por 100 mil (anual),1360.297721912202,1360.2977219122,1.504349412650981e-15,cumple
+anio_departamento,2022|Madre de Dios,Denuncias,6366.0,6366.0,0.0,cumple
+anio_departamento,2022|Madre de Dios,Habitantes-año,185478.0,185478.0,0.0,cumple
+anio_departamento,2022|Madre de Dios,Población del año,185478.0,185478.0,0.0,cumple
+anio_departamento,2022|Madre de Dios,Tasa por 100 mil (anual),3432.2129848283894,3432.21298482839,1.324939194906057e-16,cumple
+anio_departamento,2022|Moquegua,Denuncias,6987.0,6987.0,0.0,cumple
+anio_departamento,2022|Moquegua,Habitantes-año,196906.0,196906.0,0.0,cumple
+anio_departamento,2022|Moquegua,Población del año,196906.0,196906.0,0.0,cumple
+anio_departamento,2022|Moquegua,Tasa por 100 mil (anual),3548.3936497618156,3548.39364976182,1.2815583494153442e-15,cumple
+anio_departamento,2022|Pasco,Denuncias,5080.0,5080.0,0.0,cumple
+anio_departamento,2022|Pasco,Habitantes-año,269296.0,269296.0,0.0,cumple
+anio_departamento,2022|Pasco,Población del año,269296.0,269296.0,0.0,cumple
+anio_departamento,2022|Pasco,Tasa por 100 mil (anual),1886.4000950626819,1886.40009506268,9.642649023962302e-16,cumple
+anio_departamento,2022|Piura,Denuncias,46601.0,46601.0,0.0,cumple
+anio_departamento,2022|Piura,Habitantes-año,2103099.0,2103099.0,0.0,cumple
+anio_departamento,2022|Piura,Población del año,2103099.0,2103099.0,0.0,cumple
+anio_departamento,2022|Piura,Tasa por 100 mil (anual),2215.8253130261583,2215.82531302616,8.209083057462043e-16,cumple
+anio_departamento,2022|Puno,Denuncias,17304.0,17304.0,0.0,cumple
+anio_departamento,2022|Puno,Habitantes-año,1226353.0,1226353.0,0.0,cumple
+anio_departamento,2022|Puno,Población del año,1226353.0,1226353.0,0.0,cumple
+anio_departamento,2022|Puno,Tasa por 100 mil (anual),1411.0129791340667,1411.01297913407,2.4171323595772706e-15,cumple
+anio_departamento,2022|Región Lima,Denuncias,25192.0,25192.0,0.0,cumple
+anio_departamento,2022|Región Lima,Habitantes-año,981367.0,981367.0,0.0,cumple
+anio_departamento,2022|Región Lima,Población del año,981367.0,981367.0,0.0,cumple
+anio_departamento,2022|Región Lima,Tasa por 100 mil (anual),2567.031497900378,2567.03149790038,8.857455610856554e-16,cumple
+anio_departamento,2022|San Martín,Denuncias,18401.0,18401.0,0.0,cumple
+anio_departamento,2022|San Martín,Habitantes-año,924384.0,924384.0,0.0,cumple
+anio_departamento,2022|San Martín,Población del año,924384.0,924384.0,0.0,cumple
+anio_departamento,2022|San Martín,Tasa por 100 mil (anual),1990.6229445771455,1990.62294457715,2.2844474496050934e-15,cumple
+anio_departamento,2022|Tacna,Denuncias,12454.0,12454.0,0.0,cumple
+anio_departamento,2022|Tacna,Habitantes-año,384222.0,384222.0,0.0,cumple
+anio_departamento,2022|Tacna,Población del año,384222.0,384222.0,0.0,cumple
+anio_departamento,2022|Tacna,Tasa por 100 mil (anual),3241.3552581580443,3241.35525815804,1.262658928754369e-15,cumple
+anio_departamento,2022|Tumbes,Denuncias,8452.0,8452.0,0.0,cumple
+anio_departamento,2022|Tumbes,Habitantes-año,259556.0,259556.0,0.0,cumple
+anio_departamento,2022|Tumbes,Población del año,259556.0,259556.0,0.0,cumple
+anio_departamento,2022|Tumbes,Tasa por 100 mil (anual),3256.3300405307527,3256.33004053075,8.379015859443001e-16,cumple
+anio_departamento,2022|Ucayali,Denuncias,11828.0,11828.0,0.0,cumple
+anio_departamento,2022|Ucayali,Habitantes-año,615024.0,615024.0,0.0,cumple
+anio_departamento,2022|Ucayali,Población del año,615024.0,615024.0,0.0,cumple
+anio_departamento,2022|Ucayali,Tasa por 100 mil (anual),1923.176981711283,1923.17698171128,1.5369660768983586e-15,cumple
+anio_departamento,2022|Áncash,Denuncias,30036.0,30036.0,0.0,cumple
+anio_departamento,2022|Áncash,Habitantes-año,1193881.0,1193881.0,0.0,cumple
+anio_departamento,2022|Áncash,Población del año,1193881.0,1193881.0,0.0,cumple
+anio_departamento,2022|Áncash,Tasa por 100 mil (anual),2515.8286294865234,2515.82862948652,1.2652815135723062e-15,cumple
+anio_departamento,2023|Amazonas,Denuncias,9858.0,9858.0,0.0,cumple
+anio_departamento,2023|Amazonas,Habitantes-año,429943.0,429943.0,0.0,cumple
+anio_departamento,2023|Amazonas,Población del año,429943.0,429943.0,0.0,cumple
+anio_departamento,2023|Amazonas,Tasa por 100 mil (anual),2292.8620770660295,2292.86207706603,1.9833175114848757e-16,cumple
+anio_departamento,2023|Apurímac,Denuncias,11637.0,11637.0,0.0,cumple
+anio_departamento,2023|Apurímac,Habitantes-año,417541.0,417541.0,0.0,cumple
+anio_departamento,2023|Apurímac,Población del año,417541.0,417541.0,0.0,cumple
+anio_departamento,2023|Apurímac,Tasa por 100 mil (anual),2787.031692696047,2787.03169269605,1.1421583272797075e-15,cumple
+anio_departamento,2023|Arequipa,Denuncias,73196.0,73196.0,0.0,cumple
+anio_departamento,2023|Arequipa,Habitantes-año,1580075.0,1580075.0,0.0,cumple
+anio_departamento,2023|Arequipa,Población del año,1580075.0,1580075.0,0.0,cumple
+anio_departamento,2023|Arequipa,Tasa por 100 mil (anual),4632.438333623404,4632.4383336234,9.816587251378898e-16,cumple
+anio_departamento,2023|Ayacucho,Denuncias,16577.0,16577.0,0.0,cumple
+anio_departamento,2023|Ayacucho,Habitantes-año,652402.0,652402.0,0.0,cumple
+anio_departamento,2023|Ayacucho,Población del año,652402.0,652402.0,0.0,cumple
+anio_departamento,2023|Ayacucho,Tasa por 100 mil (anual),2540.918022936778,2540.91802293678,7.158788229789009e-16,cumple
+anio_departamento,2023|Cajamarca,Denuncias,25571.0,25571.0,0.0,cumple
+anio_departamento,2023|Cajamarca,Habitantes-año,1450292.0,1450292.0,0.0,cumple
+anio_departamento,2023|Cajamarca,Población del año,1450292.0,1450292.0,0.0,cumple
+anio_departamento,2023|Cajamarca,Tasa por 100 mil (anual),1763.1621769960807,1763.16217699608,3.8687367233105774e-16,cumple
+anio_departamento,2023|Callao,Denuncias,37580.0,37580.0,0.0,cumple
+anio_departamento,2023|Callao,Habitantes-año,1190860.0,1190860.0,0.0,cumple
+anio_departamento,2023|Callao,Población del año,1190860.0,1190860.0,0.0,cumple
+anio_departamento,2023|Callao,Tasa por 100 mil (anual),3155.7026014812827,3155.70260148128,8.646201654230781e-16,cumple
+anio_departamento,2023|Cusco,Denuncias,40158.0,40158.0,0.0,cumple
+anio_departamento,2023|Cusco,Habitantes-año,1378523.0,1378523.0,0.0,cumple
+anio_departamento,2023|Cusco,Población del año,1378523.0,1378523.0,0.0,cumple
+anio_departamento,2023|Cusco,Tasa por 100 mil (anual),2913.1178805141444,2913.11788051414,1.5610331251209254e-15,cumple
+anio_departamento,2023|Huancavelica,Denuncias,4395.0,4395.0,0.0,cumple
+anio_departamento,2023|Huancavelica,Habitantes-año,327959.0,327959.0,0.0,cumple
+anio_departamento,2023|Huancavelica,Población del año,327959.0,327959.0,0.0,cumple
+anio_departamento,2023|Huancavelica,Tasa por 100 mil (anual),1340.1065377074574,1340.10653770746,1.8663519350888653e-15,cumple
+anio_departamento,2023|Huánuco,Denuncias,21424.0,21424.0,0.0,cumple
+anio_departamento,2023|Huánuco,Habitantes-año,721050.0,721050.0,0.0,cumple
+anio_departamento,2023|Huánuco,Población del año,721050.0,721050.0,0.0,cumple
+anio_departamento,2023|Huánuco,Tasa por 100 mil (anual),2971.222522709937,2971.22252270994,1.0713541082415957e-15,cumple
+anio_departamento,2023|Ica,Denuncias,36704.0,36704.0,0.0,cumple
+anio_departamento,2023|Ica,Habitantes-año,1041312.0,1041312.0,0.0,cumple
+anio_departamento,2023|Ica,Población del año,1041312.0,1041312.0,0.0,cumple
+anio_departamento,2023|Ica,Tasa por 100 mil (anual),3524.7841184966655,3524.78411849667,1.2901424189360444e-15,cumple
+anio_departamento,2023|Junín,Denuncias,47163.0,47163.0,0.0,cumple
+anio_departamento,2023|Junín,Habitantes-año,1371202.0,1371202.0,0.0,cumple
+anio_departamento,2023|Junín,Población del año,1371202.0,1371202.0,0.0,cumple
+anio_departamento,2023|Junín,Tasa por 100 mil (anual),3439.536990173585,3439.53699017358,1.4543297176457043e-15,cumple
+anio_departamento,2023|La Libertad,Denuncias,56880.0,56880.0,0.0,cumple
+anio_departamento,2023|La Libertad,Habitantes-año,2104254.0,2104254.0,0.0,cumple
+anio_departamento,2023|La Libertad,Población del año,2104254.0,2104254.0,0.0,cumple
+anio_departamento,2023|La Libertad,Tasa por 100 mil (anual),2703.095728937666,2703.09572893767,1.5140885001459584e-15,cumple
+anio_departamento,2023|Lambayeque,Denuncias,62773.0,62773.0,0.0,cumple
+anio_departamento,2023|Lambayeque,Habitantes-año,1350663.0,1350663.0,0.0,cumple
+anio_departamento,2023|Lambayeque,Población del año,1350663.0,1350663.0,0.0,cumple
+anio_departamento,2023|Lambayeque,Tasa por 100 mil (anual),4647.569378890219,4647.56937889022,1.9569254972372335e-16,cumple
+anio_departamento,2023|Lima Metropolitana,Denuncias,377345.0,377345.0,0.0,cumple
+anio_departamento,2023|Lima Metropolitana,Habitantes-año,10151207.0,10151207.0,0.0,cumple
+anio_departamento,2023|Lima Metropolitana,Población del año,10151207.0,10151207.0,0.0,cumple
+anio_departamento,2023|Lima Metropolitana,Tasa por 100 mil (anual),3717.2426884802962,3717.2426884803,9.78676699900649e-16,cumple
+anio_departamento,2023|Loreto,Denuncias,16097.0,16097.0,0.0,cumple
+anio_departamento,2023|Loreto,Habitantes-año,1047118.0,1047118.0,0.0,cumple
+anio_departamento,2023|Loreto,Población del año,1047118.0,1047118.0,0.0,cumple
+anio_departamento,2023|Loreto,Tasa por 100 mil (anual),1537.267051086888,1537.26705108689,1.331169543731687e-15,cumple
+anio_departamento,2023|Madre de Dios,Denuncias,6769.0,6769.0,0.0,cumple
+anio_departamento,2023|Madre de Dios,Habitantes-año,191259.0,191259.0,0.0,cumple
+anio_departamento,2023|Madre de Dios,Población del año,191259.0,191259.0,0.0,cumple
+anio_departamento,2023|Madre de Dios,Tasa por 100 mil (anual),3539.1798555884952,3539.1798555885,1.284894719798999e-15,cumple
+anio_departamento,2023|Moquegua,Denuncias,7660.0,7660.0,0.0,cumple
+anio_departamento,2023|Moquegua,Habitantes-año,198883.0,198883.0,0.0,cumple
+anio_departamento,2023|Moquegua,Población del año,198883.0,198883.0,0.0,cumple
+anio_departamento,2023|Moquegua,Tasa por 100 mil (anual),3851.5106871879443,3851.51068718794,1.0626287943566239e-15,cumple
+anio_departamento,2023|Pasco,Denuncias,5345.0,5345.0,0.0,cumple
+anio_departamento,2023|Pasco,Habitantes-año,267425.0,267425.0,0.0,cumple
+anio_departamento,2023|Pasco,Población del año,267425.0,267425.0,0.0,cumple
+anio_departamento,2023|Pasco,Tasa por 100 mil (anual),1998.6912218378984,1998.6912218379,7.963289730361915e-16,cumple
+anio_departamento,2023|Piura,Denuncias,52881.0,52881.0,0.0,cumple
+anio_departamento,2023|Piura,Habitantes-año,2127093.0,2127093.0,0.0,cumple
+anio_departamento,2023|Piura,Población del año,2127093.0,2127093.0,0.0,cumple
+anio_departamento,2023|Piura,Tasa por 100 mil (anual),2486.069015318089,2486.06901531809,3.6583646558845014e-16,cumple
+anio_departamento,2023|Puno,Denuncias,19160.0,19160.0,0.0,cumple
+anio_departamento,2023|Puno,Habitantes-año,1217951.0,1217951.0,0.0,cumple
+anio_departamento,2023|Puno,Población del año,1217951.0,1217951.0,0.0,cumple
+anio_departamento,2023|Puno,Tasa por 100 mil (anual),1573.1338945491239,1573.13389454912,2.4571032992984962e-15,cumple
+anio_departamento,2023|Región Lima,Denuncias,29298.0,29298.0,0.0,cumple
+anio_departamento,2023|Región Lima,Habitantes-año,996234.0,996234.0,0.0,cumple
+anio_departamento,2023|Región Lima,Población del año,996234.0,996234.0,0.0,cumple
+anio_departamento,2023|Región Lima,Tasa por 100 mil (anual),2940.8753365173243,2940.87533651732,1.391669380595e-15,cumple
+anio_departamento,2023|San Martín,Denuncias,19440.0,19440.0,0.0,cumple
+anio_departamento,2023|San Martín,Habitantes-año,935194.0,935194.0,0.0,cumple
+anio_departamento,2023|San Martín,Población del año,935194.0,935194.0,0.0,cumple
+anio_departamento,2023|San Martín,Tasa por 100 mil (anual),2078.71307985295,2078.71307985295,0.0,cumple
+anio_departamento,2023|Tacna,Denuncias,13203.0,13203.0,0.0,cumple
+anio_departamento,2023|Tacna,Habitantes-año,390279.0,390279.0,0.0,cumple
+anio_departamento,2023|Tacna,Población del año,390279.0,390279.0,0.0,cumple
+anio_departamento,2023|Tacna,Tasa por 100 mil (anual),3382.9644946307644,3382.96449463076,1.3442273828419172e-15,cumple
+anio_departamento,2023|Tumbes,Denuncias,8972.0,8972.0,0.0,cumple
+anio_departamento,2023|Tumbes,Habitantes-año,263164.0,263164.0,0.0,cumple
+anio_departamento,2023|Tumbes,Población del año,263164.0,263164.0,0.0,cumple
+anio_departamento,2023|Tumbes,Tasa por 100 mil (anual),3409.280904683011,3409.28090468301,4.0015536730501155e-16,cumple
+anio_departamento,2023|Ucayali,Denuncias,13251.0,13251.0,0.0,cumple
+anio_departamento,2023|Ucayali,Habitantes-año,627233.0,627233.0,0.0,cumple
+anio_departamento,2023|Ucayali,Población del año,627233.0,627233.0,0.0,cumple
+anio_departamento,2023|Ucayali,Tasa por 100 mil (anual),2112.6120596333417,2112.61205963334,8.610143993315813e-16,cumple
+anio_departamento,2023|Áncash,Denuncias,31506.0,31506.0,0.0,cumple
+anio_departamento,2023|Áncash,Habitantes-año,1198283.0,1198283.0,0.0,cumple
+anio_departamento,2023|Áncash,Población del año,1198283.0,1198283.0,0.0,cumple
+anio_departamento,2023|Áncash,Tasa por 100 mil (anual),2629.2620357628375,2629.26203576284,8.647813430176551e-16,cumple
+anio_departamento,2024|Amazonas,Denuncias,9805.0,9805.0,0.0,cumple
+anio_departamento,2024|Amazonas,Habitantes-año,430126.0,430126.0,0.0,cumple
+anio_departamento,2024|Amazonas,Población del año,430126.0,430126.0,0.0,cumple
+anio_departamento,2024|Amazonas,Tasa por 100 mil (anual),2279.5645927007436,2279.56459270074,1.5959095077808568e-15,cumple
+anio_departamento,2024|Apurímac,Denuncias,12115.0,12115.0,0.0,cumple
+anio_departamento,2024|Apurímac,Habitantes-año,415733.0,415733.0,0.0,cumple
+anio_departamento,2024|Apurímac,Población del año,415733.0,415733.0,0.0,cumple
+anio_departamento,2024|Apurímac,Tasa por 100 mil (anual),2914.1299824647067,2914.12998246471,1.0923436755943679e-15,cumple
+anio_departamento,2024|Arequipa,Denuncias,67988.0,67988.0,0.0,cumple
+anio_departamento,2024|Arequipa,Habitantes-año,1605570.0,1605570.0,0.0,cumple
+anio_departamento,2024|Arequipa,Población del año,1605570.0,1605570.0,0.0,cumple
+anio_departamento,2024|Arequipa,Tasa por 100 mil (anual),4234.508616877495,4234.5086168775,1.073908195803348e-15,cumple
+anio_departamento,2024|Ayacucho,Denuncias,17467.0,17467.0,0.0,cumple
+anio_departamento,2024|Ayacucho,Habitantes-año,651969.0,651969.0,0.0,cumple
+anio_departamento,2024|Ayacucho,Población del año,651969.0,651969.0,0.0,cumple
+anio_departamento,2024|Ayacucho,Tasa por 100 mil (anual),2679.1151113013043,2679.1151113013,1.527641026215649e-15,cumple
+anio_departamento,2024|Cajamarca,Denuncias,25747.0,25747.0,0.0,cumple
+anio_departamento,2024|Cajamarca,Habitantes-año,1446591.0,1446591.0,0.0,cumple
+anio_departamento,2024|Cajamarca,Población del año,1446591.0,1446591.0,0.0,cumple
+anio_departamento,2024|Cajamarca,Tasa por 100 mil (anual),1779.8396367736284,1779.83963677363,8.942467035894292e-16,cumple
+anio_departamento,2024|Callao,Denuncias,34536.0,34536.0,0.0,cumple
+anio_departamento,2024|Callao,Habitantes-año,1209614.0,1209614.0,0.0,cumple
+anio_departamento,2024|Callao,Población del año,1209614.0,1209614.0,0.0,cumple
+anio_departamento,2024|Callao,Tasa por 100 mil (anual),2855.1256847225645,2855.12568472256,1.59274021917761e-15,cumple
+anio_departamento,2024|Cusco,Denuncias,39998.0,39998.0,0.0,cumple
+anio_departamento,2024|Cusco,Habitantes-año,1386734.0,1386734.0,0.0,cumple
+anio_departamento,2024|Cusco,Población del año,1386734.0,1386734.0,0.0,cumple
+anio_departamento,2024|Cusco,Tasa por 100 mil (anual),2884.3310973842135,2884.33109738421,1.261290290282894e-15,cumple
+anio_departamento,2024|Huancavelica,Denuncias,4318.0,4318.0,0.0,cumple
+anio_departamento,2024|Huancavelica,Habitantes-año,320456.0,320456.0,0.0,cumple
+anio_departamento,2024|Huancavelica,Población del año,320456.0,320456.0,0.0,cumple
+anio_departamento,2024|Huancavelica,Tasa por 100 mil (anual),1347.4548768005593,1347.45487680056,5.062292163351299e-16,cumple
+anio_departamento,2024|Huánuco,Denuncias,20693.0,20693.0,0.0,cumple
+anio_departamento,2024|Huánuco,Habitantes-año,716735.0,716735.0,0.0,cumple
+anio_departamento,2024|Huánuco,Población del año,716735.0,716735.0,0.0,cumple
+anio_departamento,2024|Huánuco,Tasa por 100 mil (anual),2887.1200652960997,2887.1200652961,1.575089849406127e-16,cumple
+anio_departamento,2024|Ica,Denuncias,33367.0,33367.0,0.0,cumple
+anio_departamento,2024|Ica,Habitantes-año,1062346.0,1062346.0,0.0,cumple
+anio_departamento,2024|Ica,Población del año,1062346.0,1062346.0,0.0,cumple
+anio_departamento,2024|Ica,Tasa por 100 mil (anual),3140.878772076141,3140.87877207614,2.895669549104394e-16,cumple
+anio_departamento,2024|Junín,Denuncias,40562.0,40562.0,0.0,cumple
+anio_departamento,2024|Junín,Habitantes-año,1373643.0,1373643.0,0.0,cumple
+anio_departamento,2024|Junín,Población del año,1373643.0,1373643.0,0.0,cumple
+anio_departamento,2024|Junín,Tasa por 100 mil (anual),2952.877858366402,2952.8778583664,7.700070451577034e-16,cumple
+anio_departamento,2024|La Libertad,Denuncias,57477.0,57477.0,0.0,cumple
+anio_departamento,2024|La Libertad,Habitantes-año,2130144.0,2130144.0,0.0,cumple
+anio_departamento,2024|La Libertad,Población del año,2130144.0,2130144.0,0.0,cumple
+anio_departamento,2024|La Libertad,Tasa por 100 mil (anual),2698.2682860877007,2698.2682860877,3.370660754759978e-16,cumple
+anio_departamento,2024|Lambayeque,Denuncias,62995.0,62995.0,0.0,cumple
+anio_departamento,2024|Lambayeque,Habitantes-año,1361554.0,1361554.0,0.0,cumple
+anio_departamento,2024|Lambayeque,Población del año,1361554.0,1361554.0,0.0,cumple
+anio_departamento,2024|Lambayeque,Tasa por 100 mil (anual),4626.69861055823,4626.69861055823,0.0,cumple
+anio_departamento,2024|Lima Metropolitana,Denuncias,368677.0,368677.0,0.0,cumple
+anio_departamento,2024|Lima Metropolitana,Habitantes-año,10292408.0,10292408.0,0.0,cumple
+anio_departamento,2024|Lima Metropolitana,Población del año,10292408.0,10292408.0,0.0,cumple
+anio_departamento,2024|Lima Metropolitana,Tasa por 100 mil (anual),3582.028617598525,3582.02861759853,1.3964770787076262e-15,cumple
+anio_departamento,2024|Loreto,Denuncias,15895.0,15895.0,0.0,cumple
+anio_departamento,2024|Loreto,Habitantes-año,1053164.0,1053164.0,0.0,cumple
+anio_departamento,2024|Loreto,Población del año,1053164.0,1053164.0,0.0,cumple
+anio_departamento,2024|Loreto,Tasa por 100 mil (anual),1509.2616154748928,1509.26161547489,1.807827137020417e-15,cumple
+anio_departamento,2024|Madre de Dios,Denuncias,7747.0,7747.0,0.0,cumple
+anio_departamento,2024|Madre de Dios,Habitantes-año,197096.0,197096.0,0.0,cumple
+anio_departamento,2024|Madre de Dios,Población del año,197096.0,197096.0,0.0,cumple
+anio_departamento,2024|Madre de Dios,Tasa por 100 mil (anual),3930.571904046759,3930.57190404676,3.470848736426431e-16,cumple
+anio_departamento,2024|Moquegua,Denuncias,7323.0,7323.0,0.0,cumple
+anio_departamento,2024|Moquegua,Habitantes-año,200753.0,200753.0,0.0,cumple
+anio_departamento,2024|Moquegua,Población del año,200753.0,200753.0,0.0,cumple
+anio_departamento,2024|Moquegua,Tasa por 100 mil (anual),3647.7661604060713,3647.76616040607,3.739938342175761e-16,cumple
+anio_departamento,2024|Pasco,Denuncias,4845.0,4845.0,0.0,cumple
+anio_departamento,2024|Pasco,Habitantes-año,265392.0,265392.0,0.0,cumple
+anio_departamento,2024|Pasco,Población del año,265392.0,265392.0,0.0,cumple
+anio_departamento,2024|Pasco,Tasa por 100 mil (anual),1825.6013745704468,1825.60137457045,1.7436618423637222e-15,cumple
+anio_departamento,2024|Piura,Denuncias,49731.0,49731.0,0.0,cumple
+anio_departamento,2024|Piura,Habitantes-año,2149978.0,2149978.0,0.0,cumple
+anio_departamento,2024|Piura,Población del año,2149978.0,2149978.0,0.0,cumple
+anio_departamento,2024|Piura,Tasa por 100 mil (anual),2313.0934363049296,2313.09343630493,1.965970521333129e-16,cumple
+anio_departamento,2024|Puno,Denuncias,20996.0,20996.0,0.0,cumple
+anio_departamento,2024|Puno,Habitantes-año,1208802.0,1208802.0,0.0,cumple
+anio_departamento,2024|Puno,Población del año,1208802.0,1208802.0,0.0,cumple
+anio_departamento,2024|Puno,Tasa por 100 mil (anual),1736.9263121669223,1736.92631216692,1.3090576949091722e-15,cumple
+anio_departamento,2024|Región Lima,Denuncias,28248.0,28248.0,0.0,cumple
+anio_departamento,2024|Región Lima,Habitantes-año,1012122.0,1012122.0,0.0,cumple
+anio_departamento,2024|Región Lima,Población del año,1012122.0,1012122.0,0.0,cumple
+anio_departamento,2024|Región Lima,Tasa por 100 mil (anual),2790.9678872705067,2790.96788727051,1.1405475035108217e-15,cumple
+anio_departamento,2024|San Martín,Denuncias,19914.0,19914.0,0.0,cumple
+anio_departamento,2024|San Martín,Habitantes-año,945522.0,945522.0,0.0,cumple
+anio_departamento,2024|San Martín,Población del año,945522.0,945522.0,0.0,cumple
+anio_departamento,2024|San Martín,Tasa por 100 mil (anual),2106.13819667866,2106.13819667866,0.0,cumple
+anio_departamento,2024|Tacna,Denuncias,12134.0,12134.0,0.0,cumple
+anio_departamento,2024|Tacna,Habitantes-año,396180.0,396180.0,0.0,cumple
+anio_departamento,2024|Tacna,Población del año,396180.0,396180.0,0.0,cumple
+anio_departamento,2024|Tacna,Tasa por 100 mil (anual),3062.7492553889647,3062.74925538896,1.4847684644321688e-15,cumple
+anio_departamento,2024|Tumbes,Denuncias,7960.0,7960.0,0.0,cumple
+anio_departamento,2024|Tumbes,Habitantes-año,266653.0,266653.0,0.0,cumple
+anio_departamento,2024|Tumbes,Población del año,266653.0,266653.0,0.0,cumple
+anio_departamento,2024|Tumbes,Tasa por 100 mil (anual),2985.152989090691,2985.15298909069,3.0467272702494553e-16,cumple
+anio_departamento,2024|Ucayali,Denuncias,12539.0,12539.0,0.0,cumple
+anio_departamento,2024|Ucayali,Habitantes-año,639279.0,639279.0,0.0,cumple
+anio_departamento,2024|Ucayali,Población del año,639279.0,639279.0,0.0,cumple
+anio_departamento,2024|Ucayali,Tasa por 100 mil (anual),1961.4284217063287,1961.42842170633,6.955349670484438e-16,cumple
+anio_departamento,2024|Áncash,Denuncias,31238.0,31238.0,0.0,cumple
+anio_departamento,2024|Áncash,Habitantes-año,1201920.0,1201920.0,0.0,cumple
+anio_departamento,2024|Áncash,Población del año,1201920.0,1201920.0,0.0,cumple
+anio_departamento,2024|Áncash,Tasa por 100 mil (anual),2599.008253461129,2599.00825346113,5.249087034804971e-16,cumple
+anio_departamento,2025|Amazonas,Denuncias,8597.0,8597.0,0.0,cumple
+anio_departamento,2025|Amazonas,Habitantes-año,430249.0,430249.0,0.0,cumple
+anio_departamento,2025|Amazonas,Población del año,430249.0,430249.0,0.0,cumple
+anio_departamento,2025|Amazonas,Tasa por 100 mil (anual),1998.1452600703315,1998.14526007033,6.827541920607781e-16,cumple
+anio_departamento,2025|Apurímac,Denuncias,11974.0,11974.0,0.0,cumple
+anio_departamento,2025|Apurímac,Habitantes-año,413887.0,413887.0,0.0,cumple
+anio_departamento,2025|Apurímac,Población del año,413887.0,413887.0,0.0,cumple
+anio_departamento,2025|Apurímac,Tasa por 100 mil (anual),2893.060183093453,2893.06018309345,9.431134966578218e-16,cumple
+anio_departamento,2025|Arequipa,Denuncias,56446.0,56446.0,0.0,cumple
+anio_departamento,2025|Arequipa,Habitantes-año,1631138.0,1631138.0,0.0,cumple
+anio_departamento,2025|Arequipa,Población del año,1631138.0,1631138.0,0.0,cumple
+anio_departamento,2025|Arequipa,Tasa por 100 mil (anual),3460.528784198517,3460.52878419852,9.198685099053461e-16,cumple
+anio_departamento,2025|Ayacucho,Denuncias,15167.0,15167.0,0.0,cumple
+anio_departamento,2025|Ayacucho,Habitantes-año,651457.0,651457.0,0.0,cumple
+anio_departamento,2025|Ayacucho,Población del año,651457.0,651457.0,0.0,cumple
+anio_departamento,2025|Ayacucho,Tasa por 100 mil (anual),2328.165941881045,2328.16594188105,2.1485671488302737e-15,cumple
+anio_departamento,2025|Cajamarca,Denuncias,22222.0,22222.0,0.0,cumple
+anio_departamento,2025|Cajamarca,Habitantes-año,1442750.0,1442750.0,0.0,cumple
+anio_departamento,2025|Cajamarca,Población del año,1442750.0,1442750.0,0.0,cumple
+anio_departamento,2025|Cajamarca,Tasa por 100 mil (anual),1540.2529890833478,1540.25298908335,1.4762099282050358e-15,cumple
+anio_departamento,2025|Callao,Denuncias,29889.0,29889.0,0.0,cumple
+anio_departamento,2025|Callao,Habitantes-año,1228411.0,1228411.0,0.0,cumple
+anio_departamento,2025|Callao,Población del año,1228411.0,1228411.0,0.0,cumple
+anio_departamento,2025|Callao,Tasa por 100 mil (anual),2433.143304643153,2433.14330464315,1.3082794795237532e-15,cumple
+anio_departamento,2025|Cusco,Denuncias,36271.0,36271.0,0.0,cumple
+anio_departamento,2025|Cusco,Habitantes-año,1394772.0,1394772.0,0.0,cumple
+anio_departamento,2025|Cusco,Población del año,1394772.0,1394772.0,0.0,cumple
+anio_departamento,2025|Cusco,Tasa por 100 mil (anual),2600.49671200741,2600.49671200741,0.0,cumple
+anio_departamento,2025|Huancavelica,Denuncias,3839.0,3839.0,0.0,cumple
+anio_departamento,2025|Huancavelica,Habitantes-año,313121.0,313121.0,0.0,cumple
+anio_departamento,2025|Huancavelica,Población del año,313121.0,313121.0,0.0,cumple
+anio_departamento,2025|Huancavelica,Tasa por 100 mil (anual),1226.043606145867,1226.04360614587,2.410891232534471e-15,cumple
+anio_departamento,2025|Huánuco,Denuncias,18991.0,18991.0,0.0,cumple
+anio_departamento,2025|Huánuco,Habitantes-año,712394.0,712394.0,0.0,cumple
+anio_departamento,2025|Huánuco,Población del año,712394.0,712394.0,0.0,cumple
+anio_departamento,2025|Huánuco,Tasa por 100 mil (anual),2665.800104998077,2665.80010499808,1.0235141412903323e-15,cumple
+anio_departamento,2025|Ica,Denuncias,32704.0,32704.0,0.0,cumple
+anio_departamento,2025|Ica,Habitantes-año,1083566.0,1083566.0,0.0,cumple
+anio_departamento,2025|Ica,Población del año,1083566.0,1083566.0,0.0,cumple
+anio_departamento,2025|Ica,Tasa por 100 mil (anual),3018.182556484792,3018.18255648479,6.02677064592273e-16,cumple
+anio_departamento,2025|Junín,Denuncias,32758.0,32758.0,0.0,cumple
+anio_departamento,2025|Junín,Habitantes-año,1375907.0,1375907.0,0.0,cumple
+anio_departamento,2025|Junín,Población del año,1375907.0,1375907.0,0.0,cumple
+anio_departamento,2025|Junín,Tasa por 100 mil (anual),2380.8295182741276,2380.82951827413,9.550187180477169e-16,cumple
+anio_departamento,2025|La Libertad,Denuncias,47812.0,47812.0,0.0,cumple
+anio_departamento,2025|La Libertad,Habitantes-año,2155943.0,2155943.0,0.0,cumple
+anio_departamento,2025|La Libertad,Población del año,2155943.0,2155943.0,0.0,cumple
+anio_departamento,2025|La Libertad,Tasa por 100 mil (anual),2217.683862699524,2217.68386269952,1.8454957565485538e-15,cumple
+anio_departamento,2025|Lambayeque,Denuncias,60519.0,60519.0,0.0,cumple
+anio_departamento,2025|Lambayeque,Habitantes-año,1372301.0,1372301.0,0.0,cumple
+anio_departamento,2025|Lambayeque,Población del año,1372301.0,1372301.0,0.0,cumple
+anio_departamento,2025|Lambayeque,Tasa por 100 mil (anual),4410.038322496303,4410.0383224963,8.249313364316603e-16,cumple
+anio_departamento,2025|Lima Metropolitana,Denuncias,324640.0,324640.0,0.0,cumple
+anio_departamento,2025|Lima Metropolitana,Habitantes-año,10432133.0,10432133.0,0.0,cumple
+anio_departamento,2025|Lima Metropolitana,Población del año,10432133.0,10432133.0,0.0,cumple
+anio_departamento,2025|Lima Metropolitana,Tasa por 100 mil (anual),3111.92351554567,3111.92351554567,0.0,cumple
+anio_departamento,2025|Loreto,Denuncias,16154.0,16154.0,0.0,cumple
+anio_departamento,2025|Loreto,Habitantes-año,1059082.0,1059082.0,0.0,cumple
+anio_departamento,2025|Loreto,Población del año,1059082.0,1059082.0,0.0,cumple
+anio_departamento,2025|Loreto,Tasa por 100 mil (anual),1525.2832169747007,1525.2832169747,4.472094223147872e-16,cumple
+anio_departamento,2025|Madre de Dios,Denuncias,8372.0,8372.0,0.0,cumple
+anio_departamento,2025|Madre de Dios,Habitantes-año,203069.0,203069.0,0.0,cumple
+anio_departamento,2025|Madre de Dios,Población del año,203069.0,203069.0,0.0,cumple
+anio_departamento,2025|Madre de Dios,Tasa por 100 mil (anual),4122.736606769127,4122.73660676913,6.618138303666751e-16,cumple
+anio_departamento,2025|Moquegua,Denuncias,6364.0,6364.0,0.0,cumple
+anio_departamento,2025|Moquegua,Habitantes-año,202595.0,202595.0,0.0,cumple
+anio_departamento,2025|Moquegua,Población del año,202595.0,202595.0,0.0,cumple
+anio_departamento,2025|Moquegua,Tasa por 100 mil (anual),3141.2423801179693,3141.24238011797,1.447667183419912e-16,cumple
+anio_departamento,2025|Pasco,Denuncias,4195.0,4195.0,0.0,cumple
+anio_departamento,2025|Pasco,Habitantes-año,263354.0,263354.0,0.0,cumple
+anio_departamento,2025|Pasco,Población del año,263354.0,263354.0,0.0,cumple
+anio_departamento,2025|Pasco,Tasa por 100 mil (anual),1592.912961261268,1592.91296126127,1.2846672283768593e-15,cumple
+anio_departamento,2025|Piura,Denuncias,40621.0,40621.0,0.0,cumple
+anio_departamento,2025|Piura,Habitantes-año,2172710.0,2172710.0,0.0,cumple
+anio_departamento,2025|Piura,Población del año,2172710.0,2172710.0,0.0,cumple
+anio_departamento,2025|Piura,Tasa por 100 mil (anual),1869.6006369925117,1869.60063699251,8.513132144964065e-16,cumple
+anio_departamento,2025|Puno,Denuncias,15861.0,15861.0,0.0,cumple
+anio_departamento,2025|Puno,Habitantes-año,1199636.0,1199636.0,0.0,cumple
+anio_departamento,2025|Puno,Población del año,1199636.0,1199636.0,0.0,cumple
+anio_departamento,2025|Puno,Tasa por 100 mil (anual),1322.1510524859207,1322.15105248592,5.159176215510065e-16,cumple
+anio_departamento,2025|Región Lima,Denuncias,28138.0,28138.0,0.0,cumple
+anio_departamento,2025|Región Lima,Habitantes-año,1029413.0,1029413.0,0.0,cumple
+anio_departamento,2025|Región Lima,Población del año,1029413.0,1029413.0,0.0,cumple
+anio_departamento,2025|Región Lima,Tasa por 100 mil (anual),2733.4024342027933,2733.40243420279,1.164567433018201e-15,cumple
+anio_departamento,2025|San Martín,Denuncias,17837.0,17837.0,0.0,cumple
+anio_departamento,2025|San Martín,Habitantes-año,955787.0,955787.0,0.0,cumple
+anio_departamento,2025|San Martín,Población del año,955787.0,955787.0,0.0,cumple
+anio_departamento,2025|San Martín,Tasa por 100 mil (anual),1866.2107770873636,1866.21077708736,1.9493933117081163e-15,cumple
+anio_departamento,2025|Tacna,Denuncias,10864.0,10864.0,0.0,cumple
+anio_departamento,2025|Tacna,Habitantes-año,402090.0,402090.0,0.0,cumple
+anio_departamento,2025|Tacna,Población del año,402090.0,402090.0,0.0,cumple
+anio_departamento,2025|Tacna,Tasa por 100 mil (anual),2701.8826630853787,2701.88266308538,5.049227604508608e-16,cumple
+anio_departamento,2025|Tumbes,Denuncias,7732.0,7732.0,0.0,cumple
+anio_departamento,2025|Tumbes,Habitantes-año,270134.0,270134.0,0.0,cumple
+anio_departamento,2025|Tumbes,Población del año,270134.0,270134.0,0.0,cumple
+anio_departamento,2025|Tumbes,Tasa por 100 mil (anual),2862.283163170871,2862.28316317087,3.177514766796795e-16,cumple
+anio_departamento,2025|Ucayali,Denuncias,8709.0,8709.0,0.0,cumple
+anio_departamento,2025|Ucayali,Habitantes-año,651416.0,651416.0,0.0,cumple
+anio_departamento,2025|Ucayali,Población del año,651416.0,651416.0,0.0,cumple
+anio_departamento,2025|Ucayali,Tasa por 100 mil (anual),1336.9336952116619,1336.93369521166,1.3605681493859545e-15,cumple
+anio_departamento,2025|Áncash,Denuncias,28584.0,28584.0,0.0,cumple
+anio_departamento,2025|Áncash,Habitantes-año,1205400.0,1205400.0,0.0,cumple
+anio_departamento,2025|Áncash,Población del año,1205400.0,1205400.0,0.0,cumple
+anio_departamento,2025|Áncash,Tasa por 100 mil (anual),2371.329019412643,2371.32901941264,1.3423828705953705e-15,cumple
+anio_departamento,2026|Amazonas,Denuncias,4707.0,4707.0,0.0,cumple
+anio_departamento,2026|Amazonas,Habitantes-año,251010.08333333334,251010.083333333,1.391362294466143e-15,cumple
+anio_departamento,2026|Amazonas,Población del año,430303.0,430303.0,0.0,cumple
+anio_departamento,2026|Amazonas,Tasa por 100 mil (anual),1875.2234720982322,1875.22347209823,1.0912635797478389e-15,cumple
+anio_departamento,2026|Apurímac,Denuncias,5919.0,5919.0,0.0,cumple
+anio_departamento,2026|Apurímac,Habitantes-año,240402.16666666666,240402.166666667,1.452757145758411e-15,cumple
+anio_departamento,2026|Apurímac,Población del año,412118.0,412118.0,0.0,cumple
+anio_departamento,2026|Apurímac,Tasa por 100 mil (anual),2462.1242321027335,2462.12423210273,1.4775772723640194e-15,cumple
+anio_departamento,2026|Arequipa,Denuncias,32058.0,32058.0,0.0,cumple
+anio_departamento,2026|Arequipa,Habitantes-año,966432.8333333334,966432.833333333,3.6137634549957973e-16,cumple
+anio_departamento,2026|Arequipa,Población del año,1656742.0,1656742.0,0.0,cumple
+anio_departamento,2026|Arequipa,Tasa por 100 mil (anual),3317.147234063688,3317.14723406369,6.85449452192952e-16,cumple
+anio_departamento,2026|Ayacucho,Denuncias,8842.0,8842.0,0.0,cumple
+anio_departamento,2026|Ayacucho,Habitantes-año,379550.5,379550.5,0.0,cumple
+anio_departamento,2026|Ayacucho,Población del año,650658.0,650658.0,0.0,cumple
+anio_departamento,2026|Ayacucho,Tasa por 100 mil (anual),2329.597774209229,2329.59777420923,3.904084695829742e-16,cumple
+anio_departamento,2026|Cajamarca,Denuncias,11756.0,11756.0,0.0,cumple
+anio_departamento,2026|Cajamarca,Habitantes-año,839220.6666666666,839220.666666667,4.161551059842081e-16,cumple
+anio_departamento,2026|Cajamarca,Población del año,1438664.0,1438664.0,0.0,cumple
+anio_departamento,2026|Cajamarca,Tasa por 100 mil (anual),1400.8234624028166,1400.82346240282,2.4347144541670572e-15,cumple
+anio_departamento,2026|Callao,Denuncias,16476.0,16476.0,0.0,cumple
+anio_departamento,2026|Callao,Habitantes-año,727549.0833333334,727549.083333333,4.8003079583401e-16,cumple
+anio_departamento,2026|Callao,Población del año,1247227.0,1247227.0,0.0,cumple
+anio_departamento,2026|Callao,Tasa por 100 mil (anual),2264.5894795872305,2264.58947958723,2.008078528075435e-16,cumple
+anio_departamento,2026|Cusco,Denuncias,18832.0,18832.0,0.0,cumple
+anio_departamento,2026|Cusco,Habitantes-año,818220.0833333334,818220.083333333,4.268362175345502e-16,cumple
+anio_departamento,2026|Cusco,Población del año,1402663.0,1402663.0,0.0,cumple
+anio_departamento,2026|Cusco,Tasa por 100 mil (anual),2301.5812473437004,2301.5812473437,1.9758040321683053e-16,cumple
+anio_departamento,2026|Huancavelica,Denuncias,1963.0,1963.0,0.0,cumple
+anio_departamento,2026|Huancavelica,Habitantes-año,178294.08333333334,178294.083333333,1.9588197148856844e-15,cumple
+anio_departamento,2026|Huancavelica,Población del año,305647.0,305647.0,0.0,cumple
+anio_departamento,2026|Huancavelica,Tasa por 100 mil (anual),1100.9899842441957,1100.9899842442,3.923832092248376e-15,cumple
+anio_departamento,2026|Huánuco,Denuncias,10554.0,10554.0,0.0,cumple
+anio_departamento,2026|Huánuco,Habitantes-año,412812.1666666667,412812.166666667,7.050138733007394e-16,cumple
+anio_departamento,2026|Huánuco,Población del año,707678.0,707678.0,0.0,cumple
+anio_departamento,2026|Huánuco,Tasa por 100 mil (anual),2556.6106942099977,2556.61069421,8.89355880260414e-16,cumple
+anio_departamento,2026|Ica,Denuncias,19163.0,19163.0,0.0,cumple
+anio_departamento,2026|Ica,Habitantes-año,644558.25,644558.25,0.0,cumple
+anio_departamento,2026|Ica,Población del año,1104957.0,1104957.0,0.0,cumple
+anio_departamento,2026|Ica,Tasa por 100 mil (anual),2973.043941335015,2973.04394133502,1.6825250344281522e-15,cumple
+anio_departamento,2026|Junín,Denuncias,18126.0,18126.0,0.0,cumple
+anio_departamento,2026|Junín,Habitantes-año,803951.75,803951.75,0.0,cumple
+anio_departamento,2026|Junín,Población del año,1378203.0,1378203.0,0.0,cumple
+anio_departamento,2026|Junín,Tasa por 100 mil (anual),2254.6129167577533,2254.61291675775,1.4118749309672615e-15,cumple
+anio_departamento,2026|La Libertad,Denuncias,23994.0,23994.0,0.0,cumple
+anio_departamento,2026|La Libertad,Habitantes-año,1272595.3333333333,1272595.33333333,2.5614026122633706e-15,cumple
+anio_departamento,2026|La Libertad,Población del año,2181592.0,2181592.0,0.0,cumple
+anio_departamento,2026|La Libertad,Tasa por 100 mil (anual),1885.4383142481008,1885.4383142481,4.823783917511129e-16,cumple
+anio_departamento,2026|Lambayeque,Denuncias,34493.0,34493.0,0.0,cumple
+anio_departamento,2026|Lambayeque,Habitantes-año,806667.1666666666,806667.166666667,4.3294927562747934e-16,cumple
+anio_departamento,2026|Lambayeque,Población del año,1382858.0,1382858.0,0.0,cumple
+anio_departamento,2026|Lambayeque,Tasa por 100 mil (anual),4275.989085130733,4275.98908513073,6.380942633382248e-16,cumple
+anio_departamento,2026|Lima Metropolitana,Denuncias,180983.0,180983.0,0.0,cumple
+anio_departamento,2026|Lima Metropolitana,Habitantes-año,6165888.166666667,6165888.16666667,4.531330520963501e-16,cumple
+anio_departamento,2026|Lima Metropolitana,Población del año,10570094.0,10570094.0,0.0,cumple
+anio_departamento,2026|Lima Metropolitana,Tasa por 100 mil (anual),2935.230012415892,2935.23001241589,6.197093228985846e-16,cumple
+anio_departamento,2026|Loreto,Denuncias,7426.0,7426.0,0.0,cumple
+anio_departamento,2026|Loreto,Habitantes-año,621161.9166666666,621161.916666667,5.622462615785569e-16,cumple
+anio_departamento,2026|Loreto,Población del año,1064849.0,1064849.0,0.0,cumple
+anio_departamento,2026|Loreto,Tasa por 100 mil (anual),1195.5014949805761,1195.50149498058,3.233247719692519e-15,cumple
+anio_departamento,2026|Madre de Dios,Denuncias,4389.0,4389.0,0.0,cumple
+anio_departamento,2026|Madre de Dios,Habitantes-año,122012.91666666667,122012.916666667,2.7431034303261957e-15,cumple
+anio_departamento,2026|Madre de Dios,Población del año,209165.0,209165.0,0.0,cumple
+anio_departamento,2026|Madre de Dios,Tasa por 100 mil (anual),3597.1601367341573,3597.16013673416,7.585106032549224e-16,cumple
+anio_departamento,2026|Moquegua,Denuncias,3814.0,3814.0,0.0,cumple
+anio_departamento,2026|Moquegua,Habitantes-año,119230.41666666667,119230.416666667,2.8071196898367312e-15,cumple
+anio_departamento,2026|Moquegua,Población del año,204395.0,204395.0,0.0,cumple
+anio_departamento,2026|Moquegua,Tasa por 100 mil (anual),3198.848168637058,3198.84816863706,7.107985857925536e-16,cumple
+anio_departamento,2026|Pasco,Denuncias,2205.0,2205.0,0.0,cumple
+anio_departamento,2026|Pasco,Habitantes-año,152423.83333333334,152423.833333333,2.2912818674297725e-15,cumple
+anio_departamento,2026|Pasco,Población del año,261298.0,261298.0,0.0,cumple
+anio_departamento,2026|Pasco,Tasa por 100 mil (anual),1446.6241609197161,1446.62416091972,2.6719811454534817e-15,cumple
+anio_departamento,2026|Piura,Denuncias,22841.0,22841.0,0.0,cumple
+anio_departamento,2026|Piura,Habitantes-año,1280549.6666666667,1280549.66666667,2.545492061732481e-15,cumple
+anio_departamento,2026|Piura,Población del año,2195228.0,2195228.0,0.0,cumple
+anio_departamento,2026|Piura,Tasa por 100 mil (anual),1783.68716142469,1783.68716142469,0.0,cumple
+anio_departamento,2026|Puno,Denuncias,8054.0,8054.0,0.0,cumple
+anio_departamento,2026|Puno,Habitantes-año,694383.6666666666,694383.666666667,5.029582091948271e-16,cumple
+anio_departamento,2026|Puno,Población del año,1190372.0,1190372.0,0.0,cumple
+anio_departamento,2026|Puno,Tasa por 100 mil (anual),1159.8775124798924,1159.87751247989,2.1563573765026434e-15,cumple
+anio_departamento,2026|Región Lima,Denuncias,15992.0,15992.0,0.0,cumple
+anio_departamento,2026|Región Lima,Habitantes-año,611410.9166666666,611410.916666667,5.712131660730697e-16,cumple
+anio_departamento,2026|Región Lima,Población del año,1048133.0,1048133.0,0.0,cumple
+anio_departamento,2026|Región Lima,Tasa por 100 mil (anual),2615.589542821106,2615.58954282111,1.5647432790864696e-15,cumple
+anio_departamento,2026|San Martín,Denuncias,9621.0,9621.0,0.0,cumple
+anio_departamento,2026|San Martín,Habitantes-año,563480.75,563480.75,0.0,cumple
+anio_departamento,2026|San Martín,Población del año,965967.0,965967.0,0.0,cumple
+anio_departamento,2026|San Martín,Tasa por 100 mil (anual),1707.4230131197917,1707.42301311979,9.321742274015828e-16,cumple
+anio_departamento,2026|Tacna,Denuncias,6625.0,6625.0,0.0,cumple
+anio_departamento,2026|Tacna,Habitantes-año,237997.66666666666,237997.666666667,1.4674344096404493e-15,cumple
+anio_departamento,2026|Tacna,Población del año,407996.0,407996.0,0.0,cumple
+anio_departamento,2026|Tacna,Tasa por 100 mil (anual),2783.6407359736017,2783.6407359736,6.534569565815934e-16,cumple
+anio_departamento,2026|Tumbes,Denuncias,4028.0,4028.0,0.0,cumple
+anio_departamento,2026|Tumbes,Habitantes-año,159602.33333333334,159602.333333333,2.188225937470449e-15,cumple
+anio_departamento,2026|Tumbes,Población del año,273604.0,273604.0,0.0,cumple
+anio_departamento,2026|Tumbes,Tasa por 100 mil (anual),2523.7726265489014,2523.7726265489,5.405566406054996e-16,cumple
+anio_departamento,2026|Ucayali,Denuncias,4653.0,4653.0,0.0,cumple
+anio_departamento,2026|Ucayali,Habitantes-año,387117.5,387117.5,0.0,cumple
+anio_departamento,2026|Ucayali,Población del año,663630.0,663630.0,0.0,cumple
+anio_departamento,2026|Ucayali,Tasa por 100 mil (anual),1201.9606450237977,1201.9606450238,1.891689851781547e-15,cumple
+anio_departamento,2026|Áncash,Denuncias,16754.0,16754.0,0.0,cumple
+anio_departamento,2026|Áncash,Habitantes-año,705052.8333333334,705052.833333333,4.953472264335809e-16,cumple
+anio_departamento,2026|Áncash,Población del año,1208662.0,1208662.0,0.0,cumple
+anio_departamento,2026|Áncash,Tasa por 100 mil (anual),2376.275820464518,2376.27582046452,9.568488366758062e-16,cumple
+departamento,Amazonas,Denuncias,77740.0,77740.0,0.0,cumple
+departamento,Amazonas,Denuncias ene–jul,46427.0,46427.0,0.0,cumple
+departamento,Amazonas,Distritos con denuncias,84.0,84.0,0.0,cumple
+departamento,Amazonas,Distritos para el 50 %,3.0,3.0,0.0,cumple
+departamento,Amazonas,Habitantes-año,3669825.0833333335,3669825.08333333,8.882246257343214e-16,cumple
+departamento,Amazonas,Meses cubiertos,103.0,103.0,0.0,cumple
+departamento,Amazonas,Participación del distrito líder,0.2754309235914587,0.275430923591459,1.0077145751723294e-15,cumple
+departamento,Amazonas,Participación top 10 distritos,0.7858374067404168,0.785837406740417,2.8255794776435047e-16,cumple
+departamento,Amazonas,Población (último año),430303.0,430303.0,0.0,cumple
+departamento,Amazonas,Tasa nacional,2589.297285771907,2589.29728577191,1.2293804476206685e-15,cumple
+departamento,Amazonas,Tasa por 100 mil (anual),2118.3570942675037,2118.3570942675,1.7173586157576853e-15,cumple
+departamento,Amazonas,Veces la tasa nacional,0.8181204629950365,0.818120462995036,5.428164065525359e-16,cumple
+departamento,Apurímac,Denuncias,97334.0,97334.0,0.0,cumple
+departamento,Apurímac,Denuncias ene–jul,57113.0,57113.0,0.0,cumple
+departamento,Apurímac,Distritos con denuncias,80.0,80.0,0.0,cumple
+departamento,Apurímac,Distritos para el 50 %,3.0,3.0,0.0,cumple
+departamento,Apurímac,Habitantes-año,3584119.1666666665,3584119.16666667,9.094644624178953e-16,cumple
+departamento,Apurímac,Meses cubiertos,103.0,103.0,0.0,cumple
+departamento,Apurímac,Participación del distrito líder,0.32929911438962745,0.329299114389627,1.3485891411314737e-15,cumple
+departamento,Apurímac,Participación top 10 distritos,0.7899192471284443,0.789919247128444,4.216467804757628e-16,cumple
+departamento,Apurímac,Población (último año),412118.0,412118.0,0.0,cumple
+departamento,Apurímac,Tasa nacional,2589.297285771907,2589.29728577191,1.2293804476206685e-15,cumple
+departamento,Apurímac,Tasa por 100 mil (anual),2715.7021146292805,2715.70211462928,1.674511163933536e-16,cumple
+departamento,Apurímac,Veces la tasa nacional,1.048818198494226,1.04881819849423,3.810768057217847e-15,cumple
+departamento,Arequipa,Denuncias,509069.0,509069.0,0.0,cumple
+departamento,Arequipa,Denuncias ene–jul,308204.0,308204.0,0.0,cumple
+departamento,Arequipa,Distritos con denuncias,109.0,109.0,0.0,cumple
+departamento,Arequipa,Distritos para el 50 %,6.0,6.0,0.0,cumple
+departamento,Arequipa,Habitantes-año,13254662.833333334,13254662.8333333,2.5294957033415215e-15,cumple
+departamento,Arequipa,Meses cubiertos,103.0,103.0,0.0,cumple
+departamento,Arequipa,Participación del distrito líder,0.12667634446410997,0.12667634446411,2.191062248681532e-16,cumple
+departamento,Arequipa,Participación top 10 distritos,0.6875138733649073,0.687513873364907,4.844511802466089e-16,cumple
+departamento,Arequipa,Población (último año),1656742.0,1656742.0,0.0,cumple
+departamento,Arequipa,Tasa nacional,2589.297285771907,2589.29728577191,1.2293804476206685e-15,cumple
+departamento,Arequipa,Tasa por 100 mil (anual),3840.6786079821945,3840.67860798219,1.1840286504091996e-15,cumple
+departamento,Arequipa,Veces la tasa nacional,1.48328993703681,1.48328993703681,0.0,cumple
+departamento,Ayacucho,Denuncias,118655.0,118655.0,0.0,cumple
+departamento,Ayacucho,Denuncias ene–jul,72202.0,72202.0,0.0,cumple
+departamento,Ayacucho,Distritos con denuncias,113.0,113.0,0.0,cumple
+departamento,Ayacucho,Distritos para el 50 %,2.0,2.0,0.0,cumple
+departamento,Ayacucho,Habitantes-año,5576527.5,5576527.5,0.0,cumple
+departamento,Ayacucho,Meses cubiertos,103.0,103.0,0.0,cumple
+departamento,Ayacucho,Participación del distrito líder,0.4211959040916944,0.421195904091694,9.225589680335811e-16,cumple
+departamento,Ayacucho,Participación top 10 distritos,0.7985757026673971,0.798575702667397,1.3902539495213757e-16,cumple
+departamento,Ayacucho,Población (último año),650658.0,650658.0,0.0,cumple
+departamento,Ayacucho,Tasa nacional,2589.297285771907,2589.29728577191,1.2293804476206685e-15,cumple
+departamento,Ayacucho,Tasa por 100 mil (anual),2127.7578206150692,2127.75782061507,4.274427723687188e-16,cumple
+departamento,Ayacucho,Veces la tasa nacional,0.821751072117914,0.821751072117914,0.0,cumple
+departamento,Cajamarca,Denuncias,181321.0,181321.0,0.0,cumple
+departamento,Cajamarca,Denuncias ene–jul,109977.0,109977.0,0.0,cumple
+departamento,Cajamarca,Distritos con denuncias,126.0,126.0,0.0,cumple
+departamento,Cajamarca,Distritos para el 50 %,3.0,3.0,0.0,cumple
+departamento,Cajamarca,Habitantes-año,12422132.666666666,12422132.6666667,2.6990222682232847e-15,cumple
+departamento,Cajamarca,Meses cubiertos,103.0,103.0,0.0,cumple
+departamento,Cajamarca,Participación del distrito líder,0.31435961637096643,0.314359616370966,1.4126789406881262e-15,cumple
+departamento,Cajamarca,Participación top 10 distritos,0.8030454277221061,0.803045427722106,1.3825158406970586e-16,cumple
+departamento,Cajamarca,Población (último año),1438664.0,1438664.0,0.0,cumple
+departamento,Cajamarca,Tasa nacional,2589.297285771907,2589.29728577191,1.2293804476206685e-15,cumple
+departamento,Cajamarca,Tasa por 100 mil (anual),1459.6607914722535,1459.66079147225,2.4923453643105316e-15,cumple
+departamento,Cajamarca,Veces la tasa nacional,0.5637285449967587,0.563728544996759,3.9388568646334557e-16,cumple
+departamento,Callao,Denuncias,276675.0,276675.0,0.0,cumple
+departamento,Callao,Denuncias ene–jul,168627.0,168627.0,0.0,cumple
+departamento,Callao,Distritos con denuncias,7.0,7.0,0.0,cumple
+departamento,Callao,Distritos para el 50 %,1.0,1.0,0.0,cumple
+departamento,Callao,Habitantes-año,9993717.083333334,9993717.08333333,3.727632338796777e-16,cumple
+departamento,Callao,Meses cubiertos,103.0,103.0,0.0,cumple
+departamento,Callao,Participación del distrito líder,0.6425806451612903,0.64258064516129,5.183270145087328e-16,cumple
+departamento,Callao,Participación top 10 distritos,1.0,1.0,0.0,cumple
+departamento,Callao,Población (último año),1247227.0,1247227.0,0.0,cumple
+departamento,Callao,Tasa nacional,2589.297285771907,2589.29728577191,1.2293804476206685e-15,cumple
+departamento,Callao,Tasa por 100 mil (anual),2768.4894188311064,2768.48941883111,1.3140663577568292e-15,cumple
+departamento,Callao,Veces la tasa nacional,1.0692049283192986,1.0692049283193,1.2460358105947023e-15,cumple
+departamento,Cusco,Denuncias,298678.0,298678.0,0.0,cumple
+departamento,Cusco,Denuncias ene–jul,178268.0,178268.0,0.0,cumple
+departamento,Cusco,Distritos con denuncias,110.0,110.0,0.0,cumple
+departamento,Cusco,Distritos para el 50 %,5.0,5.0,0.0,cumple
+departamento,Cusco,Habitantes-año,11695647.083333334,11695647.0833333,2.8666744513807307e-15,cumple
+departamento,Cusco,Meses cubiertos,103.0,103.0,0.0,cumple
+departamento,Cusco,Participación del distrito líder,0.1543970429693516,0.154397042969352,2.516745470934563e-15,cumple
+departamento,Cusco,Participación top 10 distritos,0.7185999638406578,0.718599963840658,3.0899612593672134e-16,cumple
+departamento,Cusco,Población (último año),1402663.0,1402663.0,0.0,cumple
+departamento,Cusco,Tasa nacional,2589.297285771907,2589.29728577191,1.2293804476206685e-15,cumple
+departamento,Cusco,Tasa por 100 mil (anual),2553.7535278883847,2553.75352788838,1.7807018019569016e-15,cumple
+departamento,Cusco,Veces la tasa nacional,0.9862728169226324,0.986272816922632,3.377026129816515e-16,cumple
+departamento,Huancavelica,Denuncias,31116.0,31116.0,0.0,cumple
+departamento,Huancavelica,Denuncias ene–jul,18407.0,18407.0,0.0,cumple
+departamento,Huancavelica,Distritos con denuncias,93.0,93.0,0.0,cumple
+departamento,Huancavelica,Distritos para el 50 %,3.0,3.0,0.0,cumple
+departamento,Huancavelica,Habitantes-año,2882315.0833333335,2882315.08333333,1.1309065514740624e-15,cumple
+departamento,Huancavelica,Meses cubiertos,103.0,103.0,0.0,cumple
+departamento,Huancavelica,Participación del distrito líder,0.38613575009641343,0.386135750096413,1.150085713998714e-15,cumple
+departamento,Huancavelica,Participación top 10 distritos,0.713298624501864,0.713298624501864,0.0,cumple
+departamento,Huancavelica,Población (último año),305647.0,305647.0,0.0,cumple
+departamento,Huancavelica,Tasa nacional,2589.297285771907,2589.29728577191,1.2293804476206685e-15,cumple
+departamento,Huancavelica,Tasa por 100 mil (anual),1079.548873054331,1079.54887305433,8.424766348926157e-16,cumple
+departamento,Huancavelica,Veces la tasa nacional,0.4169273566949659,0.416927356694966,2.6628692188155513e-16,cumple
+departamento,Huánuco,Denuncias,144593.0,144593.0,0.0,cumple
+departamento,Huánuco,Denuncias ene–jul,86909.0,86909.0,0.0,cumple
+departamento,Huánuco,Distritos con denuncias,77.0,77.0,0.0,cumple
+departamento,Huánuco,Distritos para el 50 %,3.0,3.0,0.0,cumple
+departamento,Huánuco,Habitantes-año,6201844.166666667,6201844.16666667,4.505059541584906e-16,cumple
+departamento,Huánuco,Meses cubiertos,103.0,103.0,0.0,cumple
+departamento,Huánuco,Participación del distrito líder,0.2667418201434371,0.266741820143437,4.1621633384227035e-16,cumple
+departamento,Huánuco,Participación top 10 distritos,0.8609476254037194,0.860947625403719,3.868608235389043e-16,cumple
+departamento,Huánuco,Población (último año),707678.0,707678.0,0.0,cumple
+departamento,Huánuco,Tasa nacional,2589.297285771907,2589.29728577191,1.2293804476206685e-15,cumple
+departamento,Huánuco,Tasa por 100 mil (anual),2331.451679762458,2331.45167976246,9.7524506905671e-16,cumple
+departamento,Huánuco,Veces la tasa nacional,0.900418693741232,0.900418693741232,0.0,cumple
+departamento,Ica,Denuncias,267489.0,267489.0,0.0,cumple
+departamento,Ica,Denuncias ene–jul,162252.0,162252.0,0.0,cumple
+departamento,Ica,Distritos con denuncias,43.0,43.0,0.0,cumple
+departamento,Ica,Distritos para el 50 %,5.0,5.0,0.0,cumple
+departamento,Ica,Habitantes-año,8698433.25,8698433.25,0.0,cumple
+departamento,Ica,Meses cubiertos,103.0,103.0,0.0,cumple
+departamento,Ica,Participación del distrito líder,0.2820639353393971,0.282063935339397,3.936068690558636e-16,cumple
+departamento,Ica,Participación top 10 distritos,0.6983277817031729,0.698327781703173,1.5898308125697073e-16,cumple
+departamento,Ica,Población (último año),1104957.0,1104957.0,0.0,cumple
+departamento,Ica,Tasa nacional,2589.297285771907,2589.29728577191,1.2293804476206685e-15,cumple
+departamento,Ica,Tasa por 100 mil (anual),3075.1399971943224,3075.13999719432,7.393929240642113e-16,cumple
+departamento,Ica,Veces la tasa nacional,1.1876349672523518,1.18763496725235,1.4957094464050126e-15,cumple
+departamento,Junín,Denuncias,301691.0,301691.0,0.0,cumple
+departamento,Junín,Denuncias ene–jul,180314.0,180314.0,0.0,cumple
+departamento,Junín,Distritos con denuncias,123.0,123.0,0.0,cumple
+departamento,Junín,Distritos para el 50 %,5.0,5.0,0.0,cumple
+departamento,Junín,Habitantes-año,11685892.75,11685892.75,0.0,cumple
+departamento,Junín,Meses cubiertos,103.0,103.0,0.0,cumple
+departamento,Junín,Participación del distrito líder,0.16622305604078344,0.166223056040783,2.6716462831792943e-15,cumple
+departamento,Junín,Participación top 10 distritos,0.6971934860502965,0.697193486050297,6.369669521238548e-16,cumple
+departamento,Junín,Población (último año),1378203.0,1378203.0,0.0,cumple
+departamento,Junín,Tasa nacional,2589.297285771907,2589.29728577191,1.2293804476206685e-15,cumple
+departamento,Junín,Tasa por 100 mil (anual),2581.6683967085014,2581.6683967085,5.284342692495802e-16,cumple
+departamento,Junín,Veces la tasa nacional,0.9970536835977367,0.997053683597737,3.340511277042967e-16,cumple
+departamento,La Libertad,Denuncias,381718.0,381718.0,0.0,cumple
+departamento,La Libertad,Denuncias ene–jul,231827.0,231827.0,0.0,cumple
+departamento,La Libertad,Distritos con denuncias,83.0,83.0,0.0,cumple
+departamento,La Libertad,Distritos para el 50 %,3.0,3.0,0.0,cumple
+departamento,La Libertad,Habitantes-año,17723946.333333332,17723946.3333333,1.8916561839900194e-15,cumple
+departamento,La Libertad,Meses cubiertos,103.0,103.0,0.0,cumple
+departamento,La Libertad,Participación del distrito líder,0.3283654425518315,0.328365442551831,1.5214766730590417e-15,cumple
+departamento,La Libertad,Participación top 10 distritos,0.7441854981950026,0.744185498195003,5.967453154182477e-16,cumple
+departamento,La Libertad,Población (último año),2181592.0,2181592.0,0.0,cumple
+departamento,La Libertad,Tasa nacional,2589.297285771907,2589.29728577191,1.2293804476206685e-15,cumple
+departamento,La Libertad,Tasa por 100 mil (anual),2153.6851490128074,2153.68514901281,1.2668908946924995e-15,cumple
+departamento,La Libertad,Veces la tasa nacional,0.8317643404051083,0.831764340405108,2.6695614868135027e-16,cumple
+departamento,Lambayeque,Denuncias,432842.0,432842.0,0.0,cumple
+departamento,Lambayeque,Denuncias ene–jul,265189.0,265189.0,0.0,cumple
+departamento,Lambayeque,Distritos con denuncias,38.0,38.0,0.0,cumple
+departamento,Lambayeque,Distritos para el 50 %,2.0,2.0,0.0,cumple
+departamento,Lambayeque,Habitantes-año,11429276.166666666,11429276.1666667,2.9334852178950816e-15,cumple
+departamento,Lambayeque,Meses cubiertos,103.0,103.0,0.0,cumple
+departamento,Lambayeque,Participación del distrito líder,0.391154278004445,0.391154278004445,0.0,cumple
+departamento,Lambayeque,Participación top 10 distritos,0.8214960655389264,0.821496065538926,5.405859242414345e-16,cumple
+departamento,Lambayeque,Población (último año),1382858.0,1382858.0,0.0,cumple
+departamento,Lambayeque,Tasa nacional,2589.297285771907,2589.29728577191,1.2293804476206685e-15,cumple
+departamento,Lambayeque,Tasa por 100 mil (anual),3787.1339679618386,3787.13396796184,3.602307349569682e-16,cumple
+departamento,Lambayeque,Veces la tasa nacional,1.462610720202736,1.46261072020274,2.732649797682706e-15,cumple
+departamento,Lima Metropolitana,Denuncias,2595673.0,2595673.0,0.0,cumple
+departamento,Lima Metropolitana,Denuncias ene–jul,1582307.0,1582307.0,0.0,cumple
+departamento,Lima Metropolitana,Distritos con denuncias,43.0,43.0,0.0,cumple
+departamento,Lima Metropolitana,Distritos para el 50 %,9.0,9.0,0.0,cumple
+departamento,Lima Metropolitana,Habitantes-año,85300731.16666667,85300731.1666667,3.493794482190944e-16,cumple
+departamento,Lima Metropolitana,Meses cubiertos,103.0,103.0,0.0,cumple
+departamento,Lima Metropolitana,Participación del distrito líder,0.10059780257374484,0.100597802573745,1.51748509391199e-15,cumple
+departamento,Lima Metropolitana,Participación top 10 distritos,0.5611122818629312,0.561112281862931,1.9786111630619458e-16,cumple
+departamento,Lima Metropolitana,Población (último año),10570094.0,10570094.0,0.0,cumple
+departamento,Lima Metropolitana,Tasa nacional,2589.297285771907,2589.29728577191,1.2293804476206685e-15,cumple
+departamento,Lima Metropolitana,Tasa por 100 mil (anual),3042.966882579691,3042.96688257969,4.483262898684092e-16,cumple
+departamento,Lima Metropolitana,Veces la tasa nacional,1.1752095440336967,1.1752095440337,2.834106556387845e-15,cumple
+departamento,Loreto,Denuncias,116685.0,116685.0,0.0,cumple
+departamento,Loreto,Denuncias ene–jul,71125.0,71125.0,0.0,cumple
+departamento,Loreto,Distritos con denuncias,50.0,50.0,0.0,cumple
+departamento,Loreto,Distritos para el 50 %,2.0,2.0,0.0,cumple
+departamento,Loreto,Habitantes-año,8883452.916666666,8883452.91666667,4.19351611744654e-16,cumple
+departamento,Loreto,Meses cubiertos,103.0,103.0,0.0,cumple
+departamento,Loreto,Participación del distrito líder,0.37794060933281914,0.377940609332819,4.4063392390607614e-16,cumple
+departamento,Loreto,Participación top 10 distritos,0.9789433089086,0.9789433089086,0.0,cumple
+departamento,Loreto,Población (último año),1064849.0,1064849.0,0.0,cumple
+departamento,Loreto,Tasa nacional,2589.297285771907,2589.29728577191,1.2293804476206685e-15,cumple
+departamento,Loreto,Tasa por 100 mil (anual),1313.5095226438557,1313.50952264386,3.2889748867033978e-15,cumple
+departamento,Loreto,Veces la tasa nacional,0.5072841692846712,0.507284169284671,4.3771246644290047e-16,cumple
+departamento,Madre de Dios,Denuncias,56979.0,56979.0,0.0,cumple
+departamento,Madre de Dios,Denuncias ene–jul,35275.0,35275.0,0.0,cumple
+departamento,Madre de Dios,Distritos con denuncias,11.0,11.0,0.0,cumple
+departamento,Madre de Dios,Distritos para el 50 %,1.0,1.0,0.0,cumple
+departamento,Madre de Dios,Habitantes-año,1581411.9166666667,1581411.91666667,2.0612143975902806e-15,cumple
+departamento,Madre de Dios,Meses cubiertos,103.0,103.0,0.0,cumple
+departamento,Madre de Dios,Participación del distrito líder,0.748451183769459,0.748451183769459,0.0,cumple
+departamento,Madre de Dios,Participación top 10 distritos,0.9996665438143878,0.999666543814388,2.22118671770073e-16,cumple
+departamento,Madre de Dios,Población (último año),209165.0,209165.0,0.0,cumple
+departamento,Madre de Dios,Tasa nacional,2589.297285771907,2589.29728577191,1.2293804476206685e-15,cumple
+departamento,Madre de Dios,Tasa por 100 mil (anual),3603.046075440074,3603.04607544007,1.135907249667434e-15,cumple
+departamento,Madre de Dios,Veces la tasa nacional,1.3915150242649539,1.39151502426495,2.7126967498748278e-15,cumple
+departamento,Moquegua,Denuncias,53854.0,53854.0,0.0,cumple
+departamento,Moquegua,Denuncias ene–jul,32775.0,32775.0,0.0,cumple
+departamento,Moquegua,Distritos con denuncias,19.0,19.0,0.0,cumple
+departamento,Moquegua,Distritos para el 50 %,1.0,1.0,0.0,cumple
+departamento,Moquegua,Habitantes-año,1680370.4166666667,1680370.41666667,1.9398276587255485e-15,cumple
+departamento,Moquegua,Meses cubiertos,103.0,103.0,0.0,cumple
+departamento,Moquegua,Participación del distrito líder,0.5109926839231997,0.5109926839232,4.345357808653162e-16,cumple
+departamento,Moquegua,Participación top 10 distritos,0.9966204924425298,0.99662049244253,2.227975509321925e-16,cumple
+departamento,Moquegua,Población (último año),204395.0,204395.0,0.0,cumple
+departamento,Moquegua,Tasa nacional,2589.297285771907,2589.29728577191,1.2293804476206685e-15,cumple
+departamento,Moquegua,Tasa por 100 mil (anual),3204.88860467025,3204.88860467025,0.0,cumple
+departamento,Moquegua,Veces la tasa nacional,1.2377445503384237,1.23774455033842,3.0497070519869704e-15,cumple
+departamento,Pasco,Denuncias,39162.0,39162.0,0.0,cumple
+departamento,Pasco,Denuncias ene–jul,23244.0,23244.0,0.0,cumple
+departamento,Pasco,Distritos con denuncias,29.0,29.0,0.0,cumple
+departamento,Pasco,Distritos para el 50 %,4.0,4.0,0.0,cumple
+departamento,Pasco,Habitantes-año,2304497.8333333335,2304497.83333333,1.4144639079305599e-15,cumple
+departamento,Pasco,Meses cubiertos,103.0,103.0,0.0,cumple
+departamento,Pasco,Participación del distrito líder,0.16676880649609316,0.166768806496093,9.985887480562788e-16,cumple
+departamento,Pasco,Participación top 10 distritos,0.7997803993667331,0.799780399366733,1.388159831754107e-16,cumple
+departamento,Pasco,Población (último año),261298.0,261298.0,0.0,cumple
+departamento,Pasco,Tasa nacional,2589.297285771907,2589.29728577191,1.2293804476206685e-15,cumple
+departamento,Pasco,Tasa por 100 mil (anual),1699.3723940002255,1699.37239400023,2.6759723324445375e-15,cumple
+departamento,Pasco,Veces la tasa nacional,0.6563064053472014,0.656306405347201,6.76649208710875e-16,cumple
+departamento,Piura,Denuncias,367847.0,367847.0,0.0,cumple
+departamento,Piura,Denuncias ene–jul,223405.0,223405.0,0.0,cumple
+departamento,Piura,Distritos con denuncias,65.0,65.0,0.0,cumple
+departamento,Piura,Distritos para el 50 %,4.0,4.0,0.0,cumple
+departamento,Piura,Habitantes-año,17946307.666666668,17946307.6666667,1.8682178701544915e-15,cumple
+departamento,Piura,Meses cubiertos,103.0,103.0,0.0,cumple
+departamento,Piura,Participación del distrito líder,0.2540213730164987,0.254021373016499,1.3111767070321058e-15,cumple
+departamento,Piura,Participación top 10 distritos,0.8152003414463078,0.815200341446308,2.723804120727984e-16,cumple
+departamento,Piura,Población (último año),2195228.0,2195228.0,0.0,cumple
+departamento,Piura,Tasa nacional,2589.297285771907,2589.29728577191,1.2293804476206685e-15,cumple
+departamento,Piura,Tasa por 100 mil (anual),2049.70853521717,2049.70853521717,0.0,cumple
+departamento,Piura,Veces la tasa nacional,0.7916080345351778,0.791608034535178,2.804981698491894e-16,cumple
+departamento,Puno,Denuncias,137446.0,137446.0,0.0,cumple
+departamento,Puno,Denuncias ene–jul,81075.0,81075.0,0.0,cumple
+departamento,Puno,Distritos con denuncias,110.0,110.0,0.0,cumple
+departamento,Puno,Distritos para el 50 %,2.0,2.0,0.0,cumple
+departamento,Puno,Habitantes-año,10494257.666666666,10494257.6666667,3.1948531998268285e-15,cumple
+departamento,Puno,Meses cubiertos,103.0,103.0,0.0,cumple
+departamento,Puno,Participación del distrito líder,0.37653332945302154,0.376533329453022,1.1794154065861245e-15,cumple
+departamento,Puno,Participación top 10 distritos,0.8011000683904952,0.801100068390495,2.771746173622793e-16,cumple
+departamento,Puno,Población (último año),1190372.0,1190372.0,0.0,cumple
+departamento,Puno,Tasa nacional,2589.297285771907,2589.29728577191,1.2293804476206685e-15,cumple
+departamento,Puno,Tasa por 100 mil (anual),1309.7257982961032,1309.7257982961,2.4304564057198047e-15,cumple
+departamento,Puno,Veces la tasa nacional,0.5058228753774231,0.505822875377423,2.1948849660007097e-16,cumple
+departamento,Región Lima,Denuncias,220339.0,220339.0,0.0,cumple
+departamento,Región Lima,Denuncias ene–jul,134851.0,134851.0,0.0,cumple
+departamento,Región Lima,Distritos con denuncias,126.0,126.0,0.0,cumple
+departamento,Región Lima,Distritos para el 50 %,7.0,7.0,0.0,cumple
+departamento,Región Lima,Habitantes-año,8413156.916666666,8413156.91666667,4.4279339317706346e-16,cumple
+departamento,Región Lima,Meses cubiertos,103.0,103.0,0.0,cumple
+departamento,Región Lima,Participación del distrito líder,0.10383545355111896,0.103835453551119,4.00955184376856e-16,cumple
+departamento,Región Lima,Participación top 10 distritos,0.6203985676616487,0.620398567661649,5.36859568588163e-16,cumple
+departamento,Región Lima,Población (último año),1048133.0,1048133.0,0.0,cumple
+departamento,Región Lima,Tasa nacional,2589.297285771907,2589.29728577191,1.2293804476206685e-15,cumple
+departamento,Región Lima,Tasa por 100 mil (anual),2618.981224081333,2618.98122408133,1.215446459461289e-15,cumple
+departamento,Región Lima,Veces la tasa nacional,1.0114640904590362,1.01146409045904,3.731974589441352e-15,cumple
+departamento,San Martín,Denuncias,140297.0,140297.0,0.0,cumple
+departamento,San Martín,Denuncias ene–jul,83549.0,83549.0,0.0,cumple
+departamento,San Martín,Distritos con denuncias,77.0,77.0,0.0,cumple
+departamento,San Martín,Distritos para el 50 %,5.0,5.0,0.0,cumple
+departamento,San Martín,Habitantes-año,7887832.75,7887832.75,0.0,cumple
+departamento,San Martín,Meses cubiertos,103.0,103.0,0.0,cumple
+departamento,San Martín,Participación del distrito líder,0.17405931702032118,0.174059317020321,9.567626516328966e-16,cumple
+departamento,San Martín,Participación top 10 distritos,0.7366158934260889,0.736615893426089,1.507193958932078e-16,cumple
+departamento,San Martín,Población (último año),965967.0,965967.0,0.0,cumple
+departamento,San Martín,Tasa nacional,2589.297285771907,2589.29728577191,1.2293804476206685e-15,cumple
+departamento,San Martín,Tasa por 100 mil (anual),1778.6507960630884,1778.65079606309,8.948444133190999e-16,cumple
+departamento,San Martín,Veces la tasa nacional,0.6869241341412239,0.686924134141224,1.6162236402031948e-16,cumple
+departamento,Tacna,Denuncias,97453.0,97453.0,0.0,cumple
+departamento,Tacna,Denuncias ene–jul,59006.0,59006.0,0.0,cumple
+departamento,Tacna,Distritos con denuncias,28.0,28.0,0.0,cumple
+departamento,Tacna,Distritos para el 50 %,1.0,1.0,0.0,cumple
+departamento,Tacna,Habitantes-año,3277433.6666666665,3277433.66666667,9.945675008792474e-16,cumple
+departamento,Tacna,Meses cubiertos,103.0,103.0,0.0,cumple
+departamento,Tacna,Participación del distrito líder,0.5230316152401671,0.523031615240167,2.1226690553215628e-16,cumple
+departamento,Tacna,Participación top 10 distritos,0.9767272428760531,0.976727242876053,1.136676623615017e-16,cumple
+departamento,Tacna,Población (último año),407996.0,407996.0,0.0,cumple
+departamento,Tacna,Tasa nacional,2589.297285771907,2589.29728577191,1.2293804476206685e-15,cumple
+departamento,Tacna,Tasa por 100 mil (anual),2973.4545352100185,2973.45453521002,4.588071001270697e-16,cumple
+departamento,Tacna,Veces la tasa nacional,1.1483635160586008,1.1483635160586,5.80072255396436e-16,cumple
+departamento,Tumbes,Denuncias,70703.0,70703.0,0.0,cumple
+departamento,Tumbes,Denuncias ene–jul,43408.0,43408.0,0.0,cumple
+departamento,Tumbes,Distritos con denuncias,13.0,13.0,0.0,cumple
+departamento,Tumbes,Distritos para el 50 %,1.0,1.0,0.0,cumple
+departamento,Tumbes,Habitantes-año,2214362.3333333335,2214362.33333333,1.472039585431069e-15,cumple
+departamento,Tumbes,Meses cubiertos,103.0,103.0,0.0,cumple
+departamento,Tumbes,Participación del distrito líder,0.6033690225308685,0.603369022530869,7.360159260203698e-16,cumple
+departamento,Tumbes,Participación top 10 distritos,0.9839752202876823,0.983975220287682,2.256607690385869e-16,cumple
+departamento,Tumbes,Población (último año),273604.0,273604.0,0.0,cumple
+departamento,Tumbes,Tasa nacional,2589.297285771907,2589.29728577191,1.2293804476206685e-15,cumple
+departamento,Tumbes,Tasa por 100 mil (anual),3192.9282274942357,3192.92822749424,1.4242329250330293e-15,cumple
+departamento,Tumbes,Veces la tasa nacional,1.2331253908306545,1.23312539083065,3.601330514741218e-15,cumple
+departamento,Ucayali,Denuncias,99042.0,99042.0,0.0,cumple
+departamento,Ucayali,Denuncias ene–jul,59121.0,59121.0,0.0,cumple
+departamento,Ucayali,Distritos con denuncias,17.0,17.0,0.0,cumple
+departamento,Ucayali,Distritos para el 50 %,2.0,2.0,0.0,cumple
+departamento,Ucayali,Habitantes-año,5244855.5,5244855.5,0.0,cumple
+departamento,Ucayali,Meses cubiertos,103.0,103.0,0.0,cumple
+departamento,Ucayali,Participación del distrito líder,0.37364956281173645,0.373649562811736,1.188517943145078e-15,cumple
+departamento,Ucayali,Participación top 10 distritos,0.9841582358999212,0.984158235899921,2.2561880480733076e-16,cumple
+departamento,Ucayali,Población (último año),663630.0,663630.0,0.0,cumple
+departamento,Ucayali,Tasa nacional,2589.297285771907,2589.29728577191,1.2293804476206685e-15,cumple
+departamento,Ucayali,Tasa por 100 mil (anual),1888.364703279242,1888.36470327924,9.632617048958225e-16,cumple
+departamento,Ucayali,Veces la tasa nacional,0.7292962123954388,0.729296212395439,1.5223211169279618e-16,cumple
+departamento,Áncash,Denuncias,245530.0,245530.0,0.0,cumple
+departamento,Áncash,Denuncias ene–jul,148269.0,148269.0,0.0,cumple
+departamento,Áncash,Distritos con denuncias,165.0,165.0,0.0,cumple
+departamento,Áncash,Distritos para el 50 %,3.0,3.0,0.0,cumple
+departamento,Áncash,Habitantes-año,10197330.833333334,10197330.8333333,3.287881234230548e-15,cumple
+departamento,Áncash,Meses cubiertos,103.0,103.0,0.0,cumple
+departamento,Áncash,Participación del distrito líder,0.2762635930436199,0.27626359304362,4.0187091335261856e-16,cumple
+departamento,Áncash,Participación top 10 distritos,0.7888363947379139,0.788836394737914,1.4074186130750488e-16,cumple
+departamento,Áncash,Población (último año),1208662.0,1208662.0,0.0,cumple
+departamento,Áncash,Tasa nacional,2589.297285771907,2589.29728577191,1.2293804476206685e-15,cumple
+departamento,Áncash,Tasa por 100 mil (anual),2407.7869396705687,2407.78693967057,5.665958354463235e-16,cumple
+departamento,Áncash,Veces la tasa nacional,0.9298997658172621,0.929899765817262,1.1939168773200125e-16,cumple
+global,total,Cambio 12 meses,-0.09758353154802549,-0.0975835315480255,1.422144452825479e-16,cumple
+global,total,Combinaciones evaluadas,1526.0,1526.0,0.0,cumple
+global,total,Corte de datos,Denuncias registradas hasta julio de 2026,,,cumple
+global,total,Denuncias,7359931.0,7359931.0,0.0,cumple
+global,total,Denuncias (miles),7359.931,7359.931,0.0,cumple
+global,total,Denuncias 12 m previos,533092.0,533092.0,0.0,cumple
+global,total,Denuncias en celdas atípicas,150.0,150.0,0.0,cumple
+global,total,Denuncias ene–jul,4463126.0,4463126.0,0.0,cumple
+global,total,Denuncias últimos 12 m,481071.0,481071.0,0.0,cumple
+global,total,Distrito líder,San Juan de Lurigancho,,,cumple
+global,total,Distritos con denuncias,1839.0,1839.0,0.0,cumple
+global,total,Distritos en alerta,5.0,5.0,0.0,cumple
+global,total,Distritos para el 50 %,43.0,43.0,0.0,cumple
+global,total,Habitantes-año,284244340.75,284244340.75,0.0,cumple
+global,total,Meses cubiertos,103.0,103.0,0.0,cumple
+global,total,Participación del distrito líder,0.035478457610540096,0.0354784576105401,1.9558048379887267e-16,cumple
+global,total,Participación top 10 distritos,0.2219520808007575,0.221952080800758,2.2509379469607357e-15,cumple
+global,total,Población (último año),34562703.0,34562703.0,0.0,cumple
+global,total,Saltos de serie,19.0,19.0,0.0,cumple
+global,total,Tasa (distritos de 5 mil hab. o más),2589.297285771907,2589.29728577191,1.2293804476206685e-15,cumple
+global,total,Tasa por 100 mil (anual),2589.297285771907,2589.29728577191,1.2293804476206685e-15,cumple
+mes,1,Índice estacional,0.08212802334531447,0.0821280233453145,3.3795499374102995e-16,cumple
+mes,10,Índice estacional,0.08576074319900362,0.0857607431990036,1.6181981743805237e-16,cumple
+mes,11,Índice estacional,0.0834682829415377,0.0834682829415377,0.0,cumple
+mes,12,Índice estacional,0.08496413428704441,0.0849641342870444,1.6333701183760055e-16,cumple
+mes,2,Índice estacional,0.07885874819890859,0.0788587481989086,1.7598285700414563e-16,cumple
+mes,3,Índice estacional,0.08756825003782066,0.0875682500378207,4.754390250514536e-16,cumple
+mes,4,Índice estacional,0.08264728229634548,0.0826472822963455,3.3583167945083435e-16,cumple
+mes,5,Índice estacional,0.08370387345610979,0.0837038734561098,1.657962437675156e-16,cumple
+mes,6,Índice estacional,0.08086031473405085,0.0808603147340509,6.865067420753148e-16,cumple
+mes,7,Índice estacional,0.08356216703566054,0.0835621670356605,4.982322132176891e-16,cumple
+mes,8,Índice estacional,0.08311599228328485,0.0831159922832849,5.009067723278099e-16,cumple
+mes,9,Índice estacional,0.08336218818491903,0.083362188184919,3.3295162015253037e-16,cumple
+modalidad,Estafa,Cambio 12 meses,-0.026130482735216766,-0.0261304827352168,1.327739325411599e-15,cumple
+modalidad,Estafa,Cambio nacional de la modalidad,-0.021419999999999998,-0.02142,1.6197231334984195e-16,cumple
+modalidad,Estafa,Combinaciones evaluadas,179.0,179.0,0.0,cumple
+modalidad,Estafa,Denuncias,219410.0,219410.0,0.0,cumple
+modalidad,Estafa,Denuncias 12 m previos,35361.0,35361.0,0.0,cumple
+modalidad,Estafa,Denuncias en celdas atípicas,87.0,87.0,0.0,cumple
+modalidad,Estafa,Denuncias ene–jul,132020.0,132020.0,0.0,cumple
+modalidad,Estafa,Denuncias últimos 12 m,34437.0,34437.0,0.0,cumple
+modalidad,Estafa,Distritos con denuncias,1295.0,1295.0,0.0,cumple
+modalidad,Estafa,Distritos en alerta,1.0,1.0,0.0,cumple
+modalidad,Estafa,Distritos para el 50 %,31.0,31.0,0.0,cumple
+modalidad,Estafa,Habitantes-año,284244340.75,284244340.75,0.0,cumple
+modalidad,Estafa,Meses cubiertos,103.0,103.0,0.0,cumple
+modalidad,Estafa,Participación de la modalidad,0.0298114207864177,0.0298114207864177,0.0,cumple
+modalidad,Estafa,Participación del distrito líder,0.050973064126521125,0.0509730641265211,5.445145606066828e-16,cumple
+modalidad,Estafa,Participación top 10 distritos,0.258702885009799,0.258702885009799,0.0,cumple
+modalidad,Estafa,Población (último año),34562703.0,34562703.0,0.0,cumple
+modalidad,Estafa,Saltos de serie,4.0,4.0,0.0,cumple
+modalidad,Estafa,Tasa por 100 mil (anual),77.19063092727555,77.1906309272755,5.523023148466281e-16,cumple
+modalidad,Extorsión,Cambio 12 meses,-0.12338723550662309,-0.123387235506623,6.748406875719102e-16,cumple
+modalidad,Extorsión,Cambio nacional de la modalidad,-0.12248999999999999,-0.12249,1.1329731249746475e-16,cumple
+modalidad,Extorsión,Combinaciones evaluadas,138.0,138.0,0.0,cumple
+modalidad,Extorsión,Denuncias,113210.0,113210.0,0.0,cumple
+modalidad,Extorsión,Denuncias 12 m previos,23252.0,23252.0,0.0,cumple
+modalidad,Extorsión,Denuncias en celdas atípicas,0.0,,0.0,cumple
+modalidad,Extorsión,Denuncias ene–jul,67000.0,67000.0,0.0,cumple
+modalidad,Extorsión,Denuncias últimos 12 m,20383.0,20383.0,0.0,cumple
+modalidad,Extorsión,Distritos con denuncias,1004.0,1004.0,0.0,cumple
+modalidad,Extorsión,Distritos en alerta,1.0,1.0,0.0,cumple
+modalidad,Extorsión,Distritos para el 50 %,24.0,24.0,0.0,cumple
+modalidad,Extorsión,Habitantes-año,284244340.75,284244340.75,0.0,cumple
+modalidad,Extorsión,Meses cubiertos,103.0,103.0,0.0,cumple
+modalidad,Extorsión,Participación de la modalidad,0.015381937683926657,0.0153819376839267,2.8194163694173345e-15,cumple
+modalidad,Extorsión,Participación del distrito líder,0.04957159261549333,0.0495715926154933,5.599088944129276e-16,cumple
+modalidad,Extorsión,Participación top 10 distritos,0.30538821658864057,0.305388216588641,1.4541792568514619e-15,cumple
+modalidad,Extorsión,Población (último año),34562703.0,34562703.0,0.0,cumple
+modalidad,Extorsión,Saltos de serie,9.0,9.0,0.0,cumple
+modalidad,Extorsión,Tasa por 100 mil (anual),39.8284094949039,39.8284094949039,0.0,cumple
+modalidad,Hurto,Cambio 12 meses,-0.08394456266946086,-0.0839445626694609,4.959625984041208e-16,cumple
+modalidad,Hurto,Cambio nacional de la modalidad,-0.08516000000000001,-0.08516,1.6296134109692878e-16,cumple
+modalidad,Hurto,Combinaciones evaluadas,382.0,382.0,0.0,cumple
+modalidad,Hurto,Denuncias,1468353.0,1468353.0,0.0,cumple
+modalidad,Hurto,Denuncias 12 m previos,185146.0,185146.0,0.0,cumple
+modalidad,Hurto,Denuncias en celdas atípicas,0.0,,0.0,cumple
+modalidad,Hurto,Denuncias ene–jul,881903.0,881903.0,0.0,cumple
+modalidad,Hurto,Denuncias últimos 12 m,169604.0,169604.0,0.0,cumple
+modalidad,Hurto,Distritos con denuncias,1733.0,1733.0,0.0,cumple
+modalidad,Hurto,Distritos en alerta,1.0,1.0,0.0,cumple
+modalidad,Hurto,Distritos para el 50 %,32.0,32.0,0.0,cumple
+modalidad,Hurto,Habitantes-año,284244340.75,284244340.75,0.0,cumple
+modalidad,Hurto,Meses cubiertos,103.0,103.0,0.0,cumple
+modalidad,Hurto,Participación de la modalidad,0.19950635406772155,0.199506354067722,2.2259401808291204e-15,cumple
+modalidad,Hurto,Participación del distrito líder,0.045018466267988694,0.0450184662679887,1.5413439148728332e-16,cumple
+modalidad,Hurto,Participación top 10 distritos,0.26004714125281864,0.260047141252819,1.4942600666431783e-15,cumple
+modalidad,Hurto,Población (último año),34562703.0,34562703.0,0.0,cumple
+modalidad,Hurto,Saltos de serie,1.0,1.0,0.0,cumple
+modalidad,Hurto,Tasa por 100 mil (anual),516.5812610818004,516.5812610818,8.803016778699122e-16,cumple
+modalidad,Otros,Cambio 12 meses,,,,cumple
+modalidad,Otros,Cambio nacional de la modalidad,,,,cumple
+modalidad,Otros,Combinaciones evaluadas,0.0,,0.0,cumple
+modalidad,Otros,Denuncias,2685730.0,2685730.0,0.0,cumple
+modalidad,Otros,Denuncias 12 m previos,0.0,,0.0,cumple
+modalidad,Otros,Denuncias en celdas atípicas,0.0,,0.0,cumple
+modalidad,Otros,Denuncias ene–jul,1644692.0,1644692.0,0.0,cumple
+modalidad,Otros,Denuncias últimos 12 m,0.0,,0.0,cumple
+modalidad,Otros,Distritos con denuncias,1833.0,1833.0,0.0,cumple
+modalidad,Otros,Distritos en alerta,0.0,0.0,0.0,cumple
+modalidad,Otros,Distritos para el 50 %,51.0,51.0,0.0,cumple
+modalidad,Otros,Habitantes-año,284244340.75,284244340.75,0.0,cumple
+modalidad,Otros,Meses cubiertos,103.0,103.0,0.0,cumple
+modalidad,Otros,Participación de la modalidad,0.364912388444946,0.364912388444946,0.0,cumple
+modalidad,Otros,Participación del distrito líder,0.032833903631414925,0.0328339036314149,8.453327976839417e-16,cumple
+modalidad,Otros,Participación top 10 distritos,0.1944018944570005,0.194401894457001,2.5699356607444296e-15,cumple
+modalidad,Otros,Población (último año),34562703.0,34562703.0,0.0,cumple
+modalidad,Otros,Saltos de serie,0.0,,0.0,cumple
+modalidad,Otros,Tasa por 100 mil (anual),944.8666569450425,944.866656945042,4.812820386283503e-16,cumple
+modalidad,Robo,Cambio 12 meses,-0.25056981992181016,-0.25056981992181,6.646189622746264e-16,cumple
+modalidad,Robo,Cambio nacional de la modalidad,-0.2502600000000001,-0.25026,4.436278368996868e-16,cumple
+modalidad,Robo,Combinaciones evaluadas,217.0,217.0,0.0,cumple
+modalidad,Robo,Denuncias,714035.0,714035.0,0.0,cumple
+modalidad,Robo,Denuncias 12 m previos,66249.0,66249.0,0.0,cumple
+modalidad,Robo,Denuncias en celdas atípicas,0.0,,0.0,cumple
+modalidad,Robo,Denuncias ene–jul,424875.0,424875.0,0.0,cumple
+modalidad,Robo,Denuncias últimos 12 m,49649.0,49649.0,0.0,cumple
+modalidad,Robo,Distritos con denuncias,1505.0,1505.0,0.0,cumple
+modalidad,Robo,Distritos en alerta,0.0,0.0,0.0,cumple
+modalidad,Robo,Distritos para el 50 %,21.0,21.0,0.0,cumple
+modalidad,Robo,Habitantes-año,284244340.75,284244340.75,0.0,cumple
+modalidad,Robo,Meses cubiertos,103.0,103.0,0.0,cumple
+modalidad,Robo,Participación de la modalidad,0.09701653453001122,0.0970165345300112,1.4304559398090524e-16,cumple
+modalidad,Robo,Participación del distrito líder,0.047724551317512444,0.0477245513175124,8.723678332029929e-16,cumple
+modalidad,Robo,Participación top 10 distritos,0.31667775389161595,0.316677753891616,1.7529223492679156e-16,cumple
+modalidad,Robo,Población (último año),34562703.0,34562703.0,0.0,cumple
+modalidad,Robo,Saltos de serie,5.0,5.0,0.0,cumple
+modalidad,Robo,Tasa por 100 mil (anual),251.20464953355452,251.204649533555,1.9234081105347102e-15,cumple
+modalidad,Secuestro,Cambio 12 meses,0.0,0.0,0.0,cumple
+modalidad,Secuestro,Cambio nacional de la modalidad,-0.09820000000000001,-0.0982,1.4132166810401686e-16,cumple
+modalidad,Secuestro,Combinaciones evaluadas,3.0,3.0,0.0,cumple
+modalidad,Secuestro,Denuncias,10015.0,10015.0,0.0,cumple
+modalidad,Secuestro,Denuncias 12 m previos,128.0,128.0,0.0,cumple
+modalidad,Secuestro,Denuncias en celdas atípicas,0.0,,0.0,cumple
+modalidad,Secuestro,Denuncias ene–jul,5918.0,5918.0,0.0,cumple
+modalidad,Secuestro,Denuncias últimos 12 m,128.0,128.0,0.0,cumple
+modalidad,Secuestro,Distritos con denuncias,845.0,845.0,0.0,cumple
+modalidad,Secuestro,Distritos en alerta,0.0,0.0,0.0,cumple
+modalidad,Secuestro,Distritos para el 50 %,47.0,47.0,0.0,cumple
+modalidad,Secuestro,Habitantes-año,284244340.75,284244340.75,0.0,cumple
+modalidad,Secuestro,Meses cubiertos,103.0,103.0,0.0,cumple
+modalidad,Secuestro,Participación de la modalidad,0.0013607464526501675,0.00136074645265017,1.9122483905046617e-15,cumple
+modalidad,Secuestro,Participación del distrito líder,0.03794308537194209,0.0379430853719421,1.8287637486218655e-16,cumple
+modalidad,Secuestro,Participación top 10 distritos,0.22705941088367448,0.227059410883674,2.078067513825374e-15,cumple
+modalidad,Secuestro,Población (último año),34562703.0,34562703.0,0.0,cumple
+modalidad,Secuestro,Saltos de serie,0.0,,0.0,cumple
+modalidad,Secuestro,Tasa por 100 mil (anual),3.523377096470829,3.52337709647083,2.5208156702550067e-16,cumple
+modalidad,Violencia contra la mujer e integrantes,Cambio 12 meses,-0.07214876477870073,-0.0721487647787007,3.846992488473306e-16,cumple
+modalidad,Violencia contra la mujer e integrantes,Cambio nacional de la modalidad,-0.07254,-0.07254,0.0,cumple
+modalidad,Violencia contra la mujer e integrantes,Combinaciones evaluadas,607.0,607.0,0.0,cumple
+modalidad,Violencia contra la mujer e integrantes,Denuncias,2149178.0,2149178.0,0.0,cumple
+modalidad,Violencia contra la mujer e integrantes,Denuncias 12 m previos,222956.0,222956.0,0.0,cumple
+modalidad,Violencia contra la mujer e integrantes,Denuncias en celdas atípicas,63.0,63.0,0.0,cumple
+modalidad,Violencia contra la mujer e integrantes,Denuncias ene–jul,1306718.0,1306718.0,0.0,cumple
+modalidad,Violencia contra la mujer e integrantes,Denuncias últimos 12 m,206870.0,206870.0,0.0,cumple
+modalidad,Violencia contra la mujer e integrantes,Distritos con denuncias,1809.0,1809.0,0.0,cumple
+modalidad,Violencia contra la mujer e integrantes,Distritos en alerta,2.0,2.0,0.0,cumple
+modalidad,Violencia contra la mujer e integrantes,Distritos para el 50 %,48.0,48.0,0.0,cumple
+modalidad,Violencia contra la mujer e integrantes,Habitantes-año,284244340.75,284244340.75,0.0,cumple
+modalidad,Violencia contra la mujer e integrantes,Meses cubiertos,103.0,103.0,0.0,cumple
+modalidad,Violencia contra la mujer e integrantes,Participación de la modalidad,0.2920106180343267,0.292010618034327,9.504988483797588e-16,cumple
+modalidad,Violencia contra la mujer e integrantes,Participación del distrito líder,0.03633016902276126,0.0363301690227613,1.1459721917990416e-15,cumple
+modalidad,Violencia contra la mujer e integrantes,Participación top 10 distritos,0.20743837876620735,0.207438378766207,1.7394200877834641e-15,cumple
+modalidad,Violencia contra la mujer e integrantes,Población (último año),34562703.0,34562703.0,0.0,cumple
+modalidad,Violencia contra la mujer e integrantes,Saltos de serie,0.0,,0.0,cumple
+modalidad,Violencia contra la mujer e integrantes,Tasa por 100 mil (anual),756.1023006928591,756.102300692859,1.5035906863057867e-16,cumple

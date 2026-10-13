@@ -1,0 +1,75 @@
+/// Distrito identificado por su UBIGEO de 6 dígitos. Lima está partida en Lima Metropolitana y Región Lima. distrito_unico agrega la provincia cuando el nombre se repite en el país.
+table dim_distrito
+	lineageTag: 0fafaab7-4d11-5ef4-ac1a-c153e99cdb9c
+
+	column ubigeo
+		dataType: string
+		isKey
+		lineageTag: 05a5efeb-9638-55d1-847d-800ee9e88b16
+		summarizeBy: none
+		sourceColumn: ubigeo
+
+		annotation SummarizationSetBy = Automatic
+
+	column distrito
+		dataType: string
+		lineageTag: 3cf379e0-5313-5454-a016-e8cb6fa7740e
+		summarizeBy: none
+		sourceColumn: distrito
+
+		annotation SummarizationSetBy = Automatic
+
+	/// Nombre para mostrar; único en todo el modelo
+	column distrito_unico
+		dataType: string
+		lineageTag: 3ef52765-8655-505f-9c7a-189c574b07b4
+		summarizeBy: none
+		sourceColumn: distrito_unico
+
+		annotation SummarizationSetBy = Automatic
+
+	column provincia
+		dataType: string
+		lineageTag: 38193765-9e73-533d-a8fb-9e72094e8575
+		summarizeBy: none
+		sourceColumn: provincia
+
+		annotation SummarizationSetBy = Automatic
+
+	column departamento_id
+		dataType: string
+		isHidden
+		lineageTag: 25358a6b-d5fa-596c-956f-5656e9d278bf
+		summarizeBy: none
+		sourceColumn: departamento_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column departamento
+		dataType: string
+		lineageTag: c8d4f7d4-6734-5665-adfa-e1a6fbb5f56c
+		summarizeBy: none
+		sourceColumn: departamento
+
+		annotation SummarizationSetBy = Automatic
+
+	/// Lima y Callao, o resto del país
+	column zona
+		dataType: string
+		lineageTag: 14574aaa-52e4-5e95-a590-a06cf5803b3d
+		summarizeBy: none
+		sourceColumn: zona
+
+		annotation SummarizationSetBy = Automatic
+
+	partition dim_distrito = m
+		mode: import
+		source =
+				let
+				    Origen = Csv.Document(File.Contents(RutaDatos & "dim_distrito.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Encabezados = Table.PromoteHeaders(Origen, [PromoteAllScalars=true]),
+				    Tipos = Table.TransformColumnTypes(Encabezados, {{"ubigeo", type text}, {"distrito", type text}, {"distrito_unico", type text}, {"provincia", type text}, {"departamento_id", type text}, {"departamento", type text}, {"zona", type text}}, "en-US")
+				in
+				    Tipos
+
+	annotation PBI_ResultType = Table

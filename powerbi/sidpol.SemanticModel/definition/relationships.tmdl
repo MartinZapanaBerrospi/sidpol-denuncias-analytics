@@ -1,0 +1,40 @@
+relationship 009c308f-5530-5e43-ac61-1e7b8fd944a1
+	fromColumn: fact_denuncia.mes_inicio
+	toColumn: dim_fecha.mes_inicio
+
+relationship 793eb5f1-b448-54bb-8172-f097a6466b77
+	fromColumn: fact_denuncia.ubigeo
+	toColumn: dim_distrito.ubigeo
+
+relationship 5e02093e-2cc9-5985-9e7e-f6ab312969a9
+	fromColumn: fact_denuncia.modalidad_id
+	toColumn: dim_modalidad.modalidad_id
+
+relationship d2eabfff-5fe7-51dd-85c4-30aea7072201
+	fromColumn: fact_poblacion.ubigeo
+	toColumn: dim_distrito.ubigeo
+
+relationship b39d638d-3aa2-5346-8eee-5b813e7b6687
+	fromColumn: fact_poblacion.anio
+	toColumn: dim_anio.anio
+
+relationship afe26a00-7b31-5097-a2d6-aeaebe101f05
+	fromColumn: dim_fecha.anio
+	toColumn: dim_anio.anio
+
+relationship 69543766-a4a7-5cf1-89f6-f99292174e51
+	fromColumn: fact_alerta_distrito.ubigeo
+	toColumn: dim_distrito.ubigeo
+
+relationship 527ff6ec-2af7-5a00-a476-10d6ab705be1
+	fromColumn: fact_alerta_distrito.modalidad_id
+	toColumn: dim_modalidad.modalidad_id
+
+relationship d7a95492-e471-52b1-b24d-75d6af6cd7a3
+	fromColumn: fact_salto_serie.mes_inicio
+	toColumn: dim_fecha.mes_inicio
+
+relationship 5176dc9a-26e7-5e9c-b502-f354eba383e6
+	fromColumn: fact_salto_serie.modalidad_id
+	toColumn: dim_modalidad.modalidad_id
+

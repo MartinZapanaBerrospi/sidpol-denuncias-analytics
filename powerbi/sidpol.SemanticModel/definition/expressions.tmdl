@@ -1,0 +1,6 @@
+/// Carpeta data/curated del repositorio, con barra final. Cámbiala al clonar el proyecto en otra ruta.
+expression RutaDatos = "C:\Users\marzabe\GitHub\sidpol-denuncias-analytics\data\curated\" meta [IsParameterQuery=true, Type="Text", IsParameterQueryRequired=true]
+	lineageTag: c0f3ef53-a915-589b-98c5-598b018f21a4
+
+	annotation PBI_ResultType = Text
+

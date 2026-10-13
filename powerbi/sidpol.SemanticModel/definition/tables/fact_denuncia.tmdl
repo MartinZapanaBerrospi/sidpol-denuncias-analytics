@@ -1,0 +1,61 @@
+/// Denuncias por mes, distrito y modalidad (2018-01 a 2026-07). Solo hay fila si hubo al menos una denuncia: la celda vacía equivale a cero.
+table fact_denuncia
+	lineageTag: 3337efd2-557a-54bd-bf15-882f6ce4854e
+
+	column mes_inicio
+		dataType: dateTime
+		isHidden
+		formatString: mmm yyyy
+		lineageTag: 305e0a34-78f4-5016-bdd5-cec0d4e148f7
+		summarizeBy: none
+		sourceColumn: mes_inicio
+
+		annotation SummarizationSetBy = Automatic
+
+	column ubigeo
+		dataType: string
+		isHidden
+		lineageTag: 0a7142fd-dccc-5b26-b9a7-5fb912850661
+		summarizeBy: none
+		sourceColumn: ubigeo
+
+		annotation SummarizationSetBy = Automatic
+
+	column modalidad_id
+		dataType: int64
+		isHidden
+		lineageTag: e0ebfce8-7dcb-50fc-8759-24166d67b58d
+		summarizeBy: none
+		sourceColumn: modalidad_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column cantidad
+		dataType: int64
+		isHidden
+		lineageTag: a6966887-2e3e-5b5b-8263-4ea4360ebc40
+		summarizeBy: none
+		sourceColumn: cantidad
+
+		annotation SummarizationSetBy = Automatic
+
+	column celda_atipica
+		dataType: int64
+		isHidden
+		lineageTag: 191c07b2-ef64-5fe3-b005-363f559bfb3b
+		summarizeBy: none
+		sourceColumn: celda_atipica
+
+		annotation SummarizationSetBy = Automatic
+
+	partition fact_denuncia = m
+		mode: import
+		source =
+				let
+				    Origen = Csv.Document(File.Contents(RutaDatos & "fact_denuncia.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Encabezados = Table.PromoteHeaders(Origen, [PromoteAllScalars=true]),
+				    Tipos = Table.TransformColumnTypes(Encabezados, {{"mes_inicio", type date}, {"ubigeo", type text}, {"modalidad_id", Int64.Type}, {"cantidad", Int64.Type}, {"celda_atipica", Int64.Type}}, "en-US")
+				in
+				    Tipos
+
+	annotation PBI_ResultType = Table
